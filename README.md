@@ -74,7 +74,7 @@
 
 建议适用范围: 期末时评教
 
-使用条件: Python 3.6 or later; 接入校园网;
+使用条件: Python 3.6 or later; 接入校园网
 
 网址: https://github.com/EugeneJie/AutoEvaluate
 
@@ -98,7 +98,7 @@
 
 建议适用范围: 本科生每日健康打卡
 
-使用条件: Python 3.7 or later; Python module requests;
+使用条件: Python 3.7 or later; Python module requests
 
 网址: https://github.com/TechCiel/jlu-health-reporter
 
@@ -297,3 +297,4 @@ Demo2: https://ciel.dev/yuci/
 使用条件: Python
 
 网址: https://github.com/SAGIRI-kawaii/SNLCompiler
+
