@@ -7,12 +7,21 @@
 [汇总页](#汇总页) || 
 [一键评教](#一键评教) || 
 [快捷评教](#快捷评教) || 
-[吉林大学通知爬虫](#吉林大学通知爬虫) || 
-[本科生每日健康打卡](#本科生每日健康打卡) || 
+[通知爬虫](#通知爬虫) || 
+[选课助手](#选课助手) || 
+[健康打卡](#健康打卡) || 
+[批量健康打卡](#批量健康打卡) || 
+[批量健康打卡-tgbot](#批量健康打卡-tgbot) || 
 [浴池预约结果页面临摹(类似截图生成器)](#浴池预约结果页面临摹类似截图生成器) || 
-[VPN](#VPN) || 
-[Drcom](#Drcom) || 
+[VPN-URL](#VPN-URL) || 
+[http-proxy](#http-proxy) || 
+[Drcom-win32](#Drcom-win32) || 
+[Drcom-Service-CSharp](#Drcom-Service-CSharp) || 
+[Drcom-Qt](#Drcom-Qt) || 
+[Drcom-Golang](#Drcom-Golang) || 
+[Drcom-Client](#Drcom-Client) || 
 `计算机图形学` [SetPixel](#SetPixel) || 
+`程序设计基础` [程序设计基础](#程序设计基础) || 
 `大学计算机基础` [Unity-游戏](#Unity-游戏) || 
 `数据结构` [队列](#队列) || 
 `数据结构` [Sort-Compare-排序](#Sort-Compare-排序) || 
@@ -25,6 +34,7 @@
 `空间解析几何` [浅谈几何学与计算机的交叉应用](#浅谈几何学与计算机的交叉应用) || 
 `基础物理实验` [实验报告](#实验报告) || 
 `算法` [红黑树](#红黑树) || 
+`面向对象程序设计` [每周练习](#每周练习) || 
 `面向对象程序设计` [oop](#oop) || 
 `操作系统` [oslab-基于反馈排队算法的cpu调度的模拟实现](#oslab-基于反馈排队算法的cpu调度的模拟实现) || 
 `程序设计综合课` [KingZ](#KingZ) || 
@@ -63,7 +73,7 @@
 
 网址: https://github.com/TechCiel/jlu-uims-assess
 
-#### 吉林大学通知爬虫
+#### 通知爬虫
 
 建议适用范围: 计算机相关爱好者
 
@@ -71,13 +81,37 @@
 
 网址: https://github.com/TechCiel/Reachee
 
-#### 本科生每日健康打卡
+#### 选课助手
+
+建议适用范围: 计算机相关爱好者
+
+使用条件: Python
+
+网址: https://github.com/42binwang/jlu_selectCourse_helper
+
+#### 健康打卡
 
 建议适用范围: 本科生每日健康打卡
 
-使用条件: Python 3.7 or later; Python module requests
+使用条件: Python 3.7 or later; Python module requests;
 
 网址: https://github.com/TechCiel/jlu-health-reporter
+
+#### 批量健康打卡
+
+建议适用范围: 本科生每日健康打卡
+
+使用条件: Go
+
+网址: https://github.com/Yesterday17/jlu-batch-health
+
+#### 批量健康打卡-tgbot
+
+建议适用范围: 本科生每日健康打卡
+
+使用条件: Go; 服务器或类似设备; Telegram
+
+网址: https://github.com/Yesterday17/jlu-health-bot
 
 #### 浴池预约结果页面临摹(类似截图生成器)
 
@@ -91,7 +125,7 @@ Demo1: https://techciel.github.io/jlu-yuci/
 
 Demo2: https://ciel.dev/yuci/
 
-#### VPN
+#### VPN-URL
 
 建议适用范围: 非校园网网络环境
 
@@ -99,13 +133,53 @@ Demo2: https://ciel.dev/yuci/
 
 网址: https://github.com/MerlynAllen/JLU-VPN
 
-#### Drcom
+#### http-proxy
+
+建议适用范围: 非校园网网络环境
+
+使用条件: Go
+
+网址: https://github.com/Yesterday17/jlu-http-proxy
+
+#### Drcom-win32
+
+建议适用范围: 没有路由器的情况下使用台式机链接有线, Windows 32-bit
+
+使用条件: Windows
+
+网址: https://github.com/code4lala/dr-jlu-win32
+
+#### Drcom-Service-CSharp
+
+建议适用范围: 没有路由器的情况下使用台式机链接有线,设置为 Windows 服务
+
+使用条件: Windows
+
+网址: https://github.com/Yesterday17/JLUDrcomService
+
+#### Drcom-Qt
+
+建议适用范围: 没有路由器的情况下使用台式机链接有线
+
+使用条件: Windows or Linux
+
+网址: https://github.com/code4lala/drcom-jlu-qt
+
+#### Drcom-Golang
 
 建议适用范围: 计算机相关爱好者
 
-使用条件: 路由器或类似设备
+使用条件: 路由器或类似设备; Golang	
 
 网址: https://github.com/Yesterday17/go-drcom-jlu
+
+#### Drcom-Client
+
+建议适用范围: 计算机相关爱好者
+
+使用条件: 路由器或类似设备; Python; C
+
+网址: https://github.com/ly0/jlu-drcom-client
 
 ## 课程学习
 
@@ -118,6 +192,14 @@ Demo2: https://ciel.dev/yuci/
 网址: https://github.com/userElaina/jlu-computer-graphics
 
 ## 大作业
+
+#### 程序设计基础
+
+建议适用范围: 计软大一上 `程序设计基础` 作业
+
+使用条件: C; cJSON
+
+网址: https://github.com/Yesterday17/ProgramDesignHomework
 
 #### Unity-游戏
 
@@ -214,6 +296,14 @@ Demo2: https://ciel.dev/yuci/
 使用条件: C++
 
 网址: https://github.com/ZuoTiJia/datastruct
+
+#### 每周练习
+
+建议适用范围: 计软大二上 `面向对象程序设计` 作业
+
+使用条件: C++
+
+网址: https://github.com/Yesterday17/JLUOOPClassWork
 
 #### oop
 
