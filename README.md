@@ -2,8 +2,6 @@
 
 汇总了关于如何在吉林大学生存的相关仓库.
 
-![Outlast: Jilin University DLC](https://user-images.githubusercontent.com/80948381/133450364-e94a8ff8-58cf-4e1f-81b5-39451e35ebb3.png)
-
 ## 目录
 
 [汇总页](#汇总页) || 
@@ -34,6 +32,10 @@
 `计算机网络` [Raw-Socket-文件传输服务器](#Raw-Socket-文件传输服务器) || 
 `网络程序设计` [ChatSystem](#ChatSystem) || 
 `编译原理` [词法分析-递归下降](#词法分析-递归下降) || 
+
+## 封面
+
+![Outlast: Jilin University DLC](https://user-images.githubusercontent.com/80948381/133450364-e94a8ff8-58cf-4e1f-81b5-39451e35ebb3.png)
 
 ## 工具
 
