@@ -20,7 +20,7 @@
 
 [浴池预约结果页面临摹(类似截图生成器)](#浴池预约结果页面临摹类似截图生成器)
 
-[VPN](VPN)
+[VPN](#VPN)
 
 [Drcom](#Drcom)
 
@@ -30,21 +30,21 @@
 
 [`数据结构` 队列](#队列)
 
-[`数据结构` Sort Compare-排序](#SortCompare-排序)
+[`数据结构` Sort Compare-排序](#Sort Compare-排序)
 
-[`数据结构` Binary Tree-二叉树](#BinaryTree-二叉树)
+[`数据结构` Binary Tree-二叉树](#Binary Tree-二叉树)
 
-[`数据结构` Graph List-图论](#GraphList-图论)
+[`数据结构` Graph List-图论](#Graph List-图论)
 
 [`数据结构` Huffman-qwq-哈夫曼-压缩软件](#Huffman-qwq-哈夫曼-压缩软件)
 
-[`数据结构` Keven Bacon-六度分离假说](#KevenBacon-六度分离假说)
+[`数据结构` Keven Bacon-六度分离假说](#Keven Bacon-六度分离假说)
 
 [`数据结构` Nogo-不围棋](#Nogo-不围棋)
 
 [`数据结构` Snake-蛇](#Snake-蛇)
 
-[`数据结构` Keven Bacon-六度分离假说](#KevenBacon-六度分离假说)
+[`数据结构` Keven Bacon-六度分离假说](#Keven Bacon-六度分离假说)
 
 [`空间解析几何` 浅谈几何学与计算机的交叉应用](#浅谈几何学与计算机的交叉应用)
 
@@ -60,7 +60,7 @@
 
 [`Java` 网盘](#网盘)
 
-[`计算机网络` 使用 Raw Socket-实现文件传输服务器](#使用RawSocket-实现文件传输服务器)
+[`计算机网络` 使用 Raw Socket-实现文件传输服务器](#使用 Raw Socket-实现文件传输服务器)
 
 [`网络程序设计` ChatSystem](#ChatSystem)
 
