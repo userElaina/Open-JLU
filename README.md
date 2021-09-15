@@ -2,8 +2,6 @@
 
 汇总了关于如何在吉林大学生存的相关仓库.
 
-排序方式无关.
-
 ## 目录
 
 [汇总页](#汇总页) || 
@@ -41,7 +39,9 @@
 
 建议适用范围: 所有正常人
 
-使用条件: 能访问 网址: https://github.com/userElaina/Outlast-JLU-DLC
+使用条件: 能访问 
+
+网址: https://github.com/userElaina/Outlast-JLU-DLC
 
 #### 一键评教
 
