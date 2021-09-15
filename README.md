@@ -1,6 +1,8 @@
-# Outlast-JLU-DLC
+# Outlast: Jilin University DLC
 
 汇总了关于如何在吉林大学生存的相关仓库.
+
+![Outlast: Jilin University DLC](https://user-images.githubusercontent.com/80948381/133450364-e94a8ff8-58cf-4e1f-81b5-39451e35ebb3.png)
 
 ## 目录
 
