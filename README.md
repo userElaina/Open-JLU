@@ -559,7 +559,7 @@ Repository: https://github.com/kvrmnks/Cvarpe
 
 建议适用范围: 计软大三上必修课 `计算机网络` 作业
 
-环境依赖: Linux; CMake
+环境依赖: server; Linux
 
 Repository: https://github.com/kaaass/cs-network-proj
 
@@ -610,6 +610,34 @@ Repository: https://github.com/yang-er/DesignPattern
 环境依赖: Python
 
 Repository: https://github.com/XuanLaoYee/ML-Cat-Dog
+
+## 备注
+
+环境依赖可能因整理者不小心、软件包更新等原因有所出入，请以实际为准。
+
+### 名词解释
+
+正常浏览器: 指 [Chrome](https://www.google.com/intl/en/chrome/), [Firefox](https://www.mozilla.org/en-US/firefox/new/) 等. 不包括 [Tor](https://www.torproject.org/download/), 2345浏览器等.
+
+正常搜索引擎: 指 [Google](https://www.google.com/), [DuckDuckGo](https://duckduckgo.com/) 等. 不包括 [Baidu](https://www.baidu.com/), [360搜索](https://www.so.com/) 等广告搜索引擎或 [Wikipedia](https://www.wikipedia.org/), [GitHub](https://github.com/) 的内部搜索引擎.
+
+正常网络: 指能正常访问 [Google](https://www.google.com/), [Wikipedia](https://www.wikipedia.org/) 等的网络.
+
+校园网: 指我校校园网,可直接访问 [UIMS](https://uims.jlu.edu.cn/ntms/) 等校内网站. 与外面推销的 `校园手机卡` 无关.
+
+Python: 若无特殊说明, 均指 [Python3](https://www.python.org/) .
+
+### 反馈
+
+PR(若能)(十分建议)
+
+Issue(建议)
+
+邮箱(建议): userElaina@Gmail.com
+
+Telegram(建议): [@userElaina](https://t.me/userElaina)
+
+QQ(不建议): 1072674074
 
 ## 大佬%%%
 
