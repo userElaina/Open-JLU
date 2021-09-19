@@ -1,6 +1,6 @@
 # Outlast: Jilin University DLC
 
-汇总了关于如何在吉林大学生存的相关Repository.
+汇总了关于如何在吉林大学生存的Repository.
 
 ## 目录
 
