@@ -20,7 +20,7 @@
 [Drcom-Qt](#Drcom-Qt) || 
 [Drcom-Golang](#Drcom-Golang) || 
 [Drcom-Client](#Drcom-Client) || 
-`面向对象程序设计` [oop](#oop) || 
+`面向对象程序设计` [oop-notes](#oop-notes) || 
 `计算机图形学` [SetPixel](#SetPixel) || 
 `程序设计基础` [程序设计基础](#程序设计基础) || 
 `大学计算机基础` [Unity-游戏](#Unity-游戏) || 
@@ -30,6 +30,7 @@
 `数据结构` [Nogo-不围棋](#Nogo-不围棋) || 
 `数据结构` [Snake-蛇](#Snake-蛇) || 
 `空间解析几何` [浅谈几何学与计算机的交叉应用](#浅谈几何学与计算机的交叉应用) || 
+`机器学习与Python` [Machine-Learning-and-Python](#Machine-Learning-and-Python) || 
 `基础物理实验` [实验报告](#实验报告) || 
 `算法` [红黑树](#红黑树) || 
 `面向对象程序设计` [每周练习](#每周练习) || 
@@ -181,17 +182,17 @@ Demo2: https://ciel.dev/yuci/
 
 ## 课程学习
 
-#### oop
+#### oop-notes
 
-建议适用范围: 计软大二上 `面向对象程序设计` 笔记
+建议适用范围: 计软大二上必修课 `面向对象程序设计` 笔记
 
 使用条件: C++
 
-网址: https://github.com/userElaina/oop
+网址: https://github.com/userElaina/oop-notes
 
 #### SetPixel
 
-建议适用范围: 计软大三上 `计算机图形学` 课程学习
+建议适用范围: 计软大三上必修课 `计算机图形学` 课程学习
 
 使用条件: C++
 
@@ -201,7 +202,7 @@ Demo2: https://ciel.dev/yuci/
 
 #### 程序设计基础
 
-建议适用范围: 计软大一上 `程序设计基础` 作业
+建议适用范围: 计软大一上必修课 `程序设计基础` 作业
 
 使用条件: C; cJSON
 
@@ -209,7 +210,7 @@ Demo2: https://ciel.dev/yuci/
 
 #### Unity-游戏
 
-建议适用范围: 非计软大一下 `大学计算机基础` 作业
+建议适用范围: 非计软大一下必修课 `大学计算机基础` 作业
 
 使用条件: 卷怪
 
@@ -217,7 +218,7 @@ Demo2: https://ciel.dev/yuci/
 
 #### Others
 
-建议适用范围: 计软大一下 `数据结构` 作业
+建议适用范围: 计软大一下必修课 `数据结构` 作业
 
 使用条件: C++
 
@@ -225,7 +226,7 @@ Demo2: https://ciel.dev/yuci/
 
 #### Huffman-qwq-哈夫曼-压缩软件
 
-建议适用范围: 计软大一下 `数据结构` 作业
+建议适用范围: 计软大一下必修课 `数据结构` 作业
 
 使用条件: C++
 
@@ -233,7 +234,7 @@ Demo2: https://ciel.dev/yuci/
 
 #### Keven-Bacon-六度分离假说
 
-建议适用范围: 计软大一下 `数据结构` 作业
+建议适用范围: 计软大一下必修课 `数据结构` 作业
 
 使用条件: Python3.6 or later; Jupyter notebook
 
@@ -241,7 +242,7 @@ Demo2: https://ciel.dev/yuci/
 
 #### Nogo-不围棋
 
-建议适用范围: 计软大一下 `数据结构` 作业
+建议适用范围: 计软大一下必修课 `数据结构` 作业
 
 使用条件: C++; 会用Botzone
 
@@ -249,7 +250,7 @@ Demo2: https://ciel.dev/yuci/
 
 #### Snake-蛇
 
-建议适用范围: 计软大一下 `数据结构` 作业
+建议适用范围: 计软大一下必修课 `数据结构` 作业
 
 使用条件: C++; 会用Botzone
 
@@ -257,15 +258,23 @@ Demo2: https://ciel.dev/yuci/
 
 #### 浅谈几何学与计算机的交叉应用
 
-建议适用范围: 计软大一下 `空间解析几何` 作业
+建议适用范围: 计软大一下必修课 `空间解析几何` 作业
 
 使用条件: C++
 
 网址: https://github.com/userElaina/analytic-geometry
 
+#### Machine-Learning-and-Python
+
+建议适用范围: 大一下选修课 `机器学习与Python` 作业
+
+使用条件: Python 3.7 or later
+
+网址: https://github.com/userElaina/ML-and-Py
+
 #### 实验报告
 
-建议适用范围: 很多学院大二上 `基础物理实验` 作业
+建议适用范围: 很多学院大二上必修课 `基础物理实验` 作业
 
 使用条件: 有手
 
@@ -273,7 +282,7 @@ Demo2: https://ciel.dev/yuci/
 
 #### 红黑树
 
-建议适用范围: 计软大二上 `算法` 作业
+建议适用范围: 计软大二上必修课 `算法` 作业
 
 使用条件: C++
 
@@ -281,7 +290,7 @@ Demo2: https://ciel.dev/yuci/
 
 #### 每周练习
 
-建议适用范围: 计软大二上 `面向对象程序设计` 作业
+建议适用范围: 计软大二上必修课 `面向对象程序设计` 作业
 
 使用条件: C++
 
@@ -289,7 +298,7 @@ Demo2: https://ciel.dev/yuci/
 
 #### oop
 
-建议适用范围: 计软大二上 `面向对象程序设计` 作业
+建议适用范围: 计软大二上必修课 `面向对象程序设计` 作业
 
 使用条件: C++
 
@@ -297,7 +306,7 @@ Demo2: https://ciel.dev/yuci/
 
 #### oslab-基于反馈排队算法的cpu调度的模拟实现
 
-建议适用范围: 计软大二下 `操作系统` 作业
+建议适用范围: 计软大二下必修课 `操作系统` 作业
 
 使用条件: Python 3.6 or later
 
@@ -305,7 +314,7 @@ Demo2: https://ciel.dev/yuci/
 
 #### KingZ
 
-建议适用范围: 计软大二下 `程序设计综合课` 作业
+建议适用范围: 计软大二下必修课 `程序设计综合课` 作业
 
 使用条件: Python 3.6 or later; C++; Python module fastgui
 
@@ -317,7 +326,7 @@ Demo2: https://ciel.dev/yuci/
 
 #### 网盘
 
-建议适用范围: 计软大二下 `Java` 作业
+建议适用范围: 计软大二下必修课 `Java` 作业
 
 使用条件: Java
 
@@ -325,7 +334,7 @@ Demo2: https://ciel.dev/yuci/
 
 #### Raw-Socket-文件传输服务器
 
-建议适用范围: 计软大三上 `计算机网络` 作业
+建议适用范围: 计软大三上必修课 `计算机网络` 作业
 
 使用条件: Linux; CMake
 
@@ -333,7 +342,7 @@ Demo2: https://ciel.dev/yuci/
 
 #### ChatSystem
 
-建议适用范围: 计软大三下 `网络程序设计` 作业
+建议适用范围: 计软大三下选修课 `网络程序设计` 作业
 
 使用条件: Python
 
@@ -341,8 +350,9 @@ Demo2: https://ciel.dev/yuci/
 
 #### 词法分析-递归下降
 
-建议适用范围: 计软大三下 `编译原理` 作业
+建议适用范围: 计软大三下必修课 `编译原理` 作业
 
 使用条件: Python
 
 网址: https://github.com/SAGIRI-kawaii/SNLCompiler
+
