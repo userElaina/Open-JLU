@@ -1,6 +1,6 @@
 # Outlast: Jilin University DLC
 
-汇总了关于如何在吉林大学生存的Repository.
+汇总了关于如何在吉林大学生存的相关Repository.
 
 ## 目录
 
@@ -77,7 +77,7 @@
 
 建议适用范围: 所有正常人
 
-使用条件: 能访问 
+环境依赖: 能访问 [GitHub](https://github.com/)
 
 Repository: https://github.com/userElaina/Outlast-JLU-DLC
 
@@ -85,7 +85,7 @@ Repository: https://github.com/userElaina/Outlast-JLU-DLC
 
 建议适用范围: 浴池预约结果页面临摹(类似截图生成器)
 
-使用条件: 想洗澡
+环境依赖: 正常浏览器
 
 Repository: https://github.com/TechCiel/jlu-yuci
 
@@ -99,7 +99,7 @@ Demo2: https://ciel.dev/yuci/
 
 建议适用范围: ACM
 
-使用条件: server
+环境依赖: server
 
 Repository: https://github.com/yang-er/joj-old
 
@@ -107,7 +107,7 @@ Repository: https://github.com/yang-er/joj-old
 
 建议适用范围: ACM, Windows 32-bit
 
-使用条件: server
+环境依赖: server
 
 Repository: https://github.com/yang-er/joj-win32
 
@@ -115,7 +115,7 @@ Repository: https://github.com/yang-er/joj-win32
 
 建议适用范围: ACM
 
-使用条件: server
+环境依赖: server
 
 Repository: https://github.com/yang-er/OnlineJudge
 
@@ -125,7 +125,7 @@ Repository: https://github.com/yang-er/OnlineJudge
 
 建议适用范围: 期末时评教
 
-使用条件: Python 3.6 or later; 接入校园网
+环境依赖: Python 3.6 or later; 校园网
 
 Repository: https://github.com/EugeneJie/AutoEvaluate
 
@@ -133,7 +133,7 @@ Repository: https://github.com/EugeneJie/AutoEvaluate
 
 建议适用范围: 期末时评教
 
-使用条件: Chrome, Firefox 等正常浏览器; 会进Console
+环境依赖: 正常浏览器; 会进Console
 
 Repository: https://github.com/TechCiel/jlu-uims-assess
 
@@ -141,7 +141,7 @@ Repository: https://github.com/TechCiel/jlu-uims-assess
 
 建议适用范围: 计算机相关爱好者
 
-使用条件: Python
+环境依赖: Python
 
 Repository: https://github.com/42binwang/jlu_selectCourse_helper
 
@@ -149,15 +149,13 @@ Repository: https://github.com/42binwang/jlu_selectCourse_helper
 
 建议适用范围: 计算机相关爱好者
 
-使用条件: 想要访问UIMS
-
 Repository: https://github.com/yang-er/FakeUIMS
 
 #### 掌上校园
 
 建议适用范围: 日常
 
-使用条件: 有智能设备
+环境依赖: Android or iOS
 
 Repository: https://github.com/yang-er/HandSchool
 
@@ -167,7 +165,7 @@ Repository: https://github.com/yang-er/HandSchool
 
 建议适用范围: 计算机相关爱好者
 
-使用条件: Python 3.6 or later; Python module requests beautifulsoup4; 服务器或类似设备; Telegram或类似平台
+环境依赖: Python 3.6 or later; Python module requests beautifulsoup4; 服务器或类似设备; Telegram或类似平台
 
 Repository: https://github.com/TechCiel/Reachee
 
@@ -177,7 +175,7 @@ Repository: https://github.com/TechCiel/Reachee
 
 建议适用范围: 本科生每日健康打卡
 
-使用条件: Python 3.7 or later; Python module requests;
+环境依赖: Python 3.7 or later; Python module requests;
 
 Repository: https://github.com/TechCiel/jlu-health-reporter
 
@@ -185,7 +183,7 @@ Repository: https://github.com/TechCiel/jlu-health-reporter
 
 建议适用范围: 本科生每日健康打卡
 
-使用条件: Go
+环境依赖: Go
 
 Repository: https://github.com/Yesterday17/jlu-batch-health
 
@@ -193,7 +191,7 @@ Repository: https://github.com/Yesterday17/jlu-batch-health
 
 建议适用范围: 本科生每日健康打卡
 
-使用条件: Go; 服务器或类似设备; Telegram
+环境依赖: Go; 服务器或类似设备; Telegram
 
 Repository: https://github.com/Yesterday17/jlu-health-bot
 
@@ -203,7 +201,7 @@ Repository: https://github.com/Yesterday17/jlu-health-bot
 
 建议适用范围: 非校园网网络环境
 
-使用条件: 会输入Repository
+环境依赖: 正常浏览器; 会手动输入URL
 
 Repository: https://github.com/MerlynAllen/JLU-VPN
 
@@ -211,7 +209,7 @@ Repository: https://github.com/MerlynAllen/JLU-VPN
 
 建议适用范围: 非校园网网络环境
 
-使用条件: 会打开网页
+环境依赖: 正常浏览器
 
 Repository: https://github.com/MerlynAllen/jlu-vpns-dokodemo-door
 
@@ -219,7 +217,7 @@ Repository: https://github.com/MerlynAllen/jlu-vpns-dokodemo-door
 
 建议适用范围: 非校园网网络环境
 
-使用条件: Go
+环境依赖: Go
 
 Repository: https://github.com/Yesterday17/jlu-http-proxy
 
@@ -229,7 +227,7 @@ Repository: https://github.com/Yesterday17/jlu-http-proxy
 
 建议适用范围: 链接有线校园网, Windows 32-bit
 
-使用条件: Windows
+环境依赖: Windows
 
 Repository: https://github.com/code4lala/dr-jlu-win32
 
@@ -237,7 +235,7 @@ Repository: https://github.com/code4lala/dr-jlu-win32
 
 建议适用范围: 链接有线校园网
 
-使用条件: Windows
+环境依赖: Windows
 
 Repository: https://github.com/hyec/drcomlite
 
@@ -245,7 +243,7 @@ Repository: https://github.com/hyec/drcomlite
 
 建议适用范围: 链接有线校园网
 
-使用条件: Windows
+环境依赖: Windows
 
 Repository: https://github.com/yang-er/jlu-drcom-csharp
 
@@ -253,7 +251,7 @@ Repository: https://github.com/yang-er/jlu-drcom-csharp
 
 建议适用范围: 链接有线网络,设置为 Windows 服务
 
-使用条件: Windows
+环境依赖: Windows
 
 Repository: https://github.com/Yesterday17/JLUDrcomService
 
@@ -261,7 +259,7 @@ Repository: https://github.com/Yesterday17/JLUDrcomService
 
 建议适用范围: 链接有线校园网
 
-使用条件: Windows or Linux
+环境依赖: Windows or Linux
 
 Repository: https://github.com/code4lala/drcom-jlu-qt
 
@@ -269,7 +267,7 @@ Repository: https://github.com/code4lala/drcom-jlu-qt
 
 建议适用范围: 计算机相关爱好者
 
-使用条件: 路由器或类似设备; Golang	
+环境依赖: 路由器或类似设备; Golang	
 
 Repository: https://github.com/Yesterday17/go-drcom-jlu
 
@@ -277,7 +275,7 @@ Repository: https://github.com/Yesterday17/go-drcom-jlu
 
 建议适用范围: 计算机相关爱好者
 
-使用条件: 路由器或类似设备; Python; C
+环境依赖: 路由器或类似设备; Python; C
 
 Repository: https://github.com/ly0/jlu-drcom-client
 
@@ -287,7 +285,7 @@ Repository: https://github.com/ly0/jlu-drcom-client
 
 建议适用范围: 毕业设计
 
-使用条件: LaTeX	
+环境依赖: LaTeX	
 
 Repository: https://github.com/KveinAxel/JLU-Beamer-Theme
 
@@ -297,7 +295,7 @@ Repository: https://github.com/KveinAxel/JLU-Beamer-Theme
 
 建议适用范围: 计软大二上必修课 `面向对象程序设计` 笔记
 
-使用条件: C++
+环境依赖: None
 
 Repository: https://github.com/userElaina/oop-notes
 
@@ -305,7 +303,7 @@ Repository: https://github.com/userElaina/oop-notes
 
 建议适用范围: 计软大三上必修课 `计算机图形学` 课程学习
 
-使用条件: C++
+环境依赖: C++
 
 Repository: https://github.com/userElaina/jlu-computer-graphics
 
@@ -315,7 +313,7 @@ Repository: https://github.com/userElaina/jlu-computer-graphics
 
 建议适用范围: 计软大一上必修课 `程序设计基础` 作业
 
-使用条件: C; cJSON
+环境依赖: C; cJSON
 
 Repository: https://github.com/Yesterday17/ProgramDesignHomework
 
@@ -323,7 +321,7 @@ Repository: https://github.com/Yesterday17/ProgramDesignHomework
 
 建议适用范围: 计软大一上必修课 `程序设计基础` 作业
 
-使用条件: C
+环境依赖: C
 
 Repository: https://github.com/EugeneJie/achievement
 
@@ -331,7 +329,7 @@ Repository: https://github.com/EugeneJie/achievement
 
 建议适用范围: 计软大一上必修课 `程序设计基础` 作业
 
-使用条件: C
+环境依赖: C
 
 Repository: https://github.com/yang-er/FruitMarket
 
@@ -339,7 +337,9 @@ Repository: https://github.com/yang-er/FruitMarket
 
 建议适用范围: 非计软大一下必修课 `大学计算机基础` 作业
 
-使用条件: 卷怪
+环境依赖(使用成品): Windows or Linux with GUI
+
+环境依赖(使用代码): Unity; 卷怪
 
 Repository: https://github.com/Superbia-zyb/2D-Adventure
 
@@ -347,7 +347,7 @@ Repository: https://github.com/Superbia-zyb/2D-Adventure
 
 建议适用范围: 计软大一下必修课 `数据结构` 作业
 
-使用条件: C++
+环境依赖: C++
 
 Repository: https://github.com/userElaina/data-structrue
 
@@ -355,7 +355,9 @@ Repository: https://github.com/userElaina/data-structrue
 
 建议适用范围: 计软大一下必修课 `数据结构` 作业
 
-使用条件: C++
+环境依赖(使用成品): Windows, MacOS or Linux
+
+环境依赖(使用代码): C
 
 Repository: https://github.com/userElaina/naive-Huffman
 
@@ -363,7 +365,7 @@ Repository: https://github.com/userElaina/naive-Huffman
 
 建议适用范围: 计软大一下必修课 `数据结构` 作业
 
-使用条件: Python3.6 or later; Jupyter notebook
+环境依赖: Python3.6 or later; Jupyter notebook
 
 Repository: https://github.com/userElaina/Keven-Bacon
 
@@ -371,7 +373,7 @@ Repository: https://github.com/userElaina/Keven-Bacon
 
 建议适用范围: 计软大一下必修课 `数据结构` 作业
 
-使用条件: C++; 会用Botzone
+环境依赖: C++; 会用Botzone
 
 Repository: https://github.com/Superbia-zyb/NoGo-AIBot
 
@@ -379,7 +381,7 @@ Repository: https://github.com/Superbia-zyb/NoGo-AIBot
 
 建议适用范围: 计软大一下必修课 `数据结构` 作业
 
-使用条件: C++; 会用Botzone
+环境依赖: C++; 会用Botzone
 
 Repository: https://github.com/Subsegment/nogo
 
@@ -387,7 +389,7 @@ Repository: https://github.com/Subsegment/nogo
 
 建议适用范围: 计软大一下必修课 `数据结构` 作业
 
-使用条件: C++; 会用Botzone
+环境依赖: C++; 会用Botzone
 
 Repository: https://github.com/Superbia-zyb/Snake-AIBot
 
@@ -395,7 +397,7 @@ Repository: https://github.com/Superbia-zyb/Snake-AIBot
 
 建议适用范围: 计软大一下必修课 `数据结构` 作业
 
-使用条件: server; 卷怪
+环境依赖: server; 卷怪
 
 Repository(Server): https://github.com/KveinAxel/TicketManageSystem
 
@@ -405,7 +407,9 @@ Repository(前端): https://github.com/KveinAxel/TicketManageSystemFrontEnd
 
 建议适用范围: 计软大一下必修课 `数据结构` 作业
 
-使用条件: server； 卷怪
+环境依赖(使用成品): Unknown
+
+环境依赖(使用代码): server; C; 卷怪
 
 Repository(Server): https://github.com/KveinAxel/NewsBlockChain
 
@@ -417,7 +421,9 @@ Repository(前端): https://github.com/KveinAxel/NewsBlockChainFrontEnd
 
 建议适用范围: 计软大一下必修课 `空间解析几何` 作业
 
-使用条件: C++
+环境依赖(使用成品): None
+
+环境依赖(使用代码): C++
 
 Repository: https://github.com/userElaina/analytic-geometry
 
@@ -425,7 +431,7 @@ Repository: https://github.com/userElaina/analytic-geometry
 
 建议适用范围: 大一下选修课 `机器学习与Python` 作业
 
-使用条件: Python 3.7 or later
+环境依赖: Python 3.7 or later
 
 Repository: https://github.com/userElaina/ML-and-Py
 
@@ -433,7 +439,7 @@ Repository: https://github.com/userElaina/ML-and-Py
 
 建议适用范围: 很多学院大二上必修课 `基础物理实验` 作业
 
-使用条件: 有手
+环境依赖: None
 
 Repository: https://github.com/userElaina/jlu-physics-lab-repor
 
@@ -441,7 +447,7 @@ Repository: https://github.com/userElaina/jlu-physics-lab-repor
 
 建议适用范围: 计软大二上必修课 `算法` 作业
 
-使用条件: C++
+环境依赖: C++
 
 Repository: https://github.com/ZuoTiJia/datastruct
 
@@ -449,7 +455,7 @@ Repository: https://github.com/ZuoTiJia/datastruct
 
 建议适用范围: 计软大二上必修课 `面向对象程序设计` 作业
 
-使用条件: C++
+环境依赖: C++
 
 Repository: https://github.com/Yesterday17/JLUOOPClassWork
 
@@ -457,7 +463,7 @@ Repository: https://github.com/Yesterday17/JLUOOPClassWork
 
 建议适用范围: 计软大二上必修课 `面向对象程序设计` 作业
 
-使用条件: C++
+环境依赖: C++
 
 Repository: https://github.com/ZuoTiJia/cppHomework
 
@@ -465,7 +471,7 @@ Repository: https://github.com/ZuoTiJia/cppHomework
 
 建议适用范围: 计软大二上必修课 `面向对象程序设计` 作业
 
-使用条件: C++
+环境依赖: C++
 
 Repository: https://github.com/yang-er/ChatMFC
 
@@ -473,7 +479,7 @@ Repository: https://github.com/yang-er/ChatMFC
 
 建议适用范围: 软工大二上必修课 `Html5` 作业
 
-使用条件: vue
+环境依赖: vue
 
 Repository: https://github.com/DctorWei1314/software_project_html
 
@@ -481,7 +487,7 @@ Repository: https://github.com/DctorWei1314/software_project_html
 
 建议适用范围: 软工大二上必修课 `软件工程` 作业
 
-使用条件: vue
+环境依赖: vue
 
 Repository: https://github.com/DctorWei1314/software_project_html
 
@@ -489,7 +495,7 @@ Repository: https://github.com/DctorWei1314/software_project_html
 
 建议适用范围: 计软大二下必修课 `操作系统` 作业
 
-使用条件: Python 3.6 or later
+环境依赖: Python 3.6 or later
 
 Repository: https://github.com/userElaina/oslab
 
@@ -497,7 +503,7 @@ Repository: https://github.com/userElaina/oslab
 
 建议适用范围: 计软大二下必修课 `程序设计综合课` 作业
 
-使用条件: C++; Nodejs
+环境依赖: C++; Nodejs
 
 Repository: https://github.com/yang-er/GraphCalculate
 
@@ -505,7 +511,9 @@ Repository: https://github.com/yang-er/GraphCalculate
 
 建议适用范围: 计软大二下必修课 `程序设计综合课` 作业
 
-使用条件: Python 3.6 or later; C++; Python module fastgui
+环境依赖(使用成品): Windows with GUI
+
+环境依赖(使用代码): Python 3.6 or later; C++; Python module fastgui
 
 Repository: https://github.com/userElaina/KingZ-game
 
@@ -517,7 +525,9 @@ Repository: https://github.com/userElaina/KingZ-game
 
 建议适用范围: 计软大二下必修课 `程序设计综合课` 作业
 
-使用条件: C++; Nodejs
+环境依赖(使用成品): 正常浏览器
+
+环境依赖(使用代码): C++; Nodejs
 
 Repository: https://github.com/YuhangQ/RiscvSimulator
 
@@ -525,7 +535,7 @@ Repository: https://github.com/YuhangQ/RiscvSimulator
 
 建议适用范围: 计软大二下必修课 `Java` 作业
 
-使用条件: Java
+环境依赖: Java
 
 Repository: https://github.com/yang-er/JavaExperiment
 
@@ -533,7 +543,7 @@ Repository: https://github.com/yang-er/JavaExperiment
 
 建议适用范围: 计软大二下必修课 `Java` 作业
 
-使用条件: Java
+环境依赖: Java
 
 Repository: https://github.com/EugeneJie/BookStore
 
@@ -541,7 +551,7 @@ Repository: https://github.com/EugeneJie/BookStore
 
 建议适用范围: 计软大二下必修课 `Java` 作业
 
-使用条件: Java
+环境依赖: Java
 
 Repository: https://github.com/kvrmnks/Cvarpe
 
@@ -549,7 +559,7 @@ Repository: https://github.com/kvrmnks/Cvarpe
 
 建议适用范围: 计软大三上必修课 `计算机网络` 作业
 
-使用条件: Linux; CMake
+环境依赖: Linux; CMake
 
 Repository: https://github.com/kaaass/cs-network-proj
 
@@ -557,7 +567,7 @@ Repository: https://github.com/kaaass/cs-network-proj
 
 建议适用范围: 计软大三上必修课 `数据库` 作业
 
-使用条件: Rust
+环境依赖: Rust
 
 Repository: https://github.com/DctorWei1314/simple_db
 
@@ -565,7 +575,7 @@ Repository: https://github.com/DctorWei1314/simple_db
 
 建议适用范围: 计软大三下选修课 `网络程序设计` 作业
 
-使用条件: Python
+环境依赖: Python
 
 Repository: https://github.com/SAGIRI-kawaii/ChatSystem
 
@@ -573,7 +583,7 @@ Repository: https://github.com/SAGIRI-kawaii/ChatSystem
 
 建议适用范围: 计软大三下必修课 `编译原理` 作业
 
-使用条件: Python
+环境依赖: Python
 
 Repository: https://github.com/SAGIRI-kawaii/SNLCompiler
 
@@ -581,7 +591,7 @@ Repository: https://github.com/SAGIRI-kawaii/SNLCompiler
 
 建议适用范围: 计软大四必修课 `系统软件综合实践` 作业
 
-使用条件: C++
+环境依赖: C++
 
 Repository: https://github.com/yang-er/DbEngine
 
@@ -589,7 +599,7 @@ Repository: https://github.com/yang-er/DbEngine
 
 建议适用范围: 计软大四必修课 `设计模式` 作业
 
-使用条件: C++
+环境依赖: C++
 
 Repository: https://github.com/yang-er/DesignPattern
 
@@ -597,7 +607,7 @@ Repository: https://github.com/yang-er/DesignPattern
 
 建议适用范围: 计软 `不知道什么课` 作业
 
-使用条件: Python
+环境依赖: Python
 
 Repository: https://github.com/XuanLaoYee/ML-Cat-Dog
 
@@ -612,3 +622,4 @@ Alex [GitHub](https://github.com/AlexCSTech)
 Superbia [GitHub](https://github.com/Superbia-zyb)
 
 MerlynAllen [GitHub](https://github.com/MerlynAllen)
+
