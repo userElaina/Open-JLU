@@ -23,8 +23,9 @@
 `面向对象程序设计` [oop-notes](#oop-notes) || 
 `计算机图形学` [SetPixel](#SetPixel) || 
 `程序设计基础` [程序设计基础](#程序设计基础) || 
+`程序设计基础` [学生成绩管理系统](#学生成绩管理系统) || 
 `大学计算机基础` [Unity-游戏](#Unity-游戏) || 
-`数据结构` [Others](#Others) || 
+`数据结构` [简单的作业](#简单的作业) || 
 `数据结构` [Huffman-qwq-哈夫曼-压缩软件](#Huffman-qwq-哈夫曼-压缩软件) || 
 `数据结构` [Keven-Bacon-六度分离假说](#Keven-Bacon-六度分离假说) || 
 `数据结构` [Nogo-不围棋](#Nogo-不围棋) || 
@@ -35,8 +36,10 @@
 `算法` [红黑树](#红黑树) || 
 `面向对象程序设计` [每周练习](#每周练习) || 
 `面向对象程序设计` [oop](#oop) || 
-`操作系统` [oslab-基于反馈排队算法的cpu调度的模拟实现](#oslab-基于反馈排队算法的cpu调度的模拟实现) || 
-`程序设计综合课` [KingZ](#KingZ) || 
+`操作系统` [基于反馈排队算法的cpu调度的模拟实现](#基于反馈排队算法的cpu调度的模拟实现) || 
+`程序设计综合课` [KingZ-人机对战游戏](#KingZ-人机对战游戏) || 
+`程序设计综合课` [Risc-V解释器](#Risc-V解释器) || 
+`Java` [书店](#书店) || 
 `Java` [网盘](#网盘) || 
 `计算机网络` [Raw-Socket-文件传输服务器](#Raw-Socket-文件传输服务器) || 
 `网络程序设计` [ChatSystem](#ChatSystem) || 
@@ -208,6 +211,14 @@ Demo2: https://ciel.dev/yuci/
 
 网址: https://github.com/Yesterday17/ProgramDesignHomework
 
+#### 学生成绩管理系统
+
+建议适用范围: 计软大一上必修课 `程序设计基础` 作业
+
+使用条件: C
+
+网址: https://github.com/EugeneJie/achievement
+
 #### Unity-游戏
 
 建议适用范围: 非计软大一下必修课 `大学计算机基础` 作业
@@ -216,7 +227,7 @@ Demo2: https://ciel.dev/yuci/
 
 网址: https://github.com/Superbia-zyb/2D-Adventure
 
-#### Others
+#### 简单的作业
 
 建议适用范围: 计软大一下必修课 `数据结构` 作业
 
@@ -304,7 +315,7 @@ Demo2: https://ciel.dev/yuci/
 
 网址: https://github.com/ZuoTiJia/cppHomework
 
-#### oslab-基于反馈排队算法的cpu调度的模拟实现
+#### 基于反馈排队算法的cpu调度的模拟实现
 
 建议适用范围: 计软大二下必修课 `操作系统` 作业
 
@@ -312,7 +323,7 @@ Demo2: https://ciel.dev/yuci/
 
 网址: https://github.com/userElaina/oslab
 
-#### KingZ
+#### KingZ-人机对战游戏
 
 建议适用范围: 计软大二下必修课 `程序设计综合课` 作业
 
@@ -322,7 +333,23 @@ Demo2: https://ciel.dev/yuci/
 
 依赖: https://github.com/userElaina/fastgui
 
-(依赖库也可作为作业代码)
+(依赖库也作为作业代码)
+
+#### Risc-V解释器
+
+建议适用范围: 计软大二下必修课 `程序设计综合课` 作业
+
+使用条件: C++; Nodejs
+
+网址: https://github.com/YuhangQ/RiscvSimulator
+
+#### 书店
+
+建议适用范围: 计软大二下必修课 `Java` 作业
+
+使用条件: Java
+
+网址: https://github.com/EugeneJie/BookStore
 
 #### 网盘
 
@@ -356,3 +383,6 @@ Demo2: https://ciel.dev/yuci/
 
 网址: https://github.com/SAGIRI-kawaii/SNLCompiler
 
+## 大佬%%%
+
+## 萌新求带
