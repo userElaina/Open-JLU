@@ -20,13 +20,11 @@
 [Drcom-Qt](#Drcom-Qt) || 
 [Drcom-Golang](#Drcom-Golang) || 
 [Drcom-Client](#Drcom-Client) || 
+`面向对象程序设计` [oop](#oop) || 
 `计算机图形学` [SetPixel](#SetPixel) || 
 `程序设计基础` [程序设计基础](#程序设计基础) || 
 `大学计算机基础` [Unity-游戏](#Unity-游戏) || 
-`数据结构` [队列](#队列) || 
-`数据结构` [Sort-Compare-排序](#Sort-Compare-排序) || 
-`数据结构` [Binary-Tree-二叉树](#Binary-Tree-二叉树) || 
-`数据结构` [Graph-List-图论](#Graph-List-图论) || 
+`数据结构` [Others](#Others) || 
 `数据结构` [Huffman-qwq-哈夫曼-压缩软件](#Huffman-qwq-哈夫曼-压缩软件) || 
 `数据结构` [Keven-Bacon-六度分离假说](#Keven-Bacon-六度分离假说) || 
 `数据结构` [Nogo-不围棋](#Nogo-不围棋) || 
@@ -183,6 +181,14 @@ Demo2: https://ciel.dev/yuci/
 
 ## 课程学习
 
+#### oop
+
+建议适用范围: 计软大二上 `面向对象程序设计` 笔记
+
+使用条件: C++
+
+网址: https://github.com/userElaina/oop
+
 #### SetPixel
 
 建议适用范围: 计软大三上 `计算机图形学` 课程学习
@@ -209,37 +215,13 @@ Demo2: https://ciel.dev/yuci/
 
 网址: https://github.com/Superbia-zyb/2D-Adventure
 
-#### 队列
+#### Others
 
 建议适用范围: 计软大一下 `数据结构` 作业
 
 使用条件: C++
 
-网址: https://github.com/userElaina/sllist
-
-#### Sort-Compare-排序
-
-建议适用范围: 计软大一下 `数据结构` 作业
-
-使用条件: C++
-
-网址: https://github.com/userElaina/Sort-Compare
-
-#### Binary-Tree-二叉树
-
-建议适用范围: 计软大一下 `数据结构` 作业
-
-使用条件: C++
-
-网址: https://github.com/userElaina/Binary-Tree
-
-#### Graph-List-图论
-
-建议适用范围: 计软大一下 `数据结构` 作业
-
-使用条件: C++
-
-网址: https://github.com/userElaina/graph-list
+网址: https://github.com/userElaina/data-structrue
 
 #### Huffman-qwq-哈夫曼-压缩软件
 
@@ -279,7 +261,7 @@ Demo2: https://ciel.dev/yuci/
 
 使用条件: C++
 
-网址: https://github.com/userElaina/analytic-geometry-1
+网址: https://github.com/userElaina/analytic-geometry
 
 #### 实验报告
 
@@ -325,9 +307,9 @@ Demo2: https://ciel.dev/yuci/
 
 建议适用范围: 计软大二下 `程序设计综合课` 作业
 
-使用条件: Python 3.6 or later; C++; Cython; Python module fastgui
+使用条件: Python 3.6 or later; C++; Python module fastgui
 
-网址: https://github.com/userElaina/KingZ-Cython
+网址: https://github.com/userElaina/KingZ-game
 
 依赖: https://github.com/userElaina/fastgui
 
@@ -364,4 +346,3 @@ Demo2: https://ciel.dev/yuci/
 使用条件: Python
 
 网址: https://github.com/SAGIRI-kawaii/SNLCompiler
-
