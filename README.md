@@ -1,6 +1,6 @@
 # Outlast: Jilin University DLC
 
-汇总了关于如何在吉林大学生存的相关Repository.
+汇总了关于如何在吉林大学生存的Repository.
 
 ## 目录
 
@@ -650,3 +650,4 @@ Alex [GitHub](https://github.com/AlexCSTech)
 Superbia [GitHub](https://github.com/Superbia-zyb)
 
 MerlynAllen [GitHub](https://github.com/MerlynAllen)
+
