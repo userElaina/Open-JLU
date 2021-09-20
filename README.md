@@ -615,11 +615,13 @@ Repository: https://github.com/XuanLaoYee/ML-Cat-Dog
 
 环境依赖可能因整理者不小心、软件包更新等原因有所出入，请以实际为准。
 
+为方便移动端用户，所有Repo网址均以明文给出。
+
 ### 名词解释
 
 正常浏览器: 指 [Chrome](https://www.google.com/intl/en/chrome/), [Firefox](https://www.mozilla.org/en-US/firefox/new/) 等. 不包括 [Tor](https://www.torproject.org/download/), 2345浏览器等.
 
-正常搜索引擎: 指 [Google](https://www.google.com/), [DuckDuckGo](https://duckduckgo.com/) 等. 不包括 [Baidu](https://www.baidu.com/), [360搜索](https://www.so.com/) 等广告搜索引擎或 [Wikipedia](https://www.wikipedia.org/), [GitHub](https://github.com/) 的内部搜索引擎.
+正常搜索引擎: 指 [Google](https://www.google.com/), [DuckDuckGo](https://duckduckgo.com/) 等. 不包括 [Baidu](https://www.baidu.com/), [360搜索](https://www.so.com/) 等广告搜索引擎或 [Wikipedia](https://www.wikipedia.org/), [GitHub](https://github.com/) 等的内部搜索引擎.
 
 正常网络: 指能正常访问 [Google](https://www.google.com/), [Wikipedia](https://www.wikipedia.org/) 等的网络.
 
