@@ -2,70 +2,7 @@
 
 汇总了关于如何在吉林大学生存的Repository.
 
-## 目录
-
-[汇总页](#汇总页) || 
-[浴池预约结果页面临摹(类似截图生成器)](#浴池预约结果页面临摹类似截图生成器) || 
-[JOJ-old](#JOJ-old) || 
-[JOJ-win32](#JOJ-win32) || 
-[JLU Online Judge](#JLUOnlineJudge) || 
-[一键评教](#一键评教) || 
-[快捷评教](#快捷评教) || 
-[选课助手](#选课助手) || 
-[FakeUIMS](#FakeUIMS) || 
-[掌上校园](#掌上校园) || 
-[通知爬虫](#通知爬虫) || 
-[健康打卡](#健康打卡) || 
-[批量健康打卡](#批量健康打卡) || 
-[批量健康打卡-tgbot](#批量健康打卡-tgbot) || 
-[VPN-URL](#VPN-URL) || 
-[VPN-Door](#VPN-Door) || 
-[http-proxy](#http-proxy) || 
-[Drcom-win32](#Drcom-win32) || 
-[Drcom-C](#Drcom-C) || 
-[Drcom-CSharp](#Drcom-CSharp) || 
-[Drcom-Service-CSharp](#Drcom-Service-CSharp) || 
-[Drcom-Qt](#Drcom-Qt) || 
-[Drcom-Golang](#Drcom-Golang) || 
-[Drcom-Client](#Drcom-Client) || 
-[毕业设计模板](#毕业设计模板) || 
-`面向对象程序设计` [oop-notes](#oop-notes) || 
-`计算机图形学` [SetPixel](#SetPixel) || 
-`程序设计基础` [程序设计基础](#程序设计基础) || 
-`程序设计基础` [学生成绩管理系统](#学生成绩管理系统) || 
-`程序设计基础` [Fruit-Market](#Fruit-Market) || 
-`大学计算机基础` [Unity-游戏](#Unity-游戏) || 
-`数据结构` [简单的作业](#简单的作业) || 
-`数据结构` [Huffman-qwq-哈夫曼-压缩软件](#Huffman-qwq-哈夫曼-压缩软件) || 
-`数据结构` [Keven-Bacon-六度分离假说](#Keven-Bacon-六度分离假说) || 
-`数据结构` [Nogo-不围棋](#Nogo-不围棋) || 
-`数据结构` [Nogo-不围棋(2)](#Nogo-不围棋2) || 
-`数据结构` [Snake-蛇](#Snake-蛇) || 
-`数据结构` [机票管理系统](#机票管理系统) || 
-`数据结构` [新闻区块链](#新闻区块链) || 
-`空间解析几何` [浅谈几何学与计算机的交叉应用](#浅谈几何学与计算机的交叉应用) || 
-`机器学习与Python` [Machine-Learning-and-Python](#Machine-Learning-and-Python) || 
-`基础物理实验` [实验报告](#实验报告) || 
-`算法` [红黑树](#红黑树) || 
-`面向对象程序设计` [每周练习](#每周练习) || 
-`面向对象程序设计` [oop](#oop) || 
-`面向对象程序设计` [ChatMFC](#ChatMFC) || 
-`Html5` [software-project-html](#software-project-html) || 
-`软件工程` [software-project-html](#software-project-html) || 
-`操作系统` [基于反馈排队算法的cpu调度的模拟实现](#基于反馈排队算法的cpu调度的模拟实现) || 
-`程序设计综合课` [中心点计算](#中心点计算) || 
-`程序设计综合课` [KingZ-人机对战游戏](#KingZ-人机对战游戏) || 
-`程序设计综合课` [Risc-V解释器](#Risc-V解释器) || 
-`Java` [练习](#练习) || 
-`Java` [书店](#书店) || 
-`Java` [网盘](#网盘) || 
-`计算机网络` [Raw-Socket-文件传输服务器](#Raw-Socket-文件传输服务器) || 
-`数据库` [db](#db) || 
-`网络程序设计` [ChatSystem](#ChatSystem) || 
-`编译原理` [词法分析-递归下降](#词法分析-递归下降) || 
-`系统软件综合实践` [DbEngine](#DbEngine) || 
-`设计模式` [DesignPattern](#DesignPattern) || 
-`不知道什么课` [Cat-and-Dog](#Cat-and-Dog) || 
+*本项目预计于2022年03月并入项目 JLU Survive (吉林大学学生生存指北,暂未开源).
 
 ## 封面
 
@@ -73,55 +10,9 @@
 
 ## 工具
 
-#### 汇总页
-
-建议适用范围: 所有正常人
-
-环境依赖: 能访问 [GitHub](https://github.com/)
-
-Repository: https://github.com/userElaina/Outlast-JLU-DLC
-
-#### 浴池预约结果页面临摹(类似截图生成器)
-
-建议适用范围: 浴池预约结果页面临摹(类似截图生成器)
-
-环境依赖: 正常浏览器
-
-Repository: https://github.com/TechCiel/jlu-yuci
-
-Demo1: https://techciel.github.io/jlu-yuci/
-
-Demo2: https://ciel.dev/yuci/
-
-### JLU Online Judge
-
-#### JOJ-old
-
-建议适用范围: ACM
-
-环境依赖: server
-
-Repository: https://github.com/yang-er/joj-old
-
-#### JOJ-win32
-
-建议适用范围: ACM, Windows 32-bit
-
-环境依赖: server
-
-Repository: https://github.com/yang-er/joj-win32
-
-#### JLU Online Judge
-
-建议适用范围: ACM
-
-环境依赖: server
-
-Repository: https://github.com/yang-er/OnlineJudge
-
 ### UIMS
 
-#### 一键评教
+#### 一键评教-py
 
 建议适用范围: 期末时评教
 
@@ -129,13 +20,23 @@ Repository: https://github.com/yang-er/OnlineJudge
 
 Repository: https://github.com/EugeneJie/AutoEvaluate
 
-#### 快捷评教
+#### 一键评教-js
 
 建议适用范围: 期末时评教
 
 环境依赖: 正常浏览器; 会进Console
 
 Repository: https://github.com/TechCiel/jlu-uims-assess
+
+#### 一键评教-server
+
+建议适用范围: 期末时评教
+
+环境依赖(Server): Python 3.6 or later; Node.js
+
+环境依赖(Client): 正常浏览器
+
+Repository: https://github.com/YuhangQ/JLU-UIMS-WEB
 
 #### 选课助手
 
@@ -153,35 +54,23 @@ Repository: https://github.com/yang-er/FakeUIMS
 
 #### 掌上校园
 
-建议适用范围: 日常
-
 环境依赖: Android or iOS
 
 Repository: https://github.com/yang-er/HandSchool
 
-### OA
-
-#### 通知爬虫
-
-建议适用范围: 计算机相关爱好者
-
-环境依赖: Python 3.6 or later; Python module requests beautifulsoup4; 服务器或类似设备; Telegram或类似平台
-
-Repository: https://github.com/TechCiel/Reachee
-
 ### Ehall
 
-#### 健康打卡
+#### 健康打卡-py
 
-建议适用范围: 本科生每日健康打卡
+建议适用范围: 每日健康打卡
 
-环境依赖: Python 3.7 or later; Python module requests;
+环境依赖: Python 3.7 or later
 
 Repository: https://github.com/TechCiel/jlu-health-reporter
 
-#### 批量健康打卡
+#### 批量健康打卡-go
 
-建议适用范围: 本科生每日健康打卡
+建议适用范围: 每日健康打卡
 
 环境依赖: Go
 
@@ -189,11 +78,21 @@ Repository: https://github.com/Yesterday17/jlu-batch-health
 
 #### 批量健康打卡-tgbot
 
-建议适用范围: 本科生每日健康打卡
+建议适用范围: 每日健康打卡
 
 环境依赖: Go; 服务器或类似设备; Telegram
 
 Repository: https://github.com/Yesterday17/jlu-health-bot
+
+### OA
+
+#### 通知爬虫
+
+建议适用范围: 计算机相关爱好者
+
+环境依赖: Python 3.6 or later; Server; [Telegram](https://telegram.org/) 或类似平台
+
+Repository: https://github.com/TechCiel/Reachee
 
 ### VPN
 
@@ -201,7 +100,7 @@ Repository: https://github.com/Yesterday17/jlu-health-bot
 
 建议适用范围: 非校园网网络环境
 
-环境依赖: 正常浏览器; 会手动输入URL
+环境依赖: 正常浏览器
 
 Repository: https://github.com/MerlynAllen/JLU-VPN
 
@@ -225,9 +124,9 @@ Repository: https://github.com/Yesterday17/jlu-http-proxy
 
 #### Drcom-win32
 
-建议适用范围: 链接有线校园网, Windows 32-bit
+建议适用范围: 链接有线校园网
 
-环境依赖: Windows
+环境依赖: Windows 32-bit
 
 Repository: https://github.com/code4lala/dr-jlu-win32
 
@@ -249,7 +148,7 @@ Repository: https://github.com/yang-er/jlu-drcom-csharp
 
 #### Drcom-Service-CSharp
 
-建议适用范围: 链接有线网络,设置为 Windows 服务
+建议适用范围: 链接有线校园网,设置为 Windows 服务
 
 环境依赖: Windows
 
@@ -267,7 +166,7 @@ Repository: https://github.com/code4lala/drcom-jlu-qt
 
 建议适用范围: 计算机相关爱好者
 
-环境依赖: 路由器或类似设备; Golang	
+环境依赖: 路由器或类似设备; Golang
 
 Repository: https://github.com/Yesterday17/go-drcom-jlu
 
@@ -279,39 +178,105 @@ Repository: https://github.com/Yesterday17/go-drcom-jlu
 
 Repository: https://github.com/ly0/jlu-drcom-client
 
+### JLU Online Judge
+
+#### JOJ-old
+
+建议适用人群: ACMer
+
+环境依赖: Server
+
+Repository: https://github.com/yang-er/joj-old
+
+#### JOJ-win32
+
+建议适用人群: ACMer
+
+环境依赖: Windows 32-bit, Server
+
+Repository: https://github.com/yang-er/joj-win32
+
+#### JLU Online Judge
+
+建议适用人群: ACMer 
+
+环境依赖: Server
+
+Repository: https://github.com/yang-er/OnlineJudge
+
+### Others
+
+#### 汇总页
+
+建议适用人群: 吉林大学在校学生和在职教职工
+
+环境依赖: 能访问 [GitHub](https://github.com/)
+
+Repository: https://github.com/userElaina/Outlast-JLU-DLC
+
+#### 浴池预约结果页面临摹(类似截图生成器)
+
+建议适用人群: 吉林大学在校学生
+
+建议适用范围: 浴池预约结果页面临摹(类似截图生成器)
+
+环境依赖(Server): Web
+
+环境依赖(Client): 正常浏览器
+
+Repository: https://github.com/TechCiel/jlu-yuci
+
+Demo1: https://techciel.github.io/jlu-yuci/
+
+Demo2: https://ciel.dev/yuci/
+
+#### 合成JLU(Game)
+
+环境依赖: 正常浏览器
+
+Repository: https://github.com/Wesson-Zhu/hechengJLU
+
 ## 资料
 
 #### 毕业设计模板
 
 建议适用范围: 毕业设计
 
-环境依赖: LaTeX	
+环境依赖: LaTeX
 
 Repository: https://github.com/KveinAxel/JLU-Beamer-Theme
 
-## 课程学习
+## 课程学习(仅课内)
+
+### 面向对象-二上
 
 #### oop-notes
 
-建议适用范围: 计软大二上必修课 `面向对象程序设计` 笔记
-
-环境依赖: None
-
 Repository: https://github.com/userElaina/oop-notes
 
-#### SetPixel
+### 图形学-三上
 
-建议适用范围: 计软大三上必修课 `计算机图形学` 课程学习
+#### Computer Graphics
+
+教材缺失的API的实现,相关算法的实现.
 
 环境依赖: C++
 
 Repository: https://github.com/userElaina/jlu-computer-graphics
 
+### 嵌入式-三上
+
+#### Embedded System
+
+复习题库.
+
+Repository: https://github.com/userElaina/Embedded-System
+
 ## 大作业
 
-#### 程序设计基础
+### 程序设计基础
 
-建议适用范围: 计软大一上必修课 `程序设计基础` 作业
+#### 日常作业
 
 环境依赖: C; cJSON
 
@@ -319,33 +284,29 @@ Repository: https://github.com/Yesterday17/ProgramDesignHomework
 
 #### 学生成绩管理系统
 
-建议适用范围: 计软大一上必修课 `程序设计基础` 作业
-
 环境依赖: C
 
 Repository: https://github.com/EugeneJie/achievement
 
 #### Fruit-Market
 
-建议适用范围: 计软大一上必修课 `程序设计基础` 作业
-
 环境依赖: C
 
 Repository: https://github.com/yang-er/FruitMarket
 
+### 大学计算机基础
+
 #### Unity-游戏
 
-建议适用范围: 非计软大一下必修课 `大学计算机基础` 作业
+环境依赖(Executable): Windows or Linux with GUI
 
-环境依赖(使用成品): Windows or Linux with GUI
-
-环境依赖(使用代码): Unity; 卷怪
+环境依赖(Develop): Unity; 卷怪
 
 Repository: https://github.com/Superbia-zyb/2D-Adventure
 
-#### 简单的作业
+### 数据结构
 
-建议适用范围: 计软大一下必修课 `数据结构` 作业
+#### 简单的作业
 
 环境依赖: C++
 
@@ -353,17 +314,13 @@ Repository: https://github.com/userElaina/data-structrue
 
 #### Huffman-qwq-哈夫曼-压缩软件
 
-建议适用范围: 计软大一下必修课 `数据结构` 作业
+环境依赖(Executable): Windows, MacOS or Linux
 
-环境依赖(使用成品): Windows, MacOS or Linux
-
-环境依赖(使用代码): C
+环境依赖(Develop): C
 
 Repository: https://github.com/userElaina/naive-Huffman
 
 #### Keven-Bacon-六度分离假说
-
-建议适用范围: 计软大一下必修课 `数据结构` 作业
 
 环境依赖: Python3.6 or later; Jupyter notebook
 
@@ -371,15 +328,11 @@ Repository: https://github.com/userElaina/Keven-Bacon
 
 #### Nogo-不围棋
 
-建议适用范围: 计软大一下必修课 `数据结构` 作业
-
 环境依赖: C++; 会用Botzone
 
 Repository: https://github.com/Superbia-zyb/NoGo-AIBot
 
 #### Nogo-不围棋(2)
-
-建议适用范围: 计软大一下必修课 `数据结构` 作业
 
 环境依赖: C++; 会用Botzone
 
@@ -387,17 +340,13 @@ Repository: https://github.com/Subsegment/nogo
 
 #### Snake-蛇
 
-建议适用范围: 计软大一下必修课 `数据结构` 作业
-
 环境依赖: C++; 会用Botzone
 
 Repository: https://github.com/Superbia-zyb/Snake-AIBot
 
 #### 机票管理系统
 
-建议适用范围: 计软大一下必修课 `数据结构` 作业
-
-环境依赖: server; 卷怪
+环境依赖: Server
 
 Repository(Server): https://github.com/KveinAxel/TicketManageSystem
 
@@ -405,11 +354,9 @@ Repository(前端): https://github.com/KveinAxel/TicketManageSystemFrontEnd
 
 #### 新闻区块链
 
-建议适用范围: 计软大一下必修课 `数据结构` 作业
+环境依赖(Executable): Unknown
 
-环境依赖(使用成品): Unknown
-
-环境依赖(使用代码): server; C; 卷怪
+环境依赖(Develop): Server; C; 卷怪
 
 Repository(Server): https://github.com/KveinAxel/NewsBlockChain
 
@@ -417,51 +364,47 @@ Repository(DNS): https://github.com/KveinAxel/NewsBlockChainDNS
 
 Repository(前端): https://github.com/KveinAxel/NewsBlockChainFrontEnd
 
+### 空间解析几何
+
 #### 浅谈几何学与计算机的交叉应用
 
-建议适用范围: 计软大一下必修课 `空间解析几何` 作业
-
-环境依赖(使用成品): None
-
-环境依赖(使用代码): C++
+环境依赖(Develop): C++
 
 Repository: https://github.com/userElaina/analytic-geometry
 
-#### Machine-Learning-and-Python
+### 机器学习与Python
 
-建议适用范围: 大一下选修课 `机器学习与Python` 作业
+#### Machine-Learning-and-Python
 
 环境依赖: Python 3.7 or later
 
 Repository: https://github.com/userElaina/ML-and-Py
 
+### 基础物理实验
+
 #### 实验报告
 
-建议适用范围: 很多学院大二上必修课 `基础物理实验` 作业
-
-环境依赖: None
+环境依赖: 卷怪
 
 Repository: https://github.com/userElaina/jlu-physics-lab-repor
 
-#### 红黑树
+### 算法
 
-建议适用范围: 计软大二上必修课 `算法` 作业
+#### 红黑树
 
 环境依赖: C++
 
 Repository: https://github.com/ZuoTiJia/datastruct
 
-#### 每周练习
+### 面向对象
 
-建议适用范围: 计软大二上必修课 `面向对象程序设计` 作业
+#### 每周练习
 
 环境依赖: C++
 
 Repository: https://github.com/Yesterday17/JLUOOPClassWork
 
-#### oop
-
-建议适用范围: 计软大二上必修课 `面向对象程序设计` 作业
+#### 作业
 
 环境依赖: C++
 
@@ -469,51 +412,45 @@ Repository: https://github.com/ZuoTiJia/cppHomework
 
 #### ChatMFC
 
-建议适用范围: 计软大二上必修课 `面向对象程序设计` 作业
-
 环境依赖: C++
 
 Repository: https://github.com/yang-er/ChatMFC
 
-#### software-project-html
-
-建议适用范围: 软工大二上必修课 `Html5` 作业
-
-环境依赖: vue
-
-Repository: https://github.com/DctorWei1314/software_project_html
+### Html5
 
 #### software-project-html
 
-建议适用范围: 软工大二上必修课 `软件工程` 作业
-
-环境依赖: vue
+环境依赖: Vue.js
 
 Repository: https://github.com/DctorWei1314/software_project_html
+
+### 操作系统
 
 #### 基于反馈排队算法的cpu调度的模拟实现
-
-建议适用范围: 计软大二下必修课 `操作系统` 作业
 
 环境依赖: Python 3.6 or later
 
 Repository: https://github.com/userElaina/oslab
 
+#### Banker Algorithm
+
+环境依赖: Java
+
+Repository: https://github.com/Rosenberg37/operatingSystemClassDesign
+
+### 程序设计综合课
+
 #### 中心点计算
 
-建议适用范围: 计软大二下必修课 `程序设计综合课` 作业
-
-环境依赖: C++; Nodejs
+环境依赖: C++; Node.js
 
 Repository: https://github.com/yang-er/GraphCalculate
 
 #### KingZ-人机对战游戏
 
-建议适用范围: 计软大二下必修课 `程序设计综合课` 作业
+环境依赖(Executable): Windows with GUI
 
-环境依赖(使用成品): Windows with GUI
-
-环境依赖(使用代码): Python 3.6 or later; C++; Python module fastgui
+环境依赖(Develop): Python 3.6 or later; C++
 
 Repository: https://github.com/userElaina/KingZ-game
 
@@ -523,17 +460,21 @@ Repository: https://github.com/userElaina/KingZ-game
 
 #### Risc-V解释器
 
-建议适用范围: 计软大二下必修课 `程序设计综合课` 作业
+环境依赖(Executable): 正常浏览器
 
-环境依赖(使用成品): 正常浏览器
-
-环境依赖(使用代码): C++; Nodejs
+环境依赖(Develop): C++; Node.js
 
 Repository: https://github.com/YuhangQ/RiscvSimulator
 
-#### 练习
+#### C++实现的卷积神经网络
 
-建议适用范围: 计软大二下必修课 `Java` 作业
+环境依赖(Develop): C++
+
+Repository: https://github.com/Sherlock-coder/simpleCnnFramework
+
+### Java
+
+#### 练习
 
 环境依赖: Java
 
@@ -541,71 +482,141 @@ Repository: https://github.com/yang-er/JavaExperiment
 
 #### 书店
 
-建议适用范围: 计软大二下必修课 `Java` 作业
-
 环境依赖: Java
 
 Repository: https://github.com/EugeneJie/BookStore
 
 #### 网盘
 
-建议适用范围: 计软大二下必修课 `Java` 作业
-
 环境依赖: Java
 
 Repository: https://github.com/kvrmnks/Cvarpe
 
+#### Pet-shop
+
+环境依赖: Java
+
+Repository: https://github.com/Rosenberg37/javaClassDesign
+
+### Linux
+
+#### linux-notes
+
+环境依赖: Python 3.6 or later, C, Linux
+
+Repository: https://github.com/userElaina/linux-notes
+
+#### rsap2p
+
+环境依赖: Python 3.6 or later
+
+Repository: https://github.com/userElaina/rsap2p
+
+### 计算机网络
+
 #### Raw-Socket-文件传输服务器
 
-建议适用范围: 计软大三上必修课 `计算机网络` 作业
-
-环境依赖: server; Linux
+环境依赖: Server; Linux
 
 Repository: https://github.com/kaaass/cs-network-proj
 
-#### db
+#### SpanTree
 
-建议适用范围: 计软大三上必修课 `数据库` 作业
+环境依赖: Python
+
+Repository: https://github.com/Rosenberg37/SpanTree
+
+#### RSTP-Lab
+
+环境依赖: ts
+
+Repository: https://github.com/TechCiel/RSTP-Lab
+
+### 数据库
+
+#### simple-db
 
 环境依赖: Rust
 
 Repository: https://github.com/DctorWei1314/simple_db
 
-#### ChatSystem
+#### InvoDB
 
-建议适用范围: 计软大三下选修课 `网络程序设计` 作业
+环境依赖(Executable): None!
+
+环境依赖(Develop): C++; Node.js; JSON for C++
+
+Repository: https://github.com/YuhangQ/InvoDB
+
+#### 花瓣
+
+环境依赖: Python
+
+Repository(main): https://github.com/haotian-T/database
+
+Repository(make): https://github.com/haotian-T/make_database
+
+### 微机
+
+#### Microcomputer-Lab
+
+环境依赖: VMware Workstation 16 or Windows XP or Dosbox
+
+Repository: https://github.com/userElaina/MicrocomputerLab
+
+#### Microcomputer-Experiment
+
+Repository: https://github.com/waynelee-lwc/Microcomputer-Experiment
+
+### 网络程序设计
+
+#### ChatSystem
 
 环境依赖: Python
 
 Repository: https://github.com/SAGIRI-kawaii/ChatSystem
 
-#### 词法分析-递归下降
+### 软件工程
 
-建议适用范围: 计软大三下必修课 `编译原理` 作业
+#### software-project-html
+
+环境依赖: Vue.js
+
+Repository: https://github.com/DctorWei1314/software_project_html
+
+### 编译原理
+
+#### 词法分析-递归下降
 
 环境依赖: Python
 
 Repository: https://github.com/SAGIRI-kawaii/SNLCompiler
 
-#### DbEngine
+### 系统软件综合实践
 
-建议适用范围: 计软大四必修课 `系统软件综合实践` 作业
+#### DbEngine
 
 环境依赖: C++
 
 Repository: https://github.com/yang-er/DbEngine
 
-#### DesignPattern
+### 设计模式
 
-建议适用范围: 计软大四必修课 `设计模式` 作业
+#### DesignPattern
 
 环境依赖: C++
 
 Repository: https://github.com/yang-er/DesignPattern
 
-#### Cat-and-Dog
+### Others
 
-建议适用范围: 计软 `不知道什么课` 作业
+#### 处理风控的后端系统
+
+环境依赖: Node.js
+
+Repository: https://github.com/JLU-bytedance-backend/JLU-bytedance-backend-techtrainingcamp-security-9
+
+#### Cat-and-Dog
 
 环境依赖: Python
 
@@ -619,37 +630,39 @@ Repository: https://github.com/XuanLaoYee/ML-Cat-Dog
 
 ### 名词解释
 
-正常浏览器: 指 [Chrome](https://www.google.com/intl/en/chrome/), [Firefox](https://www.mozilla.org/en-US/firefox/new/) 等. 不包括 [Tor](https://www.torproject.org/download/), 2345浏览器等.
+**正常浏览器**: 指 [Chrome](https://www.google.com/intl/en/chrome/), [Firefox](https://www.mozilla.org/en-US/firefox/new/) 等. 不包括 [Tor](https://www.torproject.org/download/), 2345浏览器等.
 
-正常搜索引擎: 指 [Google](https://www.google.com/), [DuckDuckGo](https://duckduckgo.com/) 等. 不包括 [Baidu](https://www.baidu.com/), [360搜索](https://www.so.com/) 等广告搜索引擎或 [Wikipedia](https://www.wikipedia.org/), [GitHub](https://github.com/) 等的内部搜索引擎.
+**正常搜索引擎**: 指 [Google](https://www.google.com/), [DuckDuckGo](https://duckduckgo.com/) 等. 不包括 [Baidu](https://www.baidu.com/), [360搜索](https://www.so.com/) 等局域网搜索引擎或 [Wikipedia](https://www.wikipedia.org/), [GitHub](https://github.com/) 等的内部搜索引擎.
 
-正常网络: 指能正常访问 [Google](https://www.google.com/), [Wikipedia](https://www.wikipedia.org/) 等的网络.
+**正常网络**: 指能正常访问 [Google](https://www.google.com/), [Wikipedia](https://www.wikipedia.org/) 等的网络.
 
-校园网: 指我校校园网,可直接访问 [UIMS](https://uims.jlu.edu.cn/ntms/) 等校内网站. 与外面推销的 `校园手机卡` 无关.
+**校园网**: 指我校校园网,可直接访问 [UIMS](https://uims.jlu.edu.cn/ntms/) 等校内网站. 与外面推销的 `校园手机卡` 无关.
 
-Python: 若无特殊说明, 均指 [Python3](https://www.python.org/) .
+**Python**: 若无特殊说明, 均指 [Python3](https://www.python.org/) .
 
 ### 反馈
 
-PR(若能)(十分建议)
+**PR**(若能)(十分建议)
 
-Issue(建议)
+**Issue**(建议)
 
-邮箱(建议): userElaina@Gmail.com
+**Email**(建议): userElaina@Gmail.com
 
-Telegram(建议): [@userElaina](https://t.me/userElaina)
+**Telegram**(建议): [@userElaina](https://t.me/userElaina)
 
-QQ(不建议): 1072674074
+**QQ**(不建议): 1072674074
 
 ## 大佬%%%
 
-Ciel [GitHub](https://github.com/TechCiel)
+Ciel [GitHub](https://github.com/TechCiel) [Blog](https://blog.ciel.dev/)
 
-YuhangQ [GitHub](https://github.com/YuhangQ)
+YuhangQ [GitHub](https://github.com/YuhangQ) [Blog](https://blog.wento.icu/)
 
-Alex [GitHub](https://github.com/AlexCSTech)
+Alex [GitHub](https://github.com/AlexCSTech) [Blog](https://blog.ifan.dev/)
 
-Superbia [GitHub](https://github.com/Superbia-zyb)
+Superbia [GitHub](https://github.com/Superbia-zyb) [Blog](https://superbia.cn/)
 
 MerlynAllen [GitHub](https://github.com/MerlynAllen)
+
+WessonZhu [GitHub](https://github.com/Wesson-Zhu) [Blog](https://wessonzhu.gitee.io/)
 
