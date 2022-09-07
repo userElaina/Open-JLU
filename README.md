@@ -1,62 +1,14 @@
 # Outlast: Jilin University DLC
 
-汇总了关于如何在吉林大学生存的Repository.
+汇总了关于如何在吉林大学生存的 Repository.
 
-*本项目预计于2022年03月并入项目 JLU Survive (吉林大学学生生存指北,暂未开源).
+因本人即将毕业, 可能无法及时获取校内消息, 欢迎同学们 PR 或以任何你喜欢的方式[提交信息](#反馈).
 
 ## 封面
 
 ![Outlast: Jilin University DLC](https://user-images.githubusercontent.com/80948381/133450364-e94a8ff8-58cf-4e1f-81b5-39451e35ebb3.png)
 
 ## 工具
-
-### UIMS
-
-#### 一键评教-py
-
-建议适用范围: 期末时评教
-
-环境依赖: Python 3.6 or later; 校园网
-
-Repository: https://github.com/EugeneJie/AutoEvaluate
-
-#### 一键评教-js
-
-建议适用范围: 期末时评教
-
-环境依赖: 正常浏览器; 会进Console
-
-Repository: https://github.com/TechCiel/jlu-uims-assess
-
-#### 一键评教-server
-
-建议适用范围: 期末时评教
-
-环境依赖(Server): Python 3.6 or later; Node.js
-
-环境依赖(Client): 正常浏览器
-
-Repository: https://github.com/YuhangQ/JLU-UIMS-WEB
-
-#### 选课助手
-
-建议适用范围: 计算机相关爱好者
-
-环境依赖: Python
-
-Repository: https://github.com/42binwang/jlu_selectCourse_helper
-
-#### FakeUIMS
-
-建议适用范围: 计算机相关爱好者
-
-Repository: https://github.com/yang-er/FakeUIMS
-
-#### 掌上校园
-
-环境依赖: Android or iOS
-
-Repository: https://github.com/yang-er/HandSchool
 
 ### Ehall
 
@@ -178,6 +130,56 @@ Repository: https://github.com/Yesterday17/go-drcom-jlu
 
 Repository: https://github.com/ly0/jlu-drcom-client
 
+### UIMS
+
+预计功能将迁移至 IEDU 和 ICOURSE, 届时下列工具将又很大的可能失效.
+
+#### 一键评教-py
+
+建议适用范围: 期末时评教
+
+环境依赖: Python 3.6 or later; 校园网
+
+Repository: https://github.com/EugeneJie/AutoEvaluate
+
+#### 一键评教-js
+
+建议适用范围: 期末时评教
+
+环境依赖: 正常浏览器; 会进Console
+
+Repository: https://github.com/TechCiel/jlu-uims-assess
+
+#### 一键评教-server
+
+建议适用范围: 期末时评教
+
+环境依赖(Server): Python 3.6 or later; Node.js
+
+环境依赖(Client): 正常浏览器
+
+Repository: https://github.com/YuhangQ/JLU-UIMS-WEB
+
+#### 选课助手
+
+建议适用范围: 计算机相关爱好者
+
+环境依赖: Python
+
+Repository: https://github.com/42binwang/jlu_selectCourse_helper
+
+#### FakeUIMS
+
+建议适用范围: 计算机相关爱好者
+
+Repository: https://github.com/yang-er/FakeUIMS
+
+#### 掌上校园
+
+环境依赖: Android or iOS
+
+Repository: https://github.com/yang-er/HandSchool
+
 ### JLU Online Judge
 
 #### JOJ-old
@@ -248,13 +250,13 @@ Repository: https://github.com/KveinAxel/JLU-Beamer-Theme
 
 ## 课程学习(仅课内)
 
-### 面向对象-二上
+### 面向对象
 
 #### oop-notes
 
 Repository: https://github.com/userElaina/oop-notes
 
-### 图形学-三上
+### 图形学
 
 #### Computer Graphics
 
@@ -264,7 +266,7 @@ Repository: https://github.com/userElaina/oop-notes
 
 Repository: https://github.com/userElaina/jlu-computer-graphics
 
-### 嵌入式-三上
+### 嵌入式
 
 #### Embedded System
 
@@ -314,7 +316,7 @@ Repository: https://github.com/userElaina/data-structrue
 
 #### Huffman-qwq-哈夫曼-压缩软件
 
-环境依赖(Executable): Windows, MacOS or Linux
+环境依赖(Executable): None
 
 环境依赖(Develop): C
 
@@ -328,19 +330,25 @@ Repository: https://github.com/userElaina/Keven-Bacon
 
 #### Nogo-不围棋
 
-环境依赖: C++; 会用Botzone
+环境依赖: C++
+
+平台: Botzone
 
 Repository: https://github.com/Superbia-zyb/NoGo-AIBot
 
 #### Nogo-不围棋(2)
 
-环境依赖: C++; 会用Botzone
+环境依赖: C++
+
+平台: Botzone
 
 Repository: https://github.com/Subsegment/nogo
 
-#### Snake-蛇
+#### Snake-贪吃蛇
 
-环境依赖: C++; 会用Botzone
+环境依赖: C++
+
+平台: Botzone
 
 Repository: https://github.com/Superbia-zyb/Snake-AIBot
 
@@ -556,7 +564,7 @@ Repository(main): https://github.com/haotian-T/database
 
 Repository(make): https://github.com/haotian-T/make_database
 
-### 微机
+### 微机/嵌入式/汇编
 
 #### Microcomputer-Lab
 
@@ -567,6 +575,20 @@ Repository: https://github.com/userElaina/MicrocomputerLab
 #### Microcomputer-Experiment
 
 Repository: https://github.com/waynelee-lwc/Microcomputer-Experiment
+
+#### x86 (I32) 汇编
+
+环境依赖: VirtualBox; `dd`
+
+Repository: https://github.com/userElaina/x86-asm-homework
+
+#### LED点阵模拟器
+
+环境依赖: Node.js
+
+Demo: http://www.wayne-lee.cn:3006/
+
+Repository: https://github.com/waynelee-lwc/LED-lattice-simulator
 
 ### 网络程序设计
 
@@ -592,6 +614,12 @@ Repository: https://github.com/DctorWei1314/software_project_html
 
 Repository: https://github.com/SAGIRI-kawaii/SNLCompiler
 
+#### SNL编译器
+
+环境依赖: Node.js
+
+Repository: https://github.com/waynelee-lwc/2119-snl-compiler-design
+
 ### 系统软件综合实践
 
 #### DbEngine
@@ -607,6 +635,14 @@ Repository: https://github.com/yang-er/DbEngine
 环境依赖: C++
 
 Repository: https://github.com/yang-er/DesignPattern
+
+### 大数据技术与应用
+
+#### 大数据技术与应用作业
+
+环境依赖: Node.js
+
+Repository: https://github.com/waynelee-lwc/big-data-homework-FE
 
 ### Others
 
@@ -642,7 +678,7 @@ Repository: https://github.com/XuanLaoYee/ML-Cat-Dog
 
 ### 反馈
 
-**PR**(若能)(十分建议)
+**PR**(非常建议)
 
 **Issue**(建议)
 
@@ -665,4 +701,3 @@ Superbia [GitHub](https://github.com/Superbia-zyb) [Blog](https://superbia.cn/)
 MerlynAllen [GitHub](https://github.com/MerlynAllen)
 
 WessonZhu [GitHub](https://github.com/Wesson-Zhu) [Blog](https://wessonzhu.gitee.io/)
-
