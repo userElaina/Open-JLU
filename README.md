@@ -306,7 +306,7 @@ Repository: https://github.com/yang-er/FruitMarket
 
 Repository: https://github.com/Superbia-zyb/2D-Adventure
 
-### 数据结构
+### 算法和数据结构
 
 #### 简单的作业
 
@@ -372,6 +372,12 @@ Repository(DNS): https://github.com/KveinAxel/NewsBlockChainDNS
 
 Repository(前端): https://github.com/KveinAxel/NewsBlockChainFrontEnd
 
+#### 红黑树
+
+环境依赖: C++
+
+Repository: https://github.com/ZuoTiJia/datastruct
+
 ### 空间解析几何
 
 #### 浅谈几何学与计算机的交叉应用
@@ -395,14 +401,6 @@ Repository: https://github.com/userElaina/ML-and-Py
 环境依赖: 卷怪
 
 Repository: https://github.com/userElaina/jlu-physics-lab-repor
-
-### 算法
-
-#### 红黑树
-
-环境依赖: C++
-
-Repository: https://github.com/ZuoTiJia/datastruct
 
 ### 面向对象
 
@@ -590,22 +588,6 @@ Demo: http://www.wayne-lee.cn:3006/
 
 Repository: https://github.com/waynelee-lwc/LED-lattice-simulator
 
-### 网络程序设计
-
-#### ChatSystem
-
-环境依赖: Python
-
-Repository: https://github.com/SAGIRI-kawaii/ChatSystem
-
-### 软件工程
-
-#### software-project-html
-
-环境依赖: Vue.js
-
-Repository: https://github.com/DctorWei1314/software_project_html
-
 ### 编译原理
 
 #### 词法分析-递归下降
@@ -620,31 +602,51 @@ Repository: https://github.com/SAGIRI-kawaii/SNLCompiler
 
 Repository: https://github.com/waynelee-lwc/2119-snl-compiler-design
 
-### 系统软件综合实践
+### 软件工程
+
+#### software-project-html
+
+环境依赖: Vue.js
+
+Repository: https://github.com/DctorWei1314/software_project_html
+
+#### blog engine
+
+环境依赖: Python
+
+Repository: https://github.com/TechCiel/whisper
+
+### Others
+
+#### ChatSystem
+
+网络程序设计.
+
+环境依赖: Python
+
+Repository: https://github.com/SAGIRI-kawaii/ChatSystem
 
 #### DbEngine
+
+系统软件综合实践.
 
 环境依赖: C++
 
 Repository: https://github.com/yang-er/DbEngine
 
-### 设计模式
-
 #### DesignPattern
+
+设计模式.
 
 环境依赖: C++
 
 Repository: https://github.com/yang-er/DesignPattern
-
-### 大数据技术与应用
 
 #### 大数据技术与应用作业
 
 环境依赖: Node.js
 
 Repository: https://github.com/waynelee-lwc/big-data-homework-FE
-
-### Others
 
 #### 处理风控的后端系统
 
@@ -657,6 +659,14 @@ Repository: https://github.com/JLU-bytedance-backend/JLU-bytedance-backend-techt
 环境依赖: Python
 
 Repository: https://github.com/XuanLaoYee/ML-Cat-Dog
+
+#### Matplotlib 绘图与数据分析
+
+企业实训.
+
+环境依赖: Python
+
+Repository: https://github.com/userElaina/plt-draw-homework
 
 ## 备注
 
