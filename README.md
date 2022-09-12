@@ -1,6 +1,6 @@
 # Outlast: Jilin University DLC
 
-汇总了关于如何在吉林大学生存的 Repository.
+汇总了关于如何在吉林~~停水停电职业学院~~大学生存的 Repository.
 
 因本人即将毕业, 可能无法及时获取校内消息, 欢迎同学们 PR 或以任何你喜欢的方式[提交信息](#反馈).
 
@@ -682,7 +682,7 @@ Repository: https://github.com/userElaina/plt-draw-homework
 
 **正常网络**: 指能正常访问 [Google](https://www.google.com/), [Wikipedia](https://www.wikipedia.org/) 等的网络.
 
-**校园网**: 指我校校园网,可直接访问 [UIMS](https://uims.jlu.edu.cn/ntms/) 等校内网站. 与外面推销的 `校园手机卡` 无关.
+**校园网**: 指我校校园网, 可直接访问 [图书馆](https://lib.jlu.edu.cn/) 等校内网站. 与外面推销的 `校园手机卡` 无关.
 
 **Python**: 若无特殊说明, 均指 [Python3](https://www.python.org/) .
 
@@ -708,6 +708,6 @@ Alex [GitHub](https://github.com/AlexCSTech) [Blog](https://blog.ifan.dev/)
 
 Superbia [GitHub](https://github.com/Superbia-zyb) [Blog](https://superbia.cn/)
 
-MerlynAllen [GitHub](https://github.com/MerlynAllen)
+MerlynAllen [GitHub](https://github.com/MerlynAllen) [Blog](https://xiaorui.li/)
 
 WessonZhu [GitHub](https://github.com/Wesson-Zhu) [Blog](https://wessonzhu.gitee.io/)
