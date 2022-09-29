@@ -2,9 +2,7 @@
 
 汇总了关于如何在吉林~~停水停电职业学院~~大学生存的 Repository.
 
-~~因本人即将毕业, 可能无法及时获取校内消息,~~ 留校侠竟是我自己.
-
- 欢迎同学们 PR 或以任何你喜欢的方式[提交信息](#反馈).
+欢迎同学们 PR 或以任何你喜欢的方式[提交信息](#反馈).
 
 ## 封面
 
@@ -268,13 +266,25 @@ Repository: https://github.com/userElaina/oop-notes
 
 Repository: https://github.com/userElaina/jlu-computer-graphics
 
-### 嵌入式
+### 嵌入式/汇编
 
 #### Embedded System
 
 复习题库.
 
 Repository: https://github.com/userElaina/Embedded-System
+
+#### x86 汇编
+
+课程资源.
+
+Repository: https://github.com/lichuang/x86-asm-book-source
+
+#### 嵌入式实验
+
+课程资源.
+
+Repository: https://github.com/userElaina/up-tech-cup-s3c2440-source
 
 ## 大作业
 
@@ -617,6 +627,20 @@ Repository: https://github.com/DctorWei1314/software_project_html
 环境依赖: Python
 
 Repository: https://github.com/TechCiel/whisper
+
+### 嵌入式实验
+
+#### 高铁信息牌
+
+环境依赖: C, CPP, Python3, 跨平台编译器
+
+Repository: https://github.com/userElaina/s3c2440-homework
+
+#### Bad Apple!! for s3c2440
+
+环境依赖: C, 跨平台编译器
+
+Repository: https://github.com/userElaina/Bad-Apple-4-s3c2440
 
 ### Others
 
