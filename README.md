@@ -2,7 +2,7 @@
 
 汇总了关于如何在吉林~~停水停电职业学院~~大学生存的 Repository.
 
-欢迎同学们 PR 或以任何你喜欢的方式[提交信息](#反馈).
+欢迎同学们 PR 或以任何你喜欢的方式 [提交信息](#反馈).
 
 ## 封面
 
@@ -186,15 +186,7 @@ Demo2: https://ciel.dev/yuci/
 
 Repository: https://github.com/Wesson-Zhu/hechengJLU
 
-## 资料
-
-#### 毕业设计模板
-
-建议适用范围: 毕业设计
-
-Repository: https://github.com/KveinAxel/JLU-Beamer-Theme
-
-## 课程学习(仅课内)
+## 课程学习和资料
 
 ### 面向对象
 
@@ -229,6 +221,20 @@ Repository: https://github.com/lichuang/x86-asm-book-source
 课程资源.
 
 Repository: https://github.com/userElaina/up-tech-cup-s3c2440-source
+
+#### LED点阵模拟器
+
+Demo: http://www.wayne-lee.cn:3006/
+
+Repository: https://github.com/waynelee-lwc/LED-lattice-simulator
+
+### Others
+
+#### 毕业设计模板
+
+建议适用范围: 毕业设计
+
+Repository: https://github.com/KveinAxel/JLU-Beamer-Theme
 
 ## 大作业
 
@@ -452,12 +458,6 @@ Repository: https://github.com/waynelee-lwc/Microcomputer-Experiment
 
 Repository: https://github.com/userElaina/x86-asm-homework
 
-#### LED点阵模拟器
-
-Demo: http://www.wayne-lee.cn:3006/
-
-Repository: https://github.com/waynelee-lwc/LED-lattice-simulator
-
 ### 编译原理
 
 #### 词法分析-递归下降
@@ -528,7 +528,7 @@ Repository: https://github.com/userElaina/plt-draw-homework
 
 ## 备注
 
-为方便移动端用户，所有Repo网址均以明文给出。
+为方便移动端用户，所有 Repo 网址均以明文给出。
 
 ### 名词解释
 
