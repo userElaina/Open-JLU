@@ -16,19 +16,19 @@
 
 建议适用范围: 每日健康打卡
 
-Repository: https://github.com/TechCiel/jlu-health-reporter
+Repository: 因敏感, 此链接已移除
 
 #### 批量健康打卡-go
 
 建议适用范围: 每日健康打卡
 
-Repository: https://github.com/Yesterday17/jlu-batch-health
+Repository: 因敏感, 此链接已移除
 
 #### 批量健康打卡-tgbot
 
 建议适用范围: 每日健康打卡
 
-Repository: https://github.com/Yesterday17/jlu-health-bot
+Repository: 因敏感, 此链接已移除
 
 ### OA
 
