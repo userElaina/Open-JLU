@@ -2,7 +2,7 @@
 
 汇总了关于如何在吉林~~停水停电职业学院~~大学生存的 Repository.
 
-欢迎同学们 PR 或以任何你喜欢的方式 [提交信息](#反馈).
+欢迎学生/教职工们 PR 或以任何你喜欢的方式 [提交信息](#反馈).
 
 ## 封面
 
@@ -80,7 +80,7 @@ Repository: https://github.com/yang-er/jlu-drcom-csharp
 
 #### Drcom-Service-CSharp
 
-建议适用范围: 链接有线校园网,设置为 Windows 服务
+建议适用范围: 链接有线校园网, 设置为 Windows 服务
 
 Repository: https://github.com/Yesterday17/JLUDrcomService
 
@@ -101,6 +101,12 @@ Repository: https://github.com/Yesterday17/go-drcom-jlu
 建议适用范围: 计算机相关爱好者
 
 Repository: https://github.com/ly0/jlu-drcom-client
+
+#### Drcom-hiwifi
+
+建议适用范围: 计算机相关爱好者
+
+Repository: https://github.com/jiafeng5513/jlu.hiwifi
 
 ### UIMS
 
@@ -230,11 +236,31 @@ Repository: https://github.com/waynelee-lwc/LED-lattice-simulator
 
 ### Others
 
-#### 毕业设计模板
+#### 计院研究生课程复习资料
 
-建议适用范围: 毕业设计
+Repository: https://github.com/jiafeng5513/DocsForReview
+
+#### 主题 LaTeX 模板
 
 Repository: https://github.com/KveinAxel/JLU-Beamer-Theme
+
+#### 本科生学毕业论文 LaTeX 模板
+
+建议适用范围: 吉林大学计算机科学与技术学院本科毕业论文
+
+Repository: https://github.com/x86vk/JLU-CCST-Thesis
+
+#### 研究生学位论文 LaTeX 模板
+
+建议适用范围: 吉林大学研究生(硕/博)学位论文
+
+Repository: https://github.com/maxuewei2/JLUThesis2020
+
+#### 学位论文 LaTeX 模板
+
+建议适用范围: 吉林大学学生(本/硕/博)学位论文
+
+Repository: https://github.com/jiafeng5513/JLU_Dissertation
 
 ## 大作业
 
@@ -370,13 +396,23 @@ Repository: https://github.com/userElaina/KingZ-game
 
 (依赖库也可作为作业代码)
 
-#### Risc-V解释器
+#### Risc-V 解释器
 
 Repository: https://github.com/YuhangQ/RiscvSimulator
 
-#### C++实现的卷积神经网络
+#### C++ 实现的卷积神经网络
 
 Repository: https://github.com/Sherlock-coder/simpleCnnFramework
+
+#### Gomoku-人机五子棋程序
+
+Repository: https://github.com/jiafeng5513/Gomoku
+
+### 图形学
+
+#### 图形学基础小实验
+
+Repository: https://github.com/jiafeng5513/CGwork0218
 
 ### Java
 
@@ -464,7 +500,7 @@ Repository: https://github.com/userElaina/x86-asm-homework
 
 Repository: https://github.com/SAGIRI-kawaii/SNLCompiler
 
-#### SNL编译器
+#### SNL 编译器
 
 Repository: https://github.com/waynelee-lwc/2119-snl-compiler-design
 
@@ -487,6 +523,12 @@ Repository: https://github.com/userElaina/s3c2440-homework
 #### Bad Apple!! for s3c2440
 
 Repository: https://github.com/userElaina/Bad-Apple-4-s3c2440
+
+### 毕业设计
+
+#### 基于 Qt 的卷积神经网络辅助设计系统
+
+Repository: https://github.com/jiafeng5513/GraduationProject
 
 ### Others
 
@@ -526,9 +568,15 @@ Repository: https://github.com/XuanLaoYee/ML-Cat-Dog
 
 Repository: https://github.com/userElaina/plt-draw-homework
 
+#### jluNewCamera
+
+基于 MFC + OpenCV 开发的测距软件
+
+Repository: https://github.com/jiafeng5513/jluNewCamera
+
 ## 备注
 
-为方便移动端用户，所有 Repo 网址均以明文给出。
+为方便部分设备用户，所有 Repo 网址均以明文给出。
 
 ### 名词解释
 
