@@ -570,13 +570,19 @@ Repository: https://github.com/userElaina/plt-draw-homework
 
 #### jluNewCamera
 
-基于 MFC + OpenCV 开发的测距软件
+基于 MFC + OpenCV 开发的测距软件.
 
 Repository: https://github.com/jiafeng5513/jluNewCamera
 
+#### dsd-db
+
+软件分布式开发-服务器组.
+
+Repository (4 in org): https://github.com/dsd-db
+
 ## 备注
 
-为方便部分设备用户，所有 Repo 网址均以明文给出。
+为方便部分设备用户, 所有 Repo 网址均以明文给出.
 
 ### 名词解释
 
