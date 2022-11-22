@@ -30,6 +30,8 @@ Repository: 因敏感, 此链接已移除
 
 Repository: 因敏感, 此链接已移除
 
+---
+
 ### OA
 
 #### 通知爬虫
@@ -37,6 +39,8 @@ Repository: 因敏感, 此链接已移除
 建议适用范围: 计算机相关爱好者
 
 Repository: https://github.com/TechCiel/Reachee
+
+----
 
 ### VPN
 
@@ -57,6 +61,8 @@ Repository: https://github.com/MerlynAllen/jlu-vpns-dokodemo-door
 建议适用范围: 非校园网网络环境
 
 Repository: https://github.com/Yesterday17/jlu-http-proxy
+
+----
 
 ### Drcom
 
@@ -108,6 +114,8 @@ Repository: https://github.com/ly0/jlu-drcom-client
 
 Repository: https://github.com/jiafeng5513/jlu.hiwifi
 
+----
+
 ### UIMS
 
 预计功能将迁移至 IEDU 和 ICOURSE, 届时下列工具将又很大的可能失效.
@@ -148,6 +156,8 @@ Repository: https://github.com/yang-er/FakeUIMS
 
 Repository: https://github.com/yang-er/HandSchool
 
+----
+
 ### JLU Online Judge
 
 #### JOJ-old
@@ -167,6 +177,8 @@ Repository: https://github.com/yang-er/joj-win32
 建议适用人群: ACMer
 
 Repository: https://github.com/yang-er/OnlineJudge
+
+----
 
 ### Others
 
@@ -192,6 +204,8 @@ Demo2: https://ciel.dev/yuci/
 
 Repository: https://github.com/Wesson-Zhu/hechengJLU
 
+----
+
 ## 课程学习和资料
 
 ### 面向对象
@@ -200,6 +214,8 @@ Repository: https://github.com/Wesson-Zhu/hechengJLU
 
 Repository: https://github.com/userElaina/oop-notes
 
+----
+
 ### 图形学
 
 #### Computer Graphics
@@ -207,6 +223,8 @@ Repository: https://github.com/userElaina/oop-notes
 教材缺失的API的实现,相关算法的实现.
 
 Repository: https://github.com/userElaina/jlu-computer-graphics
+
+----
 
 ### 嵌入式/汇编
 
@@ -233,6 +251,8 @@ Repository: https://github.com/userElaina/up-tech-cup-s3c2440-source
 Demo: http://www.wayne-lee.cn:3006/
 
 Repository: https://github.com/waynelee-lwc/LED-lattice-simulator
+
+----
 
 ### Others
 
@@ -262,6 +282,8 @@ Repository: https://github.com/maxuewei2/JLUThesis2020
 
 Repository: https://github.com/jiafeng5513/JLU_Dissertation
 
+----
+
 ## 大作业
 
 ### 程序设计基础
@@ -278,11 +300,15 @@ Repository: https://github.com/EugeneJie/achievement
 
 Repository: https://github.com/yang-er/FruitMarket
 
+----
+
 ### 大学计算机基础
 
 #### Unity-游戏
 
 Repository: https://github.com/Superbia-zyb/2D-Adventure
+
+----
 
 ### 算法和数据结构
 
@@ -334,11 +360,15 @@ Repository(前端): https://github.com/KveinAxel/NewsBlockChainFrontEnd
 
 Repository: https://github.com/ZuoTiJia/datastruct
 
+----
+
 ### 空间解析几何
 
 #### 浅谈几何学与计算机的交叉应用
 
 Repository: https://github.com/userElaina/analytic-geometry
+
+----
 
 ### 机器学习与Python
 
@@ -346,11 +376,15 @@ Repository: https://github.com/userElaina/analytic-geometry
 
 Repository: https://github.com/userElaina/ML-and-Py
 
+----
+
 ### 基础物理实验
 
 #### 实验报告
 
 Repository: https://github.com/userElaina/jlu-physics-lab-repor
+
+----
 
 ### 面向对象
 
@@ -366,21 +400,49 @@ Repository: https://github.com/ZuoTiJia/cppHomework
 
 Repository: https://github.com/yang-er/ChatMFC
 
-### Html5
+----
+
+### 网页课设
+
+#### 小小书屋
+
+Repository: [https://github.com/XuanchenLi/Gosling_Book_Bar](https://github.com/XuanchenLi/Gosling_Book_Bar)
+
+Repository: [https://github.com/OceanPresentChao/CarillionBookstore-admin](https://github.com/OceanPresentChao/CarillionBookstore-admin)
+
+Repository: [https://gitee.com/linexus/carillonbookstore](https://gitee.com/linexus/carillonbookstore)
+
+Repository: [https://github.com/Yurzi/carillion_bookstore_backend](https://github.com/Yurzi/carillion_bookstore_backend)
 
 #### software-project-html
 
 Repository: https://github.com/DctorWei1314/software_project_html
 
+----
+
 ### 操作系统
 
-#### 基于反馈排队算法的cpu调度的模拟实现
+#### 基于反馈排队算法的 cpu 调度的模拟实现 (Python)
 
 Repository: https://github.com/userElaina/oslab
+
+#### 基于反馈排队算法的 cpu 调度的模拟实现 (Vue)
+
+Repository: **[https://github.com/OceanPresentChao/Visual-MLFQ](https://github.com/OceanPresentChao/Visual-MLFQ)**
 
 #### Banker Algorithm
 
 Repository: https://github.com/Rosenberg37/operatingSystemClassDesign
+
+#### 死锁判断
+
+Repository: [visualize_deadlock_graph](https://github.com/XuanchenLi/visualize_deadlock_graph)
+
+#### 磁盘调度
+
+Repository: [https://github.com/hhhhlkf/disk_scheduling](https://github.com/hhhhlkf/disk_scheduling)
+
+----
 
 ### 程序设计综合课
 
@@ -408,11 +470,31 @@ Repository: https://github.com/Sherlock-coder/simpleCnnFramework
 
 Repository: https://github.com/jiafeng5513/Gomoku
 
+#### Python 实现一个神经网络
+
+Repository: [GitHub - XuanchenLi/Easy_Neural_Network: A configurable neural network](https://github.com/XuanchenLi/Easy_Neural_Network)
+
+----
+
 ### 图形学
 
 #### 图形学基础小实验
 
 Repository: https://github.com/jiafeng5513/CGwork0218
+
+----
+
+### C++课设
+
+#### 商城
+
+Repository: [https://github.com/hhhhlkf/E-commerce](https://github.com/hhhhlkf/E-commerce)
+
+Repository:[https://github.com/XuanchenLi/XMall](https://github.com/XuanchenLi/XMall)
+
+Repository: [https://github.com/OceanPresentChao/Qt-ShoppingMall](https://github.com/OceanPresentChao/Qt-ShoppingMall)
+
+----
 
 ### Java
 
@@ -432,6 +514,8 @@ Repository: https://github.com/kvrmnks/Cvarpe
 
 Repository: https://github.com/Rosenberg37/javaClassDesign
 
+----
+
 ### Linux
 
 #### linux-notes
@@ -441,6 +525,8 @@ Repository: https://github.com/userElaina/linux-notes
 #### rsap2p
 
 Repository: https://github.com/userElaina/rsap2p
+
+----
 
 ### 计算机网络
 
@@ -455,6 +541,8 @@ Repository: https://github.com/Rosenberg37/SpanTree
 #### RSTP-Lab
 
 Repository: https://github.com/TechCiel/RSTP-Lab
+
+----
 
 ### 数据库
 
@@ -471,6 +559,8 @@ Repository: https://github.com/YuhangQ/InvoDB
 Repository(main): https://github.com/haotian-T/database
 
 Repository(make): https://github.com/haotian-T/make_database
+
+----
 
 ### 微机/嵌入式/汇编
 
@@ -494,6 +584,8 @@ Repository: https://github.com/waynelee-lwc/Microcomputer-Experiment
 
 Repository: https://github.com/userElaina/x86-asm-homework
 
+----
+
 ### 编译原理
 
 #### 词法分析-递归下降
@@ -503,6 +595,8 @@ Repository: https://github.com/SAGIRI-kawaii/SNLCompiler
 #### SNL 编译器
 
 Repository: https://github.com/waynelee-lwc/2119-snl-compiler-design
+
+----
 
 ### 软件工程
 
@@ -514,6 +608,8 @@ Repository: https://github.com/DctorWei1314/software_project_html
 
 Repository: https://github.com/TechCiel/whisper
 
+----
+
 ### 嵌入式实验
 
 #### 高铁信息牌
@@ -524,11 +620,15 @@ Repository: https://github.com/userElaina/s3c2440-homework
 
 Repository: https://github.com/userElaina/Bad-Apple-4-s3c2440
 
+----
+
 ### 毕业设计
 
 #### 基于 Qt 的卷积神经网络辅助设计系统
 
 Repository: https://github.com/jiafeng5513/GraduationProject
+
+----
 
 ### Others
 
@@ -579,6 +679,8 @@ Repository: https://github.com/jiafeng5513/jluNewCamera
 软件分布式开发-服务器组.
 
 Repository (4 in org): https://github.com/dsd-db
+
+----
 
 ## 备注
 
