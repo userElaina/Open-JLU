@@ -410,9 +410,9 @@ Repository: [https://github.com/XuanchenLi/Gosling_Book_Bar](https://github.com/
 
 Repository: [https://github.com/OceanPresentChao/CarillionBookstore-admin](https://github.com/OceanPresentChao/CarillionBookstore-admin)
 
-Repository:[https://gitee.com/linexus/carillonbookstore](https://gitee.com/linexus/carillonbookstore)
+Repository: [https://gitee.com/linexus/carillonbookstore](https://gitee.com/linexus/carillonbookstore)
 
-Repository:[https://github.com/Yurzi/carillion_bookstore_backend](https://github.com/Yurzi/carillion_bookstore_backend)
+Repository: [https://github.com/Yurzi/carillion_bookstore_backend](https://github.com/Yurzi/carillion_bookstore_backend)
 
 #### software-project-html
 
@@ -422,11 +422,11 @@ Repository: https://github.com/DctorWei1314/software_project_html
 
 ### 操作系统
 
-#### 基于反馈排队算法的cpu调度的模拟实现（Python）
+#### 基于反馈排队算法的 cpu 调度的模拟实现 (Python)
 
 Repository: https://github.com/userElaina/oslab
 
-#### 基于反馈排队算法的cpu调度的模拟实现（Vue）
+#### 基于反馈排队算法的 cpu 调度的模拟实现 (Vue)
 
 Repository: **[https://github.com/OceanPresentChao/Visual-MLFQ](https://github.com/OceanPresentChao/Visual-MLFQ)**
 
@@ -470,9 +470,9 @@ Repository: https://github.com/Sherlock-coder/simpleCnnFramework
 
 Repository: https://github.com/jiafeng5513/Gomoku
 
-#### Python实现一个神经网络
+#### Python 实现一个神经网络
 
-Repository:[GitHub - XuanchenLi/Easy_Neural_Network: A configurable neural network](https://github.com/XuanchenLi/Easy_Neural_Network)
+Repository: [GitHub - XuanchenLi/Easy_Neural_Network: A configurable neural network](https://github.com/XuanchenLi/Easy_Neural_Network)
 
 ----
 
