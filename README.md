@@ -402,7 +402,7 @@ Repository: https://github.com/yang-er/ChatMFC
 
 ----
 
-### 网页课设
+### 网页程序设计
 
 #### 小小书屋
 
@@ -410,9 +410,9 @@ Repository: [https://github.com/XuanchenLi/Gosling_Book_Bar](https://github.com/
 
 Repository: [https://github.com/OceanPresentChao/CarillionBookstore-admin](https://github.com/OceanPresentChao/CarillionBookstore-admin)
 
-Repository:[https://gitee.com/linexus/carillonbookstore](https://gitee.com/linexus/carillonbookstore)
+ [https://gitee.com/linexus/carillonbookstore](https://gitee.com/linexus/carillonbookstore)
 
-Repository:[https://github.com/Yurzi/carillion_bookstore_backend](https://github.com/Yurzi/carillion_bookstore_backend)
+ [https://github.com/Yurzi/carillion_bookstore_backend](https://github.com/Yurzi/carillion_bookstore_backend)
 
 #### software-project-html
 
@@ -604,6 +604,14 @@ Repository: https://github.com/waynelee-lwc/2119-snl-compiler-design
 
 Repository: https://github.com/DctorWei1314/software_project_html
 
+Repository:[GitHub - XuanchenLi/business_management_system_backend: backend of business management system](https://github.com/XuanchenLi/business_management_system_backend)
+
+[GitHub - RelaxDegree/Business_Process_System: JLU软件工程卓班大作业](https://github.com/RelaxDegree/Business_Process_System)
+
+Repository: [GitHub - OceanPresentChao/DocAuth-frontend: Application for imitating business progress of doc writting with authority management](https://github.com/OceanPresentChao/DocAuth-frontend)
+
+ [GitHub - Yurzi/DocAuth-backend: the backend for DocAuth, a web application for team review](https://github.com/Yurzi/DocAuth-backend)
+
 #### blog engine
 
 Repository: https://github.com/TechCiel/whisper
@@ -630,25 +638,39 @@ Repository: https://github.com/jiafeng5513/GraduationProject
 
 ----
 
-### Others
+### 企业实训
+
+#### Matplotlib 绘图与数据分析
+
+Repository: https://github.com/userElaina/plt-draw-homework
+
+----
+
+### 网络程序设计.
 
 #### ChatSystem
 
-网络程序设计.
+Repository: [GitHub - SAGIRI-kawaii/ChatSystem: 网络程序设计大作业](https://github.com/SAGIRI-kawaii/ChatSystem)
 
-Repository: https://github.com/SAGIRI-kawaii/ChatSystem
+----
 
-#### DbEngine
+### 系统软件综合实践
 
-系统软件综合实践.
+#### 数据库引擎（CS346）
 
-Repository: https://github.com/yang-er/DbEngine
+Repository: [GitHub - yang-er/DbEngine: 系统软件综合实践课程设计](https://github.com/yang-er/DbEngine)
 
-#### DesignPattern
+Repository: [GitHub - XuanchenLi/DBCourse](https://github.com/XuanchenLi/DBCourse)
 
-设计模式.
+----
 
-Repository: https://github.com/yang-er/DesignPattern
+### 设计模式
+
+Repository: [GitHub - yang-er/DesignPattern: 设计模式课程作业代码](https://github.com/yang-er/DesignPattern)
+
+----
+
+### Others
 
 #### 大数据技术与应用作业
 
@@ -660,13 +682,7 @@ Repository: https://github.com/JLU-bytedance-backend/JLU-bytedance-backend-techt
 
 #### Cat-and-Dog
 
-Repository: https://github.com/XuanLaoYee/ML-Cat-Dog
-
-#### Matplotlib 绘图与数据分析
-
-企业实训.
-
-Repository: https://github.com/userElaina/plt-draw-homework
+Repository: https://github.com/XuanLaoYee/ML-Cat-Dog 
 
 #### jluNewCamera
 
@@ -688,38 +704,48 @@ Repository (4 in org): https://github.com/dsd-db
 
 ### 名词解释
 
-**正常浏览器**: 指 [Chrome](https://www.google.com/intl/en/chrome/), [Firefox](https://www.mozilla.org/en-US/firefox/new/) 等. 不包括 [Tor](https://www.torproject.org/download/), 2345浏览器等.
+- **正常浏览器**: 指 [Chrome](https://www.google.com/intl/en/chrome/), [Firefox](https://www.mozilla.org/en-US/firefox/new/) 等. 不包括 [Tor](https://www.torproject.org/download/), 2345浏览器等.
 
-**正常搜索引擎**: 指 [Google](https://www.google.com/), [DuckDuckGo](https://duckduckgo.com/) 等. 不包括 [Baidu](https://www.baidu.com/), [360搜索](https://www.so.com/) 等局域网搜索引擎或 [Wikipedia](https://www.wikipedia.org/), [GitHub](https://github.com/) 等的内部搜索引擎.
+- **正常搜索引擎**: 指 [Google](https://www.google.com/), [DuckDuckGo](https://duckduckgo.com/) 等. 不包括 [Baidu](https://www.baidu.com/), [360搜索](https://www.so.com/) 等局域网搜索引擎或 [Wikipedia](https://www.wikipedia.org/), [GitHub](https://github.com/) 等的内部搜索引擎.
 
-**正常网络**: 指能正常访问 [Google](https://www.google.com/), [Wikipedia](https://www.wikipedia.org/) 等的网络.
+- **正常网络**: 指能正常访问 [Google](https://www.google.com/), [Wikipedia](https://www.wikipedia.org/) 等的网络.
 
-**校园网**: 指我校校园网, 可直接访问 [图书馆](https://lib.jlu.edu.cn/) 等校内网站. 与外面推销的 `校园手机卡` 无关.
+- **校园网**: 指我校校园网, 可直接访问 [图书馆](https://lib.jlu.edu.cn/) 等校内网站. 与外面推销的 `校园手机卡` 无关.
 
-**Python**: 若无特殊说明, 均指 [Python3](https://www.python.org/) .
+- **Python**: 若无特殊说明, 均指 [Python3](https://www.python.org/) .
 
 ### 反馈
 
-**PR**(非常建议)
+- **PR**(非常建议)
 
-**Issue**(建议)
+- **Issue**(建议)
 
-**Email**(建议): userElaina@Gmail.com
+- **Email**(建议): userElaina@Gmail.com
 
-**Telegram**(建议): [@userElaina](https://t.me/userElaina)
+- **Telegram**(建议): [@userElaina](https://t.me/userElaina)
 
-**QQ**(不建议): 1072674074
+- **QQ**(不建议): 1072674074
 
 ## 大佬%%%
 
-Ciel [GitHub](https://github.com/TechCiel) [Blog](https://blog.ciel.dev/)
+- Ciel [GitHub](https://github.com/TechCiel) [Blog](https://blog.ciel.dev/)
 
-YuhangQ [GitHub](https://github.com/YuhangQ) [Blog](https://blog.wento.icu/)
+- YuhangQ [GitHub](https://github.com/YuhangQ) [Blog](https://blog.wento.icu/)
 
-Alex [GitHub](https://github.com/AlexCSTech) [Blog](https://blog.ifan.dev/)
+- Alex [GitHub](https://github.com/AlexCSTech) [Blog](https://blog.ifan.dev/)
 
-Superbia [GitHub](https://github.com/Superbia-zyb) [Blog](https://superbia.cn/)
+- Superbia [GitHub](https://github.com/Superbia-zyb) [Blog](https://superbia.cn/)
 
-MerlynAllen [GitHub](https://github.com/MerlynAllen) [Blog](https://xiaorui.li/)
+- MerlynAllen [GitHub](https://github.com/MerlynAllen) [Blog](https://xiaorui.li/)
 
-WessonZhu [GitHub](https://github.com/Wesson-Zhu) [Blog](https://wessonzhu.gitee.io/)
+- WessonZhu [GitHub](https://github.com/Wesson-Zhu) [Blog](https://wessonzhu.gitee.io/)
+
+- Yurzi [GitHub](https://github.com/Yurzi) [Blog](https://blog.yurzi.net/)
+
+- OceanPresent [GitHub](https://github.com/OceanPresentChao) [Blog](https://oceanpresent.art)
+
+- Dazz1e [GitHub](https://github.com/XuanchenLi) 
+
+- Linexus [GitHub](https://github.com/hhhhlkf) [Blog](https://hhhhlkf.github.io/)
+
+- Elaina [GitHub](https://github.com/userElaina)  [Blog](https://t.me/s/cyberelaina)
