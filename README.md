@@ -170,339 +170,228 @@
 
 ### 空间解析几何
 
-#### 浅谈几何学与计算机的交叉应用
+| 项目 | Repository |
+| -- | -- |
+| 浅谈几何学与计算机的交叉应用 | https://github.com/userElaina/analytic-geometry |
 
-Repository: https://github.com/userElaina/analytic-geometry
-
-----
+---
 
 ### 机器学习与Python
 
-#### Machine-Learning-and-Python
+| 项目 | Repository |
+| -- | -- |
+| Machine-Learning-and-Python | https://github.com/userElaina/ML-and-Py |
 
-Repository: https://github.com/userElaina/ML-and-Py
-
-----
+---
 
 ### 基础物理实验
 
-#### 实验报告
+| 项目 | Repository |
+| -- | -- |
+| 实验报告 | https://github.com/userElaina/jlu-physics-lab-repor |
 
-Repository: https://github.com/userElaina/jlu-physics-lab-repor
-
-----
+---
 
 ### 面向对象
 
-#### 每周练习
+| 项目 | Repository |
+| -- | -- |
+| 每周练习 | https://github.com/Yesterday17/JLUOOPClassWork |
+| 作业 | https://github.com/ZuoTiJia/cppHomework |
+| ChatMFC | https://github.com/yang-er/ChatMFC |
 
-Repository: https://github.com/Yesterday17/JLUOOPClassWork
-
-#### 作业
-
-Repository: https://github.com/ZuoTiJia/cppHomework
-
-#### ChatMFC
-
-Repository: https://github.com/yang-er/ChatMFC
-
-----
+---
 
 ### 网页程序设计
 
-#### 小小书屋
+| 项目 | Repository |
+| -- | -- |
+| 小小书屋 | [XuanchenLi/Gosling_Book_Bar](https://github.com/XuanchenLi/Gosling_Book_Bar) |
+| 小小书屋 | [OceanPresentChao/CarillionBookstore-admin](https://github.com/OceanPresentChao/CarillionBookstore-admin) |
+| 小小书屋 | [linexus/carillonbookstore](https://gitee.com/linexus/carillonbookstore) |
+| 小小书屋 | [Yurzi/carillion_bookstore_backend](https://github.com/Yurzi/carillion_bookstore_backend) |
+| software-project-html | https://github.com/DctorWei1314/software_project_html |
 
-Repository: [https://github.com/XuanchenLi/Gosling_Book_Bar](https://github.com/XuanchenLi/Gosling_Book_Bar)
-
-Repository: [https://github.com/OceanPresentChao/CarillionBookstore-admin](https://github.com/OceanPresentChao/CarillionBookstore-admin)
-
- [https://gitee.com/linexus/carillonbookstore](https://gitee.com/linexus/carillonbookstore)
-
- [https://github.com/Yurzi/carillion_bookstore_backend](https://github.com/Yurzi/carillion_bookstore_backend)
-
-#### software-project-html
-
-Repository: https://github.com/DctorWei1314/software_project_html
-
-----
+---
 
 ### 操作系统
 
-#### 基于反馈排队算法的 cpu 调度的模拟实现 (Python)
+| 项目 | Repository |
+| -- | -- |
+| 基于反馈排队算法的 cpu 调度的模拟实现 (Python) | https://github.com/userElaina/oslab |
+| 基于反馈排队算法的 cpu 调度的模拟实现 (Vue) | https://github.com/OceanPresentChao/Visual-MLFQ |
+| Banker Algorithm | https://github.com/Rosenberg37/operatingSystemClassDesign |
+| 死锁判断 | https://github.com/XuanchenLi/visualize_deadlock_graph |
+| 磁盘调度 | https://github.com/hhhhlkf/disk_scheduling |
 
-Repository: https://github.com/userElaina/oslab
-
-#### 基于反馈排队算法的 cpu 调度的模拟实现 (Vue)
-
-Repository: **[https://github.com/OceanPresentChao/Visual-MLFQ](https://github.com/OceanPresentChao/Visual-MLFQ)**
-
-#### Banker Algorithm
-
-Repository: https://github.com/Rosenberg37/operatingSystemClassDesign
-
-#### 死锁判断
-
-Repository: [visualize_deadlock_graph](https://github.com/XuanchenLi/visualize_deadlock_graph)
-
-#### 磁盘调度
-
-Repository: [https://github.com/hhhhlkf/disk_scheduling](https://github.com/hhhhlkf/disk_scheduling)
-
-----
+---
 
 ### 程序设计综合课
 
-#### 中心点计算
+| 项目 | Repository | 依赖 |
+| -- | -- | -- |
+| 中心点计算 | https://github.com/yang-er/GraphCalculate |  |
+| KingZ-人机对战游戏 | https://github.com/userElaina/KingZ-game | https://github.com/userElaina/fastgui |
+| Risc-V 解释器 | https://github.com/YuhangQ/RiscvSimulator |  |
+| C++ 实现的卷积神经网络 | https://github.com/Sherlock-coder/simpleCnnFramework |  |
+| Gomoku-人机五子棋程序 | https://github.com/jiafeng5513/Gomoku |  |
+| Python 实现一个神经网络 | https://github.com/XuanchenLi/Easy_Neural_Network |  |
 
-Repository: https://github.com/yang-er/GraphCalculate
-
-#### KingZ-人机对战游戏
-
-Repository: https://github.com/userElaina/KingZ-game
-
-依赖: https://github.com/userElaina/fastgui
-
-(依赖库也可作为作业代码)
-
-#### Risc-V 解释器
-
-Repository: https://github.com/YuhangQ/RiscvSimulator
-
-#### C++ 实现的卷积神经网络
-
-Repository: https://github.com/Sherlock-coder/simpleCnnFramework
-
-#### Gomoku-人机五子棋程序
-
-Repository: https://github.com/jiafeng5513/Gomoku
-
-#### Python 实现一个神经网络
-
-Repository: [GitHub - XuanchenLi/Easy_Neural_Network: A configurable neural network](https://github.com/XuanchenLi/Easy_Neural_Network)
-
-----
+---
 
 ### 图形学
 
-#### 图形学基础小实验
+| 项目 | Repository |
+| -- | -- |
+| 图形学基础小实验 | https://github.com/jiafeng5513/CGwork0218 |
 
-Repository: https://github.com/jiafeng5513/CGwork0218
-
-----
+---
 
 ### C++课设
 
-#### 商城
+| 项目 | Repository |
+| -- | -- |
+| 商城 | [hhhhlkf/E-commerce](https://github.com/hhhhlkf/E-commerce) |
+| 商城 | [XuanchenLi/XMall](https://github.com/XuanchenLi/XMall) |
+| 商城 | [OceanPresentChao/Qt-ShoppingMall](https://github.com/OceanPresentChao/Qt-ShoppingMall) |
 
-Repository: [https://github.com/hhhhlkf/E-commerce](https://github.com/hhhhlkf/E-commerce)
-
-Repository:[https://github.com/XuanchenLi/XMall](https://github.com/XuanchenLi/XMall)
-
-Repository: [https://github.com/OceanPresentChao/Qt-ShoppingMall](https://github.com/OceanPresentChao/Qt-ShoppingMall)
-
-----
+---
 
 ### Java
 
-#### 练习
+| 项目 | Repository |
+| -- | -- |
+| 练习 | https://github.com/yang-er/JavaExperiment |
+| 书店 | https://github.com/EugeneJie/BookStore |
+| 网盘 | https://github.com/kvrmnks/Cvarpe |
+| Pet-shop | https://github.com/Rosenberg37/javaClassDesign |
 
-Repository: https://github.com/yang-er/JavaExperiment
-
-#### 书店
-
-Repository: https://github.com/EugeneJie/BookStore
-
-#### 网盘
-
-Repository: https://github.com/kvrmnks/Cvarpe
-
-#### Pet-shop
-
-Repository: https://github.com/Rosenberg37/javaClassDesign
-
-----
+---
 
 ### Linux
 
-#### linux-notes
+| 项目 | Repository |
+| -- | -- |
+| linux-notes | https://github.com/userElaina/linux-notes |
+| rsap2p | https://github.com/userElaina/rsap2p |
 
-Repository: https://github.com/userElaina/linux-notes
-
-#### rsap2p
-
-Repository: https://github.com/userElaina/rsap2p
-
-----
+---
 
 ### 计算机网络
 
-#### Raw-Socket-文件传输服务器
-
-Repository: https://github.com/kaaass/cs-network-proj
-
-#### SpanTree
-
-Repository: https://github.com/Rosenberg37/SpanTree
-
-#### RSTP-Lab
-
-Repository: https://github.com/TechCiel/RSTP-Lab
+| 项目 | Repository |
+| -- | -- |
+| Raw-Socket-文件传输服务器 | https://github.com/kaaass/cs-network-proj |
+| SpanTree | https://github.com/Rosenberg37/SpanTree |
+| RSTP-Lab | https://github.com/TechCiel/RSTP-Lab |
 
 ----
 
 ### 数据库
 
-#### simple-db
+| 项目 | Repository |
+| -- | -- |
+| simple-db | https://github.com/DctorWei1314/simple_db |
+| InvoDB | https://github.com/YuhangQ/InvoDB |
+| 花瓣 | [main](https://github.com/haotian-T/database) ; [make](https://github.com/haotian-T/make_database) |
 
-Repository: https://github.com/DctorWei1314/simple_db
-
-#### InvoDB
-
-Repository: https://github.com/YuhangQ/InvoDB
-
-#### 花瓣
-
-Repository(main): https://github.com/haotian-T/database
-
-Repository(make): https://github.com/haotian-T/make_database
-
-----
+---
 
 ### 微机/嵌入式/汇编
 
-#### MIPS
+| 项目 | Repository |
+| -- | -- |
+| MIPS | https://github.com/userElaina/mips |
+| MIPS | https://github.com/geekifan/mips-design |
+| Microcomputer-Lab | https://github.com/userElaina/MicrocomputerLab |
+| Microcomputer-Experiment | https://github.com/waynelee-lwc/Microcomputer-Experiment |
+| x86 (I32) 汇编 | https://github.com/userElaina/x86-asm-homework |
 
-Repository: https://github.com/userElaina/mips
-
-#### MIPS
-
-Repository: https://github.com/geekifan/mips-design
-
-#### Microcomputer-Lab
-
-Repository: https://github.com/userElaina/MicrocomputerLab
-
-#### Microcomputer-Experiment
-
-Repository: https://github.com/waynelee-lwc/Microcomputer-Experiment
-
-#### x86 (I32) 汇编
-
-Repository: https://github.com/userElaina/x86-asm-homework
-
-----
+---
 
 ### 编译原理
 
-#### 词法分析-递归下降
+| 项目 | Repository |
+| -- | -- |
+| 词法分析-递归下降 | https://github.com/SAGIRI-kawaii/SNLCompiler |
+| SNL 编译器 | https://github.com/waynelee-lwc/2119-snl-compiler-design |
 
-Repository: https://github.com/SAGIRI-kawaii/SNLCompiler
-
-#### SNL 编译器
-
-Repository: https://github.com/waynelee-lwc/2119-snl-compiler-design
-
-----
+---
 
 ### 软件工程
 
-#### software-project-html
+| 项目 | Repository |
+| -- | -- |
+| software-project-html | https://github.com/DctorWei1314/software_project_html |
+| software-project-html | https://github.com/XuanchenLi/business_management_system_backend |
+| software-project-html | https://github.com/RelaxDegree/Business_Process_System |
+| software-project-html | https://github.com/OceanPresentChao/DocAuth-frontend |
+| software-project-html | https://github.com/Yurzi/DocAuth-backend |
+| blog engine | https://github.com/TechCiel/whisper |
 
-Repository: https://github.com/DctorWei1314/software_project_html
-
-Repository:[GitHub - XuanchenLi/business_management_system_backend: backend of business management system](https://github.com/XuanchenLi/business_management_system_backend)
-
-[GitHub - RelaxDegree/Business_Process_System: JLU软件工程卓班大作业](https://github.com/RelaxDegree/Business_Process_System)
-
-Repository: [GitHub - OceanPresentChao/DocAuth-frontend: Application for imitating business progress of doc writting with authority management](https://github.com/OceanPresentChao/DocAuth-frontend)
-
- [GitHub - Yurzi/DocAuth-backend: the backend for DocAuth, a web application for team review](https://github.com/Yurzi/DocAuth-backend)
-
-#### blog engine
-
-Repository: https://github.com/TechCiel/whisper
-
-----
+---
 
 ### 嵌入式实验
 
-#### 高铁信息牌
+| 项目 | Repository |
+| -- | -- |
+| 高铁信息牌 | https://github.com/userElaina/s3c2440-homework |
+| Bad Apple!! for s3c2440 | https://github.com/userElaina/Bad-Apple-4-s3c2440 |
 
-Repository: https://github.com/userElaina/s3c2440-homework
-
-#### Bad Apple!! for s3c2440
-
-Repository: https://github.com/userElaina/Bad-Apple-4-s3c2440
-
-----
+---
 
 ### 毕业设计
 
-#### 基于 Qt 的卷积神经网络辅助设计系统
+| 项目 | Repository |
+| -- | -- |
+| 基于 Qt 的卷积神经网络辅助设计系统 | https://github.com/jiafeng5513/GraduationProject |
 
-Repository: https://github.com/jiafeng5513/GraduationProject
-
-----
+---
 
 ### 企业实训
 
-#### Matplotlib 绘图与数据分析
+| 项目 | Repository |
+| -- | -- |
+| Matplotlib 绘图与数据分析 | https://github.com/userElaina/plt-draw-homework |
 
-Repository: https://github.com/userElaina/plt-draw-homework
+---
 
-----
+### 网络程序设计
 
-### 网络程序设计.
+| 项目 | Repository |
+| -- | -- |
+| ChatSystem | https://github.com/SAGIRI-kawaii/ChatSystem |
 
-#### ChatSystem
-
-Repository: [GitHub - SAGIRI-kawaii/ChatSystem: 网络程序设计大作业](https://github.com/SAGIRI-kawaii/ChatSystem)
-
-----
+---
 
 ### 系统软件综合实践
 
-#### 数据库引擎（CS346）
+| 项目 | Repository |
+| -- | -- |
+| 数据库引擎（CS346） | https://github.com/yang-er/DbEngine |
+| 数据库引擎（CS346） | https://github.com/XuanchenLi/DBCourse |
 
-Repository: [GitHub - yang-er/DbEngine: 系统软件综合实践课程设计](https://github.com/yang-er/DbEngine)
-
-Repository: [GitHub - XuanchenLi/DBCourse](https://github.com/XuanchenLi/DBCourse)
-
-----
+---
 
 ### 设计模式
 
-Repository: [GitHub - yang-er/DesignPattern: 设计模式课程作业代码](https://github.com/yang-er/DesignPattern)
+| 项目 | Repository |
+| -- | -- |
+| 设计模式课程作业代码 | https://github.com/yang-er/DesignPattern |
 
-----
+---
 
 ### Others
 
-#### 大数据技术与应用作业
+| 项目 | Repository |
+| -- | -- |
+| 大数据技术与应用作业 | https://github.com/waynelee-lwc/big-data-homework-FE |
+| 处理风控的后端系统 | https://github.com/JLU-bytedance-backend/JLU-bytedance-backend-techtrainingcamp-security-9 |
+| Cat-and-Dog | https://github.com/XuanLaoYee/ML-Cat-Dog |
+| jluNewCamera | [基于 MFC + OpenCV 开发的测距软件](https://github.com/jiafeng5513/jluNewCamera) |
+| dsd-db | [软件分布式开发-服务器组](https://github.com/dsd-db) |
 
-Repository: https://github.com/waynelee-lwc/big-data-homework-FE
-
-#### 处理风控的后端系统
-
-Repository: https://github.com/JLU-bytedance-backend/JLU-bytedance-backend-techtrainingcamp-security-9
-
-#### Cat-and-Dog
-
-Repository: https://github.com/XuanLaoYee/ML-Cat-Dog 
-
-#### jluNewCamera
-
-基于 MFC + OpenCV 开发的测距软件.
-
-Repository: https://github.com/jiafeng5513/jluNewCamera
-
-#### dsd-db
-
-软件分布式开发-服务器组.
-
-Repository (4 in org): https://github.com/dsd-db
-
-----
+---
 
 ## 备注
 
