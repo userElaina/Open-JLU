@@ -12,199 +12,84 @@
 
 ### Ehall
 
-#### 健康打卡-py
-
-建议适用范围: 每日健康打卡
-
-Repository: 因敏感, 此链接已移除
-
-#### 批量健康打卡-go
-
-建议适用范围: 每日健康打卡
-
-Repository: 因敏感, 此链接已移除
-
-#### 批量健康打卡-tgbot
-
-建议适用范围: 每日健康打卡
-
-Repository: 因敏感, 此链接已移除
+| 项目 | 建议适用范围 | Repository |
+| -- | -- | -- |
+| 健康打卡-py | 每日健康打卡 | 因敏感, 此链接已移除 |
+| 批量健康打卡-go | 每日健康打卡 | 因敏感, 此链接已移除 |
+| 批量健康打卡-tgbot | 每日健康打卡 | 因敏感, 此链接已移除 |
 
 ---
 
 ### OA
 
-#### 通知爬虫
+| 项目 | 建议适用范围 | Repository |
+| -- | -- | -- |
+| 通知爬虫 | 计算机相关爱好者 | https://github.com/TechCiel/Reachee |
 
-建议适用范围: 计算机相关爱好者
-
-Repository: https://github.com/TechCiel/Reachee
-
-----
+---
 
 ### VPN
 
-#### VPN-URL
+| 项目 | 建议适用范围 | Repository |
+| -- | -- | -- |
+| VPN-URL | 非校园网网络环境 | https://github.com/MerlynAllen/JLU-VPN |
+| VPN-Door | 非校园网网络环境 | https://github.com/MerlynAllen/jlu-vpns-dokodemo-door |
+| http-proxy | 非校园网网络环境 | https://github.com/Yesterday17/jlu-http-proxy |
 
-建议适用范围: 非校园网网络环境
-
-Repository: https://github.com/MerlynAllen/JLU-VPN
-
-#### VPN-Door
-
-建议适用范围: 非校园网网络环境
-
-Repository: https://github.com/MerlynAllen/jlu-vpns-dokodemo-door
-
-#### http-proxy
-
-建议适用范围: 非校园网网络环境
-
-Repository: https://github.com/Yesterday17/jlu-http-proxy
-
-----
+---
 
 ### Drcom
 
-#### Drcom-win32
+| 项目 | 建议适用范围 | Repository |
+| -- | -- | -- |
+| Drcom-win32 | 链接有线校园网 | https://github.com/code4lala/dr-jlu-win32 |
+| Drcom-C | 链接有线校园网 | https://github.com/hyec/drcomlite |
+| Drcom-CSharp | 链接有线校园网 | https://github.com/yang-er/jlu-drcom-csharp |
+| Drcom-Service-CSharp | 链接有线校园网, 设置为 Windows 服务 | https://github.com/Yesterday17/JLUDrcomService |
+| Drcom-Qt | 链接有线校园网 | https://github.com/code4lala/drcom-jlu-qt |
+| Drcom-Golang | 计算机相关爱好者 | https://github.com/Yesterday17/go-drcom-jlu |
+| Drcom-Client | 计算机相关爱好者 | https://github.com/ly0/jlu-drcom-client |
+| Drcom-hiwifi | 计算机相关爱好者 | https://github.com/jiafeng5513/jlu.hiwifi |
 
-建议适用范围: 链接有线校园网
-
-Repository: https://github.com/code4lala/dr-jlu-win32
-
-#### Drcom-C
-
-建议适用范围: 链接有线校园网
-
-Repository: https://github.com/hyec/drcomlite
-
-#### Drcom-CSharp
-
-建议适用范围: 链接有线校园网
-
-Repository: https://github.com/yang-er/jlu-drcom-csharp
-
-#### Drcom-Service-CSharp
-
-建议适用范围: 链接有线校园网, 设置为 Windows 服务
-
-Repository: https://github.com/Yesterday17/JLUDrcomService
-
-#### Drcom-Qt
-
-建议适用范围: 链接有线校园网
-
-Repository: https://github.com/code4lala/drcom-jlu-qt
-
-#### Drcom-Golang
-
-建议适用范围: 计算机相关爱好者
-
-Repository: https://github.com/Yesterday17/go-drcom-jlu
-
-#### Drcom-Client
-
-建议适用范围: 计算机相关爱好者
-
-Repository: https://github.com/ly0/jlu-drcom-client
-
-#### Drcom-hiwifi
-
-建议适用范围: 计算机相关爱好者
-
-Repository: https://github.com/jiafeng5513/jlu.hiwifi
-
-----
+---
 
 ### UIMS
 
 预计功能将迁移至 IEDU 和 ICOURSE, 届时下列工具将又很大的可能失效.
 
-#### 一键评教-py
+| 项目 | 建议适用范围 | Repository | 备注 |
+| -- | -- | -- | -- |
+| 一键评教-py | 期末时评教 | https://github.com/EugeneJie/AutoEvaluate | 需要校园网 |
+| 一键评教-js | 期末时评教 | https://github.com/TechCiel/jlu-uims-assess |  |
+| 一键评教-server | 期末时评教 | https://github.com/YuhangQ/JLU-UIMS-WEB |  |
+| 选课助手 | 计算机相关爱好者 | https://github.com/42binwang/jlu_selectCourse_helper |  |
+| FakeUIMS | 计算机相关爱好者 | https://github.com/yang-er/FakeUIMS |  |
+| 掌上校园 |  | https://github.com/yang-er/HandSchool |  |
 
-需要校园网.
-
-建议适用范围: 期末时评教
-
-Repository: https://github.com/EugeneJie/AutoEvaluate
-
-#### 一键评教-js
-
-建议适用范围: 期末时评教
-
-Repository: https://github.com/TechCiel/jlu-uims-assess
-
-#### 一键评教-server
-
-建议适用范围: 期末时评教
-
-Repository: https://github.com/YuhangQ/JLU-UIMS-WEB
-
-#### 选课助手
-
-建议适用范围: 计算机相关爱好者
-
-Repository: https://github.com/42binwang/jlu_selectCourse_helper
-
-#### FakeUIMS
-
-建议适用范围: 计算机相关爱好者
-
-Repository: https://github.com/yang-er/FakeUIMS
-
-#### 掌上校园
-
-Repository: https://github.com/yang-er/HandSchool
-
-----
+---
 
 ### JLU Online Judge
 
-#### JOJ-old
+| 项目 | 建议适用范围 | Repository |
+| -- | -- | -- |
+| JOJ-old | ACMer | https://github.com/yang-er/joj-old |
+| JOJ-win32 | ACMer | https://github.com/yang-er/joj-win32 |
+| JLU Online Judge | ACMer | https://github.com/yang-er/OnlineJudge |
+| 通知爬虫 | 计算机相关爱好者 | https://github.com/TechCiel/Reachee |
 
-建议适用人群: ACMer
-
-Repository: https://github.com/yang-er/joj-old
-
-#### JOJ-win32
-
-建议适用人群: ACMer
-
-Repository: https://github.com/yang-er/joj-win32
-
-#### JLU Online Judge
-
-建议适用人群: ACMer
-
-Repository: https://github.com/yang-er/OnlineJudge
-
-----
+---
 
 ### Others
 
-#### 汇总页
+| 项目 | 建议适用范围 | Repository |
+| -- | -- | -- |
+| 汇总页 | 吉林大学在校学生和在职教职工 | https://github.com/userElaina/Outlast-JLU-DLC |
+| 浴池预约结果页面临摹(类似截图生成器)* | 吉林大学在校学生 | https://github.com/TechCiel/jlu-yuci |
+| 合成JLU(Game) |  | https://github.com/Wesson-Zhu/hechengJLU |
 
-建议适用人群: 吉林大学在校学生和在职教职工
+*补充: 1.建议适用人群: 吉林大学在校学生； 2.建议适用范围: 浴池预约结果页面临摹(类似截图生成器)； 3.Demo1: https://techciel.github.io/jlu-yuci/； 4.Demo2: https://ciel.dev/yuci/
 
-Repository: https://github.com/userElaina/Outlast-JLU-DLC
-
-#### 浴池预约结果页面临摹(类似截图生成器)
-
-建议适用人群: 吉林大学在校学生
-
-建议适用范围: 浴池预约结果页面临摹(类似截图生成器)
-
-Repository: https://github.com/TechCiel/jlu-yuci
-
-Demo1: https://techciel.github.io/jlu-yuci/
-
-Demo2: https://ciel.dev/yuci/
-
-#### 合成JLU(Game)
-
-Repository: https://github.com/Wesson-Zhu/hechengJLU
-
-----
+---
 
 ## 课程学习和资料
 
