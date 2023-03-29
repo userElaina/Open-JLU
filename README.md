@@ -95,157 +95,78 @@
 
 ### 面向对象
 
-#### oop-notes
+| 项目 | Repository | 说明 |
+| -- | -- | -- |
+| oop-notes | https://github.com/userElaina/oop-notes |  |
 
-Repository: https://github.com/userElaina/oop-notes
-
-----
+---
 
 ### 图形学
 
-#### Computer Graphics
+| 项目 | Repository | 说明 |
+| -- | -- | -- |
+| Computer Graphics | https://github.com/userElaina/jlu-computer-graphics | 教材缺失的API的实现,相关算法的实现. |
 
-教材缺失的API的实现,相关算法的实现.
-
-Repository: https://github.com/userElaina/jlu-computer-graphics
-
-----
+---
 
 ### 嵌入式/汇编
 
-#### Embedded System
+| 项目 | Repository | 说明 |
+| -- | -- | -- |
+| Embedded System | https://github.com/userElaina/Embedded-System | 复习题库 |
+| x86 汇编 | https://github.com/lichuang/x86-asm-book-source | 课程资源 |
+| 嵌入式实验 | https://github.com/userElaina/up-tech-cup-s3c2440-source | 课程资源 |
+| LED点阵模拟器 | https://github.com/waynelee-lwc/LED-lattice-simulator | Demo: http://www.wayne-lee.cn:3006/ |
 
-复习题库.
-
-Repository: https://github.com/userElaina/Embedded-System
-
-#### x86 汇编
-
-课程资源.
-
-Repository: https://github.com/lichuang/x86-asm-book-source
-
-#### 嵌入式实验
-
-课程资源.
-
-Repository: https://github.com/userElaina/up-tech-cup-s3c2440-source
-
-#### LED点阵模拟器
-
-Demo: http://www.wayne-lee.cn:3006/
-
-Repository: https://github.com/waynelee-lwc/LED-lattice-simulator
-
-----
+---
 
 ### Others
 
-#### 计院研究生课程复习资料
+| 项目 | Repository | 建议适用范围 |
+| -- | -- | -- |
+| 计院研究生课程复习资料 | https://github.com/jiafeng5513/DocsForReview |  |
+| 主题 LaTeX 模板 | https://github.com/KveinAxel/JLU-Beamer-Theme |  |
+| 本科生学毕业论文 LaTeX 模板 | https://github.com/x86vk/JLU-CCST-Thesis | 吉林大学计算机科学与技术学院本科毕业论文 |
+| 研究生学位论文 LaTeX 模板 | https://github.com/maxuewei2/JLUThesis2020 | 吉林大学研究生(硕/博)学位论文 |
+| 学位论文 LaTeX 模板 | https://github.com/jiafeng5513/JLU_Dissertation | 吉林大学学生(本/硕/博)学位论文 |
 
-Repository: https://github.com/jiafeng5513/DocsForReview
-
-#### 主题 LaTeX 模板
-
-Repository: https://github.com/KveinAxel/JLU-Beamer-Theme
-
-#### 本科生学毕业论文 LaTeX 模板
-
-建议适用范围: 吉林大学计算机科学与技术学院本科毕业论文
-
-Repository: https://github.com/x86vk/JLU-CCST-Thesis
-
-#### 研究生学位论文 LaTeX 模板
-
-建议适用范围: 吉林大学研究生(硕/博)学位论文
-
-Repository: https://github.com/maxuewei2/JLUThesis2020
-
-#### 学位论文 LaTeX 模板
-
-建议适用范围: 吉林大学学生(本/硕/博)学位论文
-
-Repository: https://github.com/jiafeng5513/JLU_Dissertation
-
-----
+---
 
 ## 大作业
 
 ### 程序设计基础
 
-#### 日常作业
+| 项目 | Repository |
+| -- | -- |
+| 日常作业 | https://github.com/Yesterday17/ProgramDesignHomework |
+| 学生成绩管理系统 | https://github.com/EugeneJie/achievement |
+| Fruit-Market | https://github.com/yang-er/FruitMarket |
 
-Repository: https://github.com/Yesterday17/ProgramDesignHomework
-
-#### 学生成绩管理系统
-
-Repository: https://github.com/EugeneJie/achievement
-
-#### Fruit-Market
-
-Repository: https://github.com/yang-er/FruitMarket
-
-----
+---
 
 ### 大学计算机基础
 
-#### Unity-游戏
+| 项目 | Repository |
+| -- | -- |
+| Unity-游戏 | https://github.com/Superbia-zyb/2D-Adventure |
 
-Repository: https://github.com/Superbia-zyb/2D-Adventure
-
-----
+---
 
 ### 算法和数据结构
 
-#### 简单的作业
+| 项目 | Repository | 平台 |
+| -- | -- | -- |
+| 简单的作业 | https://github.com/userElaina/data-structrue |  |
+| Huffman-qwq-哈夫曼-压缩软件 | https://github.com/userElaina/naive-Huffman |  |
+| Keven-Bacon-六度分离假说 | https://github.com/userElaina/Keven-Bacon |  |
+| Nogo-不围棋 | https://github.com/Superbia-zyb/NoGo-AIBot | Botzone |
+| Nogo-不围棋(2) | https://github.com/Subsegment/nogo | Botzone |
+| Snake-贪吃蛇 | https://github.com/Superbia-zyb/Snake-AIBot | Botzone |
+| 机票管理系统 | [Server](https://github.com/KveinAxel/TicketManageSystem) ; [前端](https://github.com/KveinAxel/TicketManageSystemFrontEnd) |  |
+| 新闻区块链 | [Server](https://github.com/KveinAxel/NewsBlockChain) ; [DNS](https://github.com/KveinAxel/NewsBlockChainDNS) ; [前端](https://github.com/KveinAxel/NewsBlockChainFrontEnd) |  |
+| 红黑树 | https://github.com/ZuoTiJia/datastruct |  |
 
-Repository: https://github.com/userElaina/data-structrue
-
-#### Huffman-qwq-哈夫曼-压缩软件
-
-Repository: https://github.com/userElaina/naive-Huffman
-
-#### Keven-Bacon-六度分离假说
-
-Repository: https://github.com/userElaina/Keven-Bacon
-
-#### Nogo-不围棋
-
-平台: Botzone
-
-Repository: https://github.com/Superbia-zyb/NoGo-AIBot
-
-#### Nogo-不围棋(2)
-
-平台: Botzone
-
-Repository: https://github.com/Subsegment/nogo
-
-#### Snake-贪吃蛇
-
-平台: Botzone
-
-Repository: https://github.com/Superbia-zyb/Snake-AIBot
-
-#### 机票管理系统
-
-Repository(Server): https://github.com/KveinAxel/TicketManageSystem
-
-Repository(前端): https://github.com/KveinAxel/TicketManageSystemFrontEnd
-
-#### 新闻区块链
-
-Repository(Server): https://github.com/KveinAxel/NewsBlockChain
-
-Repository(DNS): https://github.com/KveinAxel/NewsBlockChainDNS
-
-Repository(前端): https://github.com/KveinAxel/NewsBlockChainFrontEnd
-
-#### 红黑树
-
-Repository: https://github.com/ZuoTiJia/datastruct
-
-----
+---
 
 ### 空间解析几何
 
