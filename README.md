@@ -179,6 +179,7 @@
 | 软件工程 | blog engine | https://github.com/TechCiel/whisper |  |
 | 嵌入式实验 | 高铁信息牌 | https://github.com/userElaina/s3c2440-homework |  |
 | 嵌入式实验 | Bad Apple!! for s3c2440 | https://github.com/userElaina/Bad-Apple-4-s3c2440 |  |
+| 嵌入式实验 | 商品条形码识别 | https://github.com/qjksxy/Barcode |  |
 | 毕业设计 | 基于 Qt 的卷积神经网络辅助设计系统 | https://github.com/jiafeng5513/GraduationProject |  |
 | 企业实训 | Matplotlib 绘图与数据分析 | https://github.com/userElaina/plt-draw-homework |  |
 | 网络程序设计 | ChatSystem | https://github.com/SAGIRI-kawaii/ChatSystem |  |
