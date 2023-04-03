@@ -2,7 +2,7 @@
 
 汇总了关于如何在吉林~~停水停电职业学院~~大学生存的 Repository.
 
-欢迎学生/教职工们 PR 或以任何你喜欢的方式 [提交信息](#反馈).
+欢迎 JLUer 们 PR 或以任何你喜欢的方式 [提交信息](#反馈).
 
 ## 封面
 
@@ -12,63 +12,61 @@
 
 ### OA
 
-| 项目 | 建议适用范围 | Repository |
-| -- | -- | -- |
-| 通知爬虫 | 计算机相关爱好者 | https://github.com/TechCiel/Reachee |
+| 项目名称 | Repository |
+| -- | -- |
+| 通知爬虫 | https://github.com/TechCiel/Reachee |
 
 ---
 
 ### VPN
 
-| 项目 | 建议适用范围 | Repository |
-| -- | -- | -- |
-| VPN-URL | 非校园网网络环境 | https://github.com/MerlynAllen/JLU-VPN |
-| VPN-Door | 非校园网网络环境 | https://github.com/MerlynAllen/jlu-vpns-dokodemo-door |
-| http-proxy | 非校园网网络环境 | https://github.com/Yesterday17/jlu-http-proxy |
+| 项目名称 | Repository |
+| -- | -- |
+| VPN-URL | https://github.com/MerlynAllen/JLU-VPN |
+| VPN-Door | https://github.com/MerlynAllen/jlu-vpns-dokodemo-door |
+| http-proxy | https://github.com/Yesterday17/jlu-http-proxy |
 
 ---
 
 ### Drcom
 
-| 项目 | 建议适用范围 | Repository |
-| -- | -- | -- |
-| Drcom-win32 | 链接有线校园网 | https://github.com/code4lala/dr-jlu-win32 |
-| Drcom-C | 链接有线校园网 | https://github.com/hyec/drcomlite |
-| Drcom-CSharp | 链接有线校园网 | https://github.com/yang-er/jlu-drcom-csharp |
-| Drcom-Service-CSharp | 链接有线校园网, 设置为 Windows 服务 | https://github.com/Yesterday17/JLUDrcomService |
-| Drcom-Qt | 链接有线校园网 | https://github.com/code4lala/drcom-jlu-qt |
-| Drcom-Golang | 计算机相关爱好者 | https://github.com/Yesterday17/go-drcom-jlu |
-| Drcom-Client | 计算机相关爱好者 | https://github.com/ly0/jlu-drcom-client |
-| Drcom-hiwifi | 计算机相关爱好者 | https://github.com/jiafeng5513/jlu.hiwifi |
+| 项目名称 | Repository |
+| -- | -- |
+| Drcom-win32 | https://github.com/code4lala/dr-jlu-win32 |
+| Drcom-C | https://github.com/hyec/drcomlite |
+| Drcom-CSharp | https://github.com/yang-er/jlu-drcom-csharp |
+| Drcom-Service-CSharp* | https://github.com/Yesterday17/JLUDrcomService |
+| Drcom-Qt | https://github.com/code4lala/drcom-jlu-qt |
+| Drcom-Golang | https://github.com/Yesterday17/go-drcom-jlu |
+| Drcom-Client | https://github.com/ly0/jlu-drcom-client |
+| Drcom-hiwifi | https://github.com/jiafeng5513/jlu.hiwifi |
+
+*Drcom-Service-CSharp: 设置为 Windows 服务
 
 ---
 
 ### JLU Online Judge
 
-| 项目 | 建议适用范围 | Repository |
-| -- | -- | -- |
-| JOJ-old | ACMer | https://github.com/yang-er/joj-old |
-| JOJ-win32 | ACMer | https://github.com/yang-er/joj-win32 |
-| JLU Online Judge | ACMer | https://github.com/yang-er/OnlineJudge |
-| 通知爬虫 | 计算机相关爱好者 | https://github.com/TechCiel/Reachee |
+| 项目名称 | Repository |
+| -- | -- |
+| JOJ-old | https://github.com/yang-er/joj-old |
+| JOJ-win32 | https://github.com/yang-er/joj-win32 |
+| JLU Online Judge | https://github.com/yang-er/OnlineJudge |
 
 ---
 
 ### Others
 
-| 项目 | 建议适用范围 | Repository |
-| -- | -- | -- |
-| 汇总页 | 吉林大学在校学生和在职教职工 | https://github.com/userElaina/Outlast-JLU-DLC |
-| 浴池预约结果页面临摹(类似截图生成器)* | 吉林大学在校学生 | https://github.com/TechCiel/jlu-yuci |
-| 合成JLU(Game) |  | https://github.com/Wesson-Zhu/hechengJLU |
-
-*补充: 1.建议适用人群: 吉林大学在校学生； 2.建议适用范围: 浴池预约结果页面临摹(类似截图生成器)； 3.Demo1: https://techciel.github.io/jlu-yuci/； 4.Demo2: https://ciel.dev/yuci/
+| 项目名称 | Repository |
+| -- | -- |
+| 汇总(本项目) | https://github.com/userElaina/Outlast-JLU-DLC |
+| 合成JLU(Game) | https://github.com/Wesson-Zhu/hechengJLU |
 
 ---
 
 ## 课程学习和资料
 
-| 课程 | 项目 | Repository | 说明 |
+| 课程 | 项目名称 | Repository | 说明 |
 | -- | -- | -- | -- |
 | 面向对象 | oop-notes | [userElaina/oop-notes](https://github.com/userElaina/oop-notes) |  |
 | 图形学 | Computer Graphics | [userElaina/jlu-computer-graphics](https://github.com/userElaina/jlu-computer-graphics) | 教材缺失的API的实现,相关算法的实现 |
@@ -86,7 +84,7 @@
 
 ## 大作业
 
-| 课程 | 项目 | Repository | 备注 |
+| 课程 | 项目名称 | Repository | 备注 |
 | -- | -- | -- | -- |
 | 程序设计基础 | 日常作业 | https://github.com/Yesterday17/ProgramDesignHomework |  |
 | 程序设计基础 | 学生成绩管理系统 | https://github.com/EugeneJie/achievement |  |
