@@ -6,7 +6,7 @@
 
 ## 封面
 
-![Outlast: Jilin University DLC](https://user-images.githubusercontent.com/80948381/133450364-e94a8ff8-58cf-4e1f-81b5-39451e35ebb3.png)
+![Outlast: Jilin University DLC](https://raw.githubusercontent.com/userElaina/Outlast-JLU-DLC/main/steam.png)
 
 ## 工具
 
