@@ -10,16 +10,6 @@
 
 ## 工具
 
-### Ehall
-
-| 项目 | 建议适用范围 | Repository |
-| -- | -- | -- |
-| 健康打卡-py | 每日健康打卡 | 因敏感, 此链接已移除 |
-| 批量健康打卡-go | 每日健康打卡 | 因敏感, 此链接已移除 |
-| 批量健康打卡-tgbot | 每日健康打卡 | 因敏感, 此链接已移除 |
-
----
-
 ### OA
 
 | 项目 | 建议适用范围 | Repository |
@@ -50,21 +40,6 @@
 | Drcom-Golang | 计算机相关爱好者 | https://github.com/Yesterday17/go-drcom-jlu |
 | Drcom-Client | 计算机相关爱好者 | https://github.com/ly0/jlu-drcom-client |
 | Drcom-hiwifi | 计算机相关爱好者 | https://github.com/jiafeng5513/jlu.hiwifi |
-
----
-
-### UIMS
-
-预计功能将迁移至 IEDU 和 ICOURSE, 届时下列工具将又很大的可能失效.
-
-| 项目 | 建议适用范围 | Repository | 备注 |
-| -- | -- | -- | -- |
-| 一键评教-py | 期末时评教 | https://github.com/EugeneJie/AutoEvaluate | 需要校园网 |
-| 一键评教-js | 期末时评教 | https://github.com/TechCiel/jlu-uims-assess |  |
-| 一键评教-server | 期末时评教 | https://github.com/YuhangQ/JLU-UIMS-WEB |  |
-| 选课助手 | 计算机相关爱好者 | https://github.com/42binwang/jlu_selectCourse_helper |  |
-| FakeUIMS | 计算机相关爱好者 | https://github.com/yang-er/FakeUIMS |  |
-| 掌上校园 |  | https://github.com/yang-er/HandSchool |  |
 
 ---
 
