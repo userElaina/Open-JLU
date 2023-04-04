@@ -1,6 +1,6 @@
 # Outlast: Jilin University DLC
 
-汇总了在吉林~~停水停电职业学院~~大学生存所需的 Repositories.
+汇总了在吉林大学(位列国家`双一流` `211工程` `985工程`)生存所需的 Repositories.
 
 欢迎 JLUer 们发 [pull request](https://github.com/userElaina/Outlast-JLU-DLC/pulls) 或以任何你喜欢的方式 [提交信息](#反馈).
 
