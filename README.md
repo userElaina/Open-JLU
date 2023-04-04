@@ -84,10 +84,10 @@
 
 | 课程 | 简介 | Link | 备注 |
 | -- | -- | -- | -- |
-| 程序设计基础 | 日常作业 | [ProgramDesignHomework](https://github.com/Yesterday17/ProgramDesignHomework) |  |
+| 程序设计基础 | 日常作业 | [ProgramDesign](https://github.com/Yesterday17/ProgramDesignHomework) |  |
 | 程序设计基础 | 学生成绩管理系统 | [achievement](https://github.com/EugeneJie/achievement) |  |
 | 程序设计基础 | Fruit-Market | [FruitMarket](https://github.com/yang-er/FruitMarket) |  |
-| 大学计算机基础 | Unity-游戏 | [Superbia-zyb/2D-Adventure](https://github.com/Superbia-zyb/2D-Adventure) |  |
+| 大学计算机基础 | Unity-游戏 | [2D-Adventure](https://github.com/Superbia-zyb/2D-Adventure) |  |
 | 算法和数据结构 | 简单的作业 | [data-structrue](https://github.com/userElaina/data-structrue) |  |
 | 算法和数据结构 | 哈夫曼-压缩软件 | [naive-Huffman](https://github.com/userElaina/naive-Huffman) |  |
 | 算法和数据结构 | 六度分离假说 | [Keven-Bacon](https://github.com/userElaina/Keven-Bacon) |  |
@@ -98,15 +98,13 @@
 | 算法和数据结构 | 新闻区块链 | [Server](https://github.com/KveinAxel/NewsBlockChain); [DNS](https://github.com/KveinAxel/NewsBlockChainDNS); [FrontEnd](https://github.com/KveinAxel/NewsBlockChainFrontEnd) |  |
 | 算法和数据结构 | 红黑树 | [datastruct](https://github.com/ZuoTiJia/datastruct) |  |
 | 空间解析几何 | 几何学计算机交叉应用 | [analytic-geometry](https://github.com/userElaina/analytic-geometry) |  |
-| 机器学习与Python | ML-and-Py | [ML-and-Py](https://github.com/userElaina/ML-and-Py) |  |
+| 机器学习与 Python | ML-and-Py | [ML-and-Py](https://github.com/userElaina/ML-and-Py) |  |
 | 基础物理实验 | 实验报告 | [jlu-physics-lab-repor](https://github.com/userElaina/jlu-physics-lab-repor) |  |
 | 面向对象 (C++) | 每周练习 | [JLUOOPClassWork](https://github.com/Yesterday17/JLUOOPClassWork) |  |
 | 面向对象 (C++) | 作业 | [cppHomework](https://github.com/ZuoTiJia/cppHomework) |  |
 | 面向对象 (C++) | ChatMFC | [ChatMFC](https://github.com/yang-er/ChatMFC) |  |
 | 网页程序设计 | 小小书屋(0) | [Gosling_Book_Bar](https://github.com/XuanchenLi/Gosling_Book_Bar) |  |
-| 网页程序设计 | 小小书屋(1) | [CarillionBookstore-admin](https://github.com/OceanPresentChao/CarillionBookstore-admin) |  |
-| 网页程序设计 | 小小书屋(2) | [carillonbookstore](https://gitee.com/linexus/carillonbookstore) (gitee) |  |
-| 网页程序设计 | 小小书屋(3) | [carillion_bookstore](https://github.com/Yurzi/carillion_bookstore_backend) |  |
+| 网页程序设计 | 小小书屋(1) | [admin](https://github.com/OceanPresentChao/CarillionBookstore-admin); [client (gitee)](https://gitee.com/linexus/carillonbookstore); [backend](https://github.com/Yurzi/carillion_bookstore_backend) |  |
 | 操作系统 | 反馈排队算法(0) | [oslab](https://github.com/userElaina/oslab) | Python |
 | 操作系统 | 反馈排队算法(1) | [Visual-MLFQ](https://github.com/OceanPresentChao/Visual-MLFQ) | Vue |
 | 操作系统 | Banker Algorithm | [OSClassDesign](https://github.com/Rosenberg37/operatingSystemClassDesign) |  |
@@ -142,21 +140,19 @@
 | 编译原理 | 词法分析-递归下降 | [SNLCompiler](https://github.com/SAGIRI-kawaii/SNLCompiler) |  |
 | 编译原理 | SNL 编译器 | [snl-compiler-design](https://github.com/waynelee-lwc/2119-snl-compiler-design) |  |
 | 软件工程 | software-project-html | [software_project_html](https://github.com/DctorWei1314/software_project_html) |  |
-| 软件工程 | software-project-html | [BMSB](https://github.com/XuanchenLi/business_management_system_backend) |  |
-| 软件工程 | software-project-html | [Business_Process_System](https://github.com/RelaxDegree/Business_Process_System) |  |
-| 软件工程 | software-project-html | [DocAuth-frontend](https://github.com/OceanPresentChao/DocAuth-frontend) |  |
-| 软件工程 | software-project-html | [DocAuth-backend](https://github.com/Yurzi/DocAuth-backend) |  |
+| 软件工程 | Business_Process | [frontend](https://github.com/RelaxDegree/Business_Process_System); [backend](https://github.com/XuanchenLi/business_management_system_backend) |  |
+| 软件工程 | DocAuth | [frontend](https://github.com/OceanPresentChao/DocAuth-frontend); [backend](https://github.com/Yurzi/DocAuth-backend) |  |
 | 软件工程 | blog engine | [whisper](https://github.com/TechCiel/whisper) |  |
 | 嵌入式实验 | 高铁信息牌 | [s3c2440-homework](https://github.com/userElaina/s3c2440-homework) |  |
 | 嵌入式实验 | Bad Apple | [Bad-Apple-4-s3c2440](https://github.com/userElaina/Bad-Apple-4-s3c2440) |  |
 | 嵌入式实验 | 商品条形码识别 | [Barcode](https://github.com/qjksxy/Barcode) |  |
-| 毕业设计 | CNN 辅助设计系统 | [GraduationProject](https://github.com/jiafeng5513/GraduationProject) | Qt |
+| 毕业设计 | Qt CNN 辅助设计系统 | [GraduationProject](https://github.com/jiafeng5513/GraduationProject) | Qt |
 | 企业实训 | 绘图与数据分析 | [plt-draw-homework](https://github.com/userElaina/plt-draw-homework) |  |
 | 网络程序设计 | ChatSystem | [ChatSystem](https://github.com/SAGIRI-kawaii/ChatSystem) |  |
 | 系统软件综合实践 | 数据库引擎 (CS346) | [DbEngine](https://github.com/yang-er/DbEngine) |  |
 | 系统软件综合实践 | 数据库引擎 (CS346) | [DBCourse](https://github.com/XuanchenLi/DBCourse) |  |
 | 设计模式 | 课程作业代码 | [DesignPattern](https://github.com/yang-er/DesignPattern) |  |
-| 软件分布式开发 | dsd-db | [数据库组](https://github.com/dsd-db) |  |
+| 软件分布式开发 | dsd-db | [数据库组(含多个项目)](https://github.com/dsd-db) |  |
 | 大数据技术与应用 | 作业 | [big-data-homework-FE](https://github.com/waynelee-lwc/big-data-homework-FE) |  |
 | Others | 处理风控的后端系统 | [JLU-BBTS9](https://github.com/JLU-bytedance-backend/JLU-bytedance-backend-techtrainingcamp-security-9) |  |
 | Others | Cat-and-Dog | [ML-Cat-Dog](https://github.com/XuanLaoYee/ML-Cat-Dog) |  |
