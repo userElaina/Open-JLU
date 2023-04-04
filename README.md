@@ -2,7 +2,7 @@
 
 汇总了在吉林~~停水停电职业学院~~大学生存所需的 Repositories.
 
-欢迎 JLUer 们 PR 或以任何你喜欢的方式 [提交信息](#反馈).
+欢迎 JLUer 们发 [pull request](https://github.com/userElaina/Outlast-JLU-DLC/pulls) 或以任何你喜欢的方式 [提交信息](#反馈).
 
 ## 封面
 
@@ -177,11 +177,11 @@
 
 ### 反馈
 
-- **PR**(非常建议)
+- **[PR](https://github.com/userElaina/Outlast-JLU-DLC/pulls)**(非常建议)
 
-- **Issue**(建议)
+- **[Issue](https://github.com/userElaina/Outlast-JLU-DLC/issues)**(建议)
 
-- **Email**(建议): userElaina@Gmail.com
+- **Email**(建议): userElaina@pm.me
 
 - **Telegram**(建议): [@userElaina](https://t.me/userElaina)
 
