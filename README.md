@@ -58,6 +58,7 @@
 | 简介 | Link |
 | -- | -- |
 | 汇总(本项目) | [Outlast-JLU-DLC](https://github.com/userElaina/Outlast-JLU-DLC) |
+| 收集 JLUer 的开源社区账户和 Blog | [JLUroll](https://github.com/userElaina/JLUroll) |
 | 合成JLU(Game) | [hechengJLU](https://github.com/Wesson-Zhu/hechengJLU) |
 
 ---
