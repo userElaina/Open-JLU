@@ -28,18 +28,29 @@
 
 ---
 
-### Drcom
+### DrCOM
+
+官方提供的 DrCOM 程序闭源, 行为可疑, 且只有 Windows 版, 因此产生了许多第三方版本. 对于新手, 选择任意一个你可以在 PC 上成功运行的带*的项目即可.
 
 | 简介 | Link | 备注 |
 | -- | -- | -- |
-| Drcom-win32 | [dr-jlu-win32](https://github.com/code4lala/dr-jlu-win32) |  |
-| Drcom-C | [drcomlite](https://github.com/hyec/drcomlite) |  |
-| Drcom-CS | [jlu-drcom-csharp](https://github.com/yang-er/jlu-drcom-csharp) |  |
-| Drcom-Service-CS | [JLUDrcomService](https://github.com/Yesterday17/JLUDrcomService) | 设置为 Windows 服务 |
-| Drcom-Qt | [drcom-jlu-qt](https://github.com/code4lala/drcom-jlu-qt) |  |
-| Drcom-Golang | [go-drcom-jlu](https://github.com/Yesterday17/go-drcom-jlu) |  |
-| Drcom-Client | [jlu-drcom-client](https://github.com/ly0/jlu-drcom-client) |  |
-| Drcom-hiwifi | [jiafeng5513/jlu.hiwifi](https://github.com/jiafeng5513/jlu.hiwifi) |  |
+| *DrCOM(0) | [drcomlite](https://github.com/hyec/drcomlite) | C |
+| *DrCOM(1) | [dr-jlu-win32](https://github.com/code4lala/dr-jlu-win32) | C++, win32 |
+| *DrCOM(2) | [jlu-drcom-csharp](https://github.com/yang-er/jlu-drcom-csharp) | C# |
+| *DrCOM(3) | [JLUDrcomService](https://github.com/Yesterday17/JLUDrcomService) | C#, Windows, 设置为服务 |
+| *DrCOM(4) | [go-drcom-jlu](https://github.com/Yesterday17/go-drcom-jlu) | Golang |
+| *DrCOM(5) | [drcom-jlu-qt](https://github.com/code4lala/drcom-jlu-qt) | Qt |
+| *DrCOM(6) | [JLUNET](https://github.com/Maximilianxu/JLUNET) | Python 2.7 |
+| *DrCOM(7) | [drcom-Jlu](https://github.com/H4ckF0rFun/drcom-Jlu) | C |
+| *DrCOM(8) | [go-jlu-drcom-client](https://github.com/wucongyou/go-jlu-drcom-client) | Golang |
+| *DrCOM(9) | [jlu-drcom-gtk](https://github.com/JonathanKang/jlu-drcom-gtk) | C, Gtk |
+| *DrCOM(a) | [DrComDotnet](https://github.com/milkpuff/DrComDotnet) | .NET |
+| *DrCOM(b) | [dr-jlu-linux](https://github.com/CrackTC/dr-jlu-linux) | Linux, C++ |
+| *DrCOM(c) | [jlu-drcom-in-c](https://github.com/feix/jlu-drcom-in-c) | Linux, C |
+| *DrCOM(d) | [jlu-drcom-client-gtk](https://github.com/JonathanKang/jlu-drcom-client-gtk) | Python, Gtk |
+| DrCOM(e) | [luci-app-jlu-drcom](https://github.com/kotori2/luci-app-jlu-drcom) | OpenWRT |
+| DrCOM(f) | [jlu.hiwifi](https://github.com/jiafeng5513/jlu.hiwifi) |  |
+| DrCOM 协议分析 | [(含多个项目)](https://github.com/drcoms) |  |
 
 ---
 
