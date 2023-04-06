@@ -70,7 +70,7 @@
 | -- | -- |
 | 汇总(本项目) | [Outlast-JLU-DLC](https://github.com/userElaina/Outlast-JLU-DLC) |
 | 收集 JLUer 的开源社区账户和 Blog | [JLUroll](https://github.com/userElaina/JLUroll) |
-| 合成JLU(Game) | [hechengJLU](https://github.com/Wesson-Zhu/hechengJLU) |
+| 合成 JLU (Game) | [hechengJLU](https://github.com/Wesson-Zhu/hechengJLU) |
 
 ---
 
@@ -84,11 +84,13 @@
 | 嵌入式 | Embedded System | [Embedded-System](https://github.com/userElaina/Embedded-System) | 《嵌入式系统原理及应用教程》</br>(孟祥莲) 提纲+题库 |
 | 嵌入式 | 嵌入式实验 | [up-tech-cup-s3c2440-source](https://github.com/userElaina/up-tech-cup-s3c2440-source) | 课程资源 |
 | 嵌入式 | LED点阵模拟器 | [LED-lattice-simulator](https://github.com/waynelee-lwc/LED-lattice-simulator) | [Demo](http://www.wayne-lee.cn:3006/) |
+| 毕业设计 | 吉大毕设答辩(1) | [JLU-Beamer-Theme](https://github.com/KveinAxel/JLU-Beamer-Theme) | LaTeX, Beamer, 参考 THU |
+| 毕业设计 | 吉大毕设答辩(2) | [JLU-Beamer-Theme](https://github.com/GohUnTsuan/JLU-Beamer-Theme) | LaTeX, Beamer, [Overleaf](https://www.overleaf.com/latex/templates/jlu-beamer-theme/pbnvqnnbczvh) |
+| 毕业设计 | 吉大计院本科毕业论文 | [JLU-CCST-Thesis](https://github.com/x86vk/JLU-CCST-Thesis) | LaTeX |
+| 毕业设计 | 吉大电院本科毕业论文 | [JLU-EE-template](https://github.com/lyjslay/JLU-EE-template) | LaTeX, MSWord |
+| 毕业设计 | 吉大研究生(硕/博)学位论文 | [JLUThesis2020](https://github.com/maxuewei2/JLUThesis2020) | LaTeX |
+| 毕业设计 | 吉大(本/硕/博)学位论文 | [JLU_Dissertation](https://github.com/jiafeng5513/JLU_Dissertation) | LaTeX, 参考 PKU |
 | Others | 计院研究生课程复习资料 | [DocsForReview](https://github.com/jiafeng5513/DocsForReview) |  |
-| Others | 吉大毕业论文 | [JLU-Beamer-Theme](https://github.com/KveinAxel/JLU-Beamer-Theme) | LaTeX |
-| Others | 吉大计院本科毕业论文 | [JLU-CCST-Thesis](https://github.com/x86vk/JLU-CCST-Thesis) | LaTeX |
-| Others | 吉大研究生(硕/博)学位论文 | [JLUThesis2020](https://github.com/maxuewei2/JLUThesis2020) | LaTeX |
-| Others | 吉大(本/硕/博)学位论文 | [JLU_Dissertation](https://github.com/jiafeng5513/JLU_Dissertation) | LaTeX |
 
 ---
 
