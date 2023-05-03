@@ -2,7 +2,7 @@
 
 汇总了在吉林大学(位列国家`双一流` `211工程` `985工程`)生存所需的 Repositories.
 
-欢迎 JLUer 们发 [pull request](https://github.com/userElaina/Outlast-JLU-DLC/pulls) 或以任何你喜欢的方式 [提交信息](#反馈).
+有任何疑问/建议/想法/信息, 欢迎以你喜欢的方式 [反馈](#反馈).
 
 ## 封面
 
@@ -181,10 +181,6 @@
 ## 备注
 
 ### 名词解释
-
-- **正常浏览器**: 指 [Chrome](https://www.google.com/intl/en/chrome/), [Firefox](https://www.mozilla.org/en-US/firefox/new/) 等. 不包括 [Tor](https://www.torproject.org/download/), 2345浏览器等.
-
-- **正常搜索引擎**: 指 [Google](https://www.google.com/), [DuckDuckGo](https://duckduckgo.com/) 等. 不包括 [Baidu](https://www.baidu.com/), [360搜索](https://www.so.com/) 等局域网搜索引擎或 [Wikipedia](https://www.wikipedia.org/), [GitHub](https://github.com/) 等的内部搜索引擎.
 
 - **正常网络**: 指能正常访问 [Google](https://www.google.com/), [Wikipedia](https://www.wikipedia.org/) 等的网络.
 
