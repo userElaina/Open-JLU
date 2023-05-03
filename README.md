@@ -88,6 +88,8 @@
 | 毕业设计 | 吉大毕设答辩(2) | [JLU-Beamer-Theme](https://github.com/GohUnTsuan/JLU-Beamer-Theme) | LaTeX, Beamer, [Overleaf](https://www.overleaf.com/latex/templates/jlu-beamer-theme/pbnvqnnbczvh) |
 | 毕业设计 | 吉大计院本科毕业论文 | [JLU-CCST-Thesis](https://github.com/x86vk/JLU-CCST-Thesis) | LaTeX |
 | 毕业设计 | 吉大电院本科毕业论文 | [JLU-EE-template](https://github.com/lyjslay/JLU-EE-template) | LaTeX, MSWord |
+| 毕业设计 | 吉大软院本科毕业论文 | [JLU-CSW-template](https://github.com/cheunglei/JLU-CSW-Thesis) | LaTeX |
+| 毕业设计 | 吉大信院本科毕业论文 | [JLU-Thesis](https://github.com/Sakura-shem/JLUThesis) | LaTeX |
 | 毕业设计 | 吉大研究生(硕/博)学位论文 | [JLUThesis2020](https://github.com/maxuewei2/JLUThesis2020) | LaTeX |
 | 毕业设计 | 吉大(本/硕/博)学位论文 | [JLU_Dissertation](https://github.com/jiafeng5513/JLU_Dissertation) | LaTeX, 参考 PKU |
 | Others | 计院研究生课程复习资料 | [DocsForReview](https://github.com/jiafeng5513/DocsForReview) |  |
