@@ -81,7 +81,7 @@
 | 面向对象 (C++) | oop-notes | [oop-notes](https://github.com/userElaina/oop-notes) |  |
 | 计算机图形学 | Computer Graphics | [jlu-computer-graphics](https://github.com/userElaina/jlu-computer-graphics) | 教材缺失的API的实现,</br> 相关算法的实现 |
 | 汇编 | x86 汇编 | [x86-asm-book-source](https://github.com/lichuang/x86-asm-book-source) | 课程资源 |
-| 嵌入式 | Embedded System | [Embedded-System](https://github.com/userElaina/Embedded-System) | 《嵌入式系统原理及应用教程》</br>(孟祥莲) 提纲+题库 |
+| 嵌入式 | Embedded System | [Embedded-System](https://github.com/userElaina/Embedded-System) | *嵌入式系统原理及应用教程*</br>(孟祥莲) 提纲+题库 |
 | 嵌入式 | 嵌入式实验 | [up-tech-cup-s3c2440-source](https://github.com/userElaina/up-tech-cup-s3c2440-source) | 课程资源 |
 | 嵌入式 | LED点阵模拟器 | [LED-lattice-simulator](https://github.com/waynelee-lwc/LED-lattice-simulator) | [Demo](http://www.wayne-lee.cn:3006/) |
 | 毕业设计 | 吉大毕设答辩(1) | [JLU-Beamer-Theme](https://github.com/KveinAxel/JLU-Beamer-Theme) | LaTeX, Beamer, 参考 [THU](https://github.com/tuna/THU-Beamer-Theme) |
@@ -90,9 +90,9 @@
 | 毕业设计 | 吉大电院本科毕业论文 | [JLU-EE-template](https://github.com/lyjslay/JLU-EE-template) | LaTeX, MSWord, 2021, 参考上1 |
 | 毕业设计 | 吉大软院本科毕业论文 | [JLU-CSW-template](https://github.com/cheunglei/JLU-CSW-Thesis) | LaTeX, 2021, 参考上2 |
 | 毕业设计 | 吉大信院本科毕业论文 | [JLU-Thesis](https://github.com/Sakura-shem/JLUThesis) | LaTeX, 2019 |
-| 毕业设计 | 吉大研究生(硕/博)学位论文 | [JLUThesis2020](https://github.com/maxuewei2/JLUThesis2020) | LaTeX, 2020 |
+| 毕业设计 | 吉大研究生学位论文 | [JLUThesis2020](https://github.com/maxuewei2/JLUThesis2020) | LaTeX, 2020 |
 | 毕业设计 | 吉大(本/硕/博)学位论文 | [JLU_Dissertation](https://github.com/jiafeng5513/JLU_Dissertation) | LaTeX, 2021, 参考 [PKU](https://gitea.com/CasperVector/pkuthss) |
-| Others | 计院研究生课程复习资料 | [DocsForReview](https://github.com/jiafeng5513/DocsForReview) |  |
+| Others | 计院研究生课程资料 | [DocsForReview](https://github.com/jiafeng5513/DocsForReview) |  |
 
 ---
 
