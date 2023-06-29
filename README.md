@@ -71,6 +71,9 @@
 | 汇总(本项目) | [Outlast-JLU-DLC](https://github.com/userElaina/Outlast-JLU-DLC) |
 | 收集 JLUer 的开源社区账户和 Blog | [JLUroll](https://github.com/userElaina/JLUroll) |
 | 合成 JLU (Game) | [hechengJLU](https://github.com/Wesson-Zhu/hechengJLU) |
+| 学在吉大视频下载器/H5播放器 | [StudyAtJlu](https://github.com/RikaCelery/StudyAtJlu) |
+| 学在吉大桌面客户端 | [StudyAtJlu_Desktop](https://github.com/RikaCelery/StudyAtJLU_Desktop) |
+| JLUBOOK 附属站点 | [JLUBOOK-forNew](https://github.com/AQiu-2003/JLUBOOK-forNew) |
 
 ---
 
@@ -102,10 +105,10 @@
 
 | 课程 | 简介 | Link | 备注 |
 | -- | -- | -- | -- |
+| 大学计算机基础 | Unity-游戏 | [2D-Adventure](https://github.com/Superbia-zyb/2D-Adventure) |  |
 | 程序设计基础 | 日常作业 | [ProgramDesign](https://github.com/Yesterday17/ProgramDesignHomework) |  |
 | 程序设计基础 | 学生成绩管理系统 | [achievement](https://github.com/EugeneJie/achievement) |  |
 | 程序设计基础 | Fruit-Market | [FruitMarket](https://github.com/yang-er/FruitMarket) |  |
-| 大学计算机基础 | Unity-游戏 | [2D-Adventure](https://github.com/Superbia-zyb/2D-Adventure) |  |
 | 算法和数据结构 | 简单的作业 | [data-structrue](https://github.com/userElaina/data-structrue) |  |
 | 算法和数据结构 | 哈夫曼-压缩软件 | [naive-Huffman](https://github.com/userElaina/naive-Huffman) |  |
 | 算法和数据结构 | 六度分离假说 | [Keven-Bacon](https://github.com/userElaina/Keven-Bacon) |  |
@@ -135,13 +138,14 @@
 | 程序设计综合课 | Gomoku-人机五子棋 | [Gomoku](https://github.com/jiafeng5513/Gomoku) |  |
 | 程序设计综合课 | Python 实现 ANN | [Easy_Neural_Network](https://github.com/XuanchenLi/Easy_Neural_Network) |  |
 | 计算机图形学 | 图形学基础小实验 | [CGwork0218](https://github.com/jiafeng5513/CGwork0218) |  |
-| C++课设 | 商城 | [E-commerce](https://github.com/hhhhlkf/E-commerce) |  |
-| C++课设 | 商城 | [XMall](https://github.com/XuanchenLi/XMall) |  |
-| C++课设 | 商城 | [Qt-ShoppingMall](https://github.com/OceanPresentChao/Qt-ShoppingMall) |  |
+| C++ 课设 | 商城 | [E-commerce](https://github.com/hhhhlkf/E-commerce) |  |
+| C++ 课设 | 商城 | [XMall](https://github.com/XuanchenLi/XMall) |  |
+| C++ 课设 | 商城 | [Qt-ShoppingMall](https://github.com/OceanPresentChao/Qt-ShoppingMall) |  |
 | Java | 练习 | [JavaExperiment](https://github.com/yang-er/JavaExperiment) |  |
 | Java | 书店 | [BookStore](https://github.com/EugeneJie/BookStore) |  |
 | Java | 网盘 | [Cvarpe](https://github.com/kvrmnks/Cvarpe) |  |
 | Java | Pet-shop | [javaClassDesign](https://github.com/Rosenberg37/javaClassDesign) |  |
+| Java | 租赁系统 | [iRentalSystem](https://github.com/AQiu-2003/iRentalSystem) |  |
 | Linux | linux-notes | [linux-notes](https://github.com/userElaina/linux-notes) |  |
 | Linux | rsap2p | [rsap2p](https://github.com/userElaina/rsap2p) |  |
 | 计算机网络 | 文件传输服务器 | [cs-network-proj](https://github.com/kaaass/cs-network-proj) |  |
