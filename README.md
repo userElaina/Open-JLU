@@ -146,6 +146,8 @@
 | Java | 网盘 | [Cvarpe](https://github.com/kvrmnks/Cvarpe) |  |
 | Java | Pet-shop | [javaClassDesign](https://github.com/Rosenberg37/javaClassDesign) |  |
 | Java | 租赁系统 | [iRentalSystem](https://github.com/AQiu-2003/iRentalSystem) |  |
+| JavaEE | 模拟ai对话 | [ChatJavaEE](https://github.com/OceanPresentChao/ChatJavaEE) | TomEE |
+| JavaEE | 模拟ai对话 | [J2EChat_back](https://github.com/XuanchenLi/J2EChat);[J2EChat_front](https://github.com/XuanchenLi/J2EChat_front) |  |
 | Linux | linux-notes | [linux-notes](https://github.com/userElaina/linux-notes) |  |
 | Linux | rsap2p | [rsap2p](https://github.com/userElaina/rsap2p) |  |
 | 计算机网络 | 文件传输服务器 | [cs-network-proj](https://github.com/kaaass/cs-network-proj) |  |
