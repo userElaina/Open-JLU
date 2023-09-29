@@ -1,6 +1,6 @@
 # Outlast: Jilin University DLC
 
-汇总了在吉林大学(位列国家`双一流` `211工程` `985工程`)生存所需的 Repositories.
+汇总了在吉林大学生存所需的 Repositories.
 
 有任何疑问/建议/想法/信息, 欢迎以你喜欢的方式 [反馈](#反馈).
 
