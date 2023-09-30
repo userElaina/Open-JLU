@@ -1,0 +1,12 @@
+﻿  用户.cpp
+C:\Users\刘亚杰\Documents\酒水管理系统\酒水管理系统\用户.cpp(59,24): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\刘亚杰\Documents\酒水管理系统\酒水管理系统\用户.cpp(244,59): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\刘亚杰\Documents\酒水管理系统\酒水管理系统\用户.cpp(245,63): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\刘亚杰\Documents\酒水管理系统\酒水管理系统\用户.cpp(288,59): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\刘亚杰\Documents\酒水管理系统\酒水管理系统\用户.cpp(289,63): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\刘亚杰\Documents\酒水管理系统\酒水管理系统\用户.cpp(332,59): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\刘亚杰\Documents\酒水管理系统\酒水管理系统\用户.cpp(333,63): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+  管理员.cpp
+C:\Users\刘亚杰\Documents\酒水管理系统\酒水管理系统\管理员.cpp(520,22): warning C4551: 缺少参数列表的函数调用
+  正在生成代码...
+  酒水管理系统.vcxproj -> C:\Users\刘亚杰\Documents\酒水管理系统\x64\Debug\酒水管理系统.exe
