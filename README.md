@@ -106,6 +106,7 @@
 | 课程 | 简介 | Link | 备注 |
 | -- | -- | -- | -- |
 | 大学计算机基础 | Unity-游戏 | [2D-Adventure](https://github.com/Superbia-zyb/2D-Adventure) |  |
+| 程序设计基础 | 酒水管理系统 | [ProgramDesign](https://github.com/3223v/drink_manage) |  |
 | 程序设计基础 | 日常作业 | [ProgramDesign](https://github.com/Yesterday17/ProgramDesignHomework) |  |
 | 程序设计基础 | 学生成绩管理系统 | [achievement](https://github.com/EugeneJie/achievement) |  |
 | 程序设计基础 | Fruit-Market | [FruitMarket](https://github.com/yang-er/FruitMarket) |  |
