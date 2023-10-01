@@ -121,6 +121,7 @@
 | 算法和数据结构 | 红黑树 | [datastruct](https://github.com/ZuoTiJia/datastruct) |  |
 | 空间解析几何 | 几何学计算机交叉应用 | [analytic-geometry](https://github.com/userElaina/analytic-geometry) |  |
 | 机器学习与 Python | ML-and-Py | [ML-and-Py](https://github.com/userElaina/ML-and-Py) |  |
+| 机器学习与 Python | ML-and-Py | [MachineLearningAndPython2023](https://github.com/GGN-2015/MachineLearningAndPython2023) |  |
 | 基础物理实验 | 实验报告 | [jlu-physics-lab-report](https://github.com/userElaina/jlu-physics-lab-report) |  |
 | 面向对象 (C++) | 每周练习 | [JLUOOPClassWork](https://github.com/Yesterday17/JLUOOPClassWork) |  |
 | 面向对象 (C++) | ChatMFC | [ChatMFC](https://github.com/yang-er/ChatMFC) |  |
