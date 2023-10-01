@@ -124,6 +124,9 @@
 | 基础物理实验 | 实验报告 | [jlu-physics-lab-report](https://github.com/userElaina/jlu-physics-lab-report) |  |
 | 面向对象 (C++) | 每周练习 | [JLUOOPClassWork](https://github.com/Yesterday17/JLUOOPClassWork) |  |
 | 面向对象 (C++) | ChatMFC | [ChatMFC](https://github.com/yang-er/ChatMFC) |  |
+| C++ 课设 | 商城 | [E-commerce](https://github.com/hhhhlkf/E-commerce) |  |
+| C++ 课设 | 商城 | [XMall](https://github.com/XuanchenLi/XMall) |  |
+| C++ 课设 | 商城 | [Qt-ShoppingMall](https://github.com/OceanPresentChao/Qt-ShoppingMall) |  |
 | 网页程序设计 | 小小书屋(0) | [Gosling_Book_Bar](https://github.com/XuanchenLi/Gosling_Book_Bar) |  |
 | 网页程序设计 | 小小书屋(1) | [admin](https://github.com/OceanPresentChao/CarillionBookstore-admin); [client (gitee)](https://gitee.com/linexus/carillonbookstore); [backend](https://github.com/Yurzi/carillion_bookstore_backend) |  |
 | 操作系统 | 反馈排队算法(0) | [oslab](https://github.com/userElaina/oslab) | Python |
@@ -139,12 +142,9 @@
 | 程序设计综合课 | Python 实现 ANN | [Easy_Neural_Network](https://github.com/XuanchenLi/Easy_Neural_Network) |  |
 | 计算机图形学 | 图形学基础小实验 | [CGwork0218](https://github.com/jiafeng5513/CGwork0218) | MFC |
 | 计算机图形学 | 图形学基础小实验 | [JLU_CG_LAB](https://github.com/GGN-2015/JLU_CG_LAB) | MFC |
-| C++ 课设 | 商城 | [E-commerce](https://github.com/hhhhlkf/E-commerce) |  |
-| C++ 课设 | 商城 | [XMall](https://github.com/XuanchenLi/XMall) |  |
-| C++ 课设 | 商城 | [Qt-ShoppingMall](https://github.com/OceanPresentChao/Qt-ShoppingMall) |  |
 | Java | 练习 | [JavaExperiment](https://github.com/yang-er/JavaExperiment) |  |
 | Java | 书店 | [BookStore](https://github.com/EugeneJie/BookStore) |  |
-|Java|书吧|[BookBar](https://github.com/zzk72/web_backend)|springboot |
+| Java | 书吧 | [BookBar](https://github.com/zzk72/web_backend) | springboot |
 | Java | 网盘 | [Cvarpe](https://github.com/kvrmnks/Cvarpe) |  |
 | Java | Pet-shop | [javaClassDesign](https://github.com/Rosenberg37/javaClassDesign) |  |
 | Java | 租赁系统 | [iRentalSystem](https://github.com/AQiu-2003/iRentalSystem) |  |
