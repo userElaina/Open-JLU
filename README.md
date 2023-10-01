@@ -181,6 +181,7 @@
 | 系统软件综合实践 | 数据库引擎 (CS346) | [DBCourse](https://github.com/XuanchenLi/DBCourse) |  |
 | 设计模式 | 课程作业代码 | [DesignPattern](https://github.com/yang-er/DesignPattern) |  |
 | 软件分布式开发 | dsd-db | [数据库组(含多个项目)](https://github.com/dsd-db) |  |
+| 游戏编程 | 2D 游戏设计 | [SlimeFight](https://github.com/NatsukiKoki/SlimeFight) |  |
 | 大数据技术与应用 | 作业 | [big-data-homework-FE](https://github.com/waynelee-lwc/big-data-homework-FE) |  |
 | Others | 处理风控的后端系统 | [JLU-BBTS9](https://github.com/JLU-bytedance-backend/JLU-bytedance-backend-techtrainingcamp-security-9) |  |
 | Others | Cat-and-Dog | [ML-Cat-Dog](https://github.com/XuanLaoYee/ML-Cat-Dog) |  |
