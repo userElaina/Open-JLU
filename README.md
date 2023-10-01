@@ -160,6 +160,7 @@
 | 数据库 | 花瓣网 | [main (已因安全问题删库)](https://github.com/haotian-T/database); [make](https://github.com/haotian-T/make_database) |  |
 | 微机/嵌入式/汇编 | MIPS | [mips](https://github.com/userElaina/mips) |  |
 | 微机/嵌入式/汇编 | MIPS | [mips-design](https://github.com/geekifan/mips-design) |  |
+| 微机/嵌入式/汇编 | MIPS | [MIPS-Lite4-Tomasulo](https://github.com/GGN-2015/MIPS-Lite4-Tomasulo) |  |
 | 微机/嵌入式/汇编 | Microcomputer-Lab | [MicrocomputerLab](https://github.com/userElaina/MicrocomputerLab) |  |
 | 微机/嵌入式/汇编 | Microcomputer-Experiment | [M-Experiment](https://github.com/waynelee-lwc/Microcomputer-Experiment) |  |
 | 微机/嵌入式/汇编 | x86 (I32) 汇编 | [x86-asm-homework](https://github.com/userElaina/x86-asm-homework) |  |
