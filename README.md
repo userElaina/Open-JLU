@@ -138,7 +138,8 @@
 | 程序设计综合课 | C++ 实现 CNN | [simpleCnnFramework](https://github.com/Sherlock-coder/simpleCnnFramework) |  |
 | 程序设计综合课 | Gomoku-人机五子棋 | [Gomoku](https://github.com/jiafeng5513/Gomoku) |  |
 | 程序设计综合课 | Python 实现 ANN | [Easy_Neural_Network](https://github.com/XuanchenLi/Easy_Neural_Network) |  |
-| 计算机图形学 | 图形学基础小实验 | [CGwork0218](https://github.com/jiafeng5513/CGwork0218) |  |
+| 计算机图形学 | 图形学基础小实验 | [CGwork0218](https://github.com/jiafeng5513/CGwork0218) | MFC |
+| 计算机图形学 | 图形学基础小实验 | [JLU_CG_LAB](https://github.com/GGN-2015/JLU_CG_LAB) | MFC |
 | C++ 课设 | 商城 | [E-commerce](https://github.com/hhhhlkf/E-commerce) |  |
 | C++ 课设 | 商城 | [XMall](https://github.com/XuanchenLi/XMall) |  |
 | C++ 课设 | 商城 | [Qt-ShoppingMall](https://github.com/OceanPresentChao/Qt-ShoppingMall) |  |
