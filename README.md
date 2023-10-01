@@ -172,6 +172,7 @@
 | 嵌入式实验 | 高铁信息牌 | [s3c2440-homework](https://github.com/userElaina/s3c2440-homework) |  |
 | 嵌入式实验 | Bad Apple | [Bad-Apple-4-s3c2440](https://github.com/userElaina/Bad-Apple-4-s3c2440) |  |
 | 嵌入式实验 | 商品条形码识别 | [Barcode](https://github.com/qjksxy/Barcode) |  |
+| C# 程序设计 | PlaneBombGame | [PlaneBombGame](https://github.com/fengxin-zhxx/PlaneBombGame) | |
 | 毕业设计 | Qt CNN 辅助设计系统 | [GraduationProject](https://github.com/jiafeng5513/GraduationProject) | Qt |
 | 企业实训 | 绘图与数据分析 | [plt-draw-homework](https://github.com/userElaina/plt-draw-homework) |  |
 | 网络程序设计 | ChatSystem | [ChatSystem](https://github.com/SAGIRI-kawaii/ChatSystem) |  |
