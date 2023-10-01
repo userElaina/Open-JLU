@@ -123,7 +123,6 @@
 | 机器学习与 Python | ML-and-Py | [ML-and-Py](https://github.com/userElaina/ML-and-Py) |  |
 | 基础物理实验 | 实验报告 | [jlu-physics-lab-report](https://github.com/userElaina/jlu-physics-lab-report) |  |
 | 面向对象 (C++) | 每周练习 | [JLUOOPClassWork](https://github.com/Yesterday17/JLUOOPClassWork) |  |
-| 面向对象 (C++) | 作业 | [cppHomework](https://github.com/ZuoTiJia/cppHomework) |  |
 | 面向对象 (C++) | ChatMFC | [ChatMFC](https://github.com/yang-er/ChatMFC) |  |
 | 网页程序设计 | 小小书屋(0) | [Gosling_Book_Bar](https://github.com/XuanchenLi/Gosling_Book_Bar) |  |
 | 网页程序设计 | 小小书屋(1) | [admin](https://github.com/OceanPresentChao/CarillionBookstore-admin); [client (gitee)](https://gitee.com/linexus/carillonbookstore); [backend](https://github.com/Yurzi/carillion_bookstore_backend) |  |
@@ -158,7 +157,7 @@
 | 计算机网络 | RSTP-Lab | [RSTP-Lab](https://github.com/TechCiel/RSTP-Lab) |  |
 | 数据库 | simple-db | [simple_db](https://github.com/DctorWei1314/simple_db) |  |
 | 数据库 | InvoDB (engine) | [InvoDB](https://github.com/YuhangQ/InvoDB) |  |
-| 数据库 | 花瓣网 | [main](https://github.com/haotian-T/database); [make](https://github.com/haotian-T/make_database) |  |
+| 数据库 | 花瓣网 | [main (已因安全问题删库)](https://github.com/haotian-T/database); [make](https://github.com/haotian-T/make_database) |  |
 | 微机/嵌入式/汇编 | MIPS | [mips](https://github.com/userElaina/mips) |  |
 | 微机/嵌入式/汇编 | MIPS | [mips-design](https://github.com/geekifan/mips-design) |  |
 | 微机/嵌入式/汇编 | Microcomputer-Lab | [MicrocomputerLab](https://github.com/userElaina/MicrocomputerLab) |  |
