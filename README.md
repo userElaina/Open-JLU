@@ -207,7 +207,7 @@
 
 - **[Issue](https://github.com/userElaina/Outlast-JLU-DLC/issues)**(建议)
 
-- **Email**(建议): userElaina@pm.me
+- **Email**(建议): jlu.edu.cn@pm.me
 
 - **Telegram**(建议): [@userElaina](https://t.me/userElaina)
 
