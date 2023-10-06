@@ -161,12 +161,14 @@
 | 数据库 | 花瓣网 | [main (已因安全问题删库)](https://github.com/haotian-T/database); [make](https://github.com/haotian-T/make_database) |  |
 | 微机/嵌入式/汇编 | MIPS | [mips](https://github.com/userElaina/mips) |  |
 | 微机/嵌入式/汇编 | MIPS | [mips-design](https://github.com/geekifan/mips-design) |  |
+| 微机/嵌入式/汇编 | MIPS | [MIPS-Pipeline](https://github.com/HanLi05869/MIPS-Pipeline) |  |
 | 微机/嵌入式/汇编 | MIPS | [MIPS-Lite4-Tomasulo](https://github.com/GGN-2015/MIPS-Lite4-Tomasulo) |  |
 | 微机/嵌入式/汇编 | Microcomputer-Lab | [MicrocomputerLab](https://github.com/userElaina/MicrocomputerLab) |  |
 | 微机/嵌入式/汇编 | Microcomputer-Experiment | [M-Experiment](https://github.com/waynelee-lwc/Microcomputer-Experiment) |  |
 | 微机/嵌入式/汇编 | x86 (I32) 汇编 | [x86-asm-homework](https://github.com/userElaina/x86-asm-homework) |  |
 | 编译原理 | 词法分析-递归下降 | [SNLCompiler](https://github.com/SAGIRI-kawaii/SNLCompiler) |  |
 | 编译原理 | SNL 编译器 | [snl-compiler-design](https://github.com/waynelee-lwc/2119-snl-compiler-design) |  |
+| 编译原理 | JLU-SNL-COMPILER | [JLU-SNL-COMPILER](https://github.com/HanLi05869/JLU-SNL-COMPILER) |  |
 | 软件工程 | software-project-html | [software_project_html](https://github.com/DctorWei1314/software_project_html) |  |
 | 软件工程 | Business_Process | [frontend](https://github.com/RelaxDegree/Business_Process_System); [backend](https://github.com/XuanchenLi/business_management_system_backend) |  |
 | 软件工程 | DocAuth | [frontend](https://github.com/OceanPresentChao/DocAuth-frontend); [backend](https://github.com/Yurzi/DocAuth-backend) |  |
@@ -185,6 +187,7 @@
 | 软件分布式开发 | dsd-db | [数据库组(含多个项目)](https://github.com/dsd-db) |  |
 | 游戏编程 | 2D 游戏设计 | [SlimeFight](https://github.com/NatsukiKoki/SlimeFight) |  |
 | 大数据技术与应用 | 作业 | [big-data-homework-FE](https://github.com/waynelee-lwc/big-data-homework-FE) |  |
+| GPGPU异构高性能计算 | FFT | [CUDA-FFT](https://github.com/HanLi05869/CUDA-FFT) |  |
 | Others | 处理风控的后端系统 | [JLU-BBTS9](https://github.com/JLU-bytedance-backend/JLU-bytedance-backend-techtrainingcamp-security-9) |  |
 | Others | Cat-and-Dog | [ML-Cat-Dog](https://github.com/XuanLaoYee/ML-Cat-Dog) |  |
 | Others | 测距软件 | [jluNewCamera](https://github.com/jiafeng5513/jluNewCamera) | MFC + OpenCV |
