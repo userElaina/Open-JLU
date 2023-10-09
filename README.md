@@ -92,11 +92,11 @@
 | 毕业设计 | 毕设答辩(1) | [JLU-Beamer-Theme](https://github.com/KveinAxel/JLU-Beamer-Theme) | LaTeX, Beamer, 未更改配色 |
 | 毕业设计 | 毕设答辩(2) | [JLU-Beamer-Theme](https://github.com/GohUnTsuan/JLU-Beamer-Theme) | LaTeX, Beamer, [Overleaf](https://www.overleaf.com/latex/templates/jlu-beamer-theme/pbnvqnnbczvh), 更改配色 |
 | 毕业设计 | 计院本科毕业论文 | [JLU-CCST-Thesis](https://github.com/x86vk/JLU-CCST-Thesis) | LaTeX, 2018 |
-| 毕业设计 | 电院本科毕业论文 | [JLU-EE-template](https://github.com/lyjslay/JLU-EE-template) | LaTeX, MSWord, 2021, 参考上1 |
-| 毕业设计 | 软院本科毕业论文 | [JLU-CSW-template](https://github.com/cheunglei/JLU-CSW-Thesis) | LaTeX, 2021, 参考上2 |
+| 毕业设计 | 电院本科毕业论文 | [JLU-EE-template](https://github.com/lyjslay/JLU-EE-template) | LaTeX, MSWord, 2021, [参考](https://github.com/x86vk/JLU-CCST-Thesis) |
+| 毕业设计 | 软院本科毕业论文 | [JLU-CSW-template](https://github.com/cheunglei/JLU-CSW-Thesis) | LaTeX, 2021, [参考](https://github.com/x86vk/JLU-CCST-Thesis) |
 | 毕业设计 | 信院本科毕业论文 | [JLU-Thesis](https://github.com/Sakura-shem/JLUThesis) | LaTeX, 2019 |
 | 毕业设计 | 研究生学位论文 | [JLUThesis2020](https://github.com/maxuewei2/JLUThesis2020) | LaTeX, 2020 |
-| 毕业设计 | (本/硕/博)学位论文 | [JLU_Dissertation](https://github.com/jiafeng5513/JLU_Dissertation) | LaTeX, 2021, 参考 [PKU](https://gitea.com/CasperVector/pkuthss) |
+| 毕业设计 | (本/硕/博)学位论文 | [JLU_Dissertation](https://github.com/jiafeng5513/JLU_Dissertation) | LaTeX, 2021, [参考](https://gitea.com/CasperVector/pkuthss) |
 | Others | 计院研究生课程资料 | [DocsForReview](https://github.com/jiafeng5513/DocsForReview) |  |
 
 ---
@@ -119,9 +119,9 @@
 | 算法和数据结构 | 机票管理系统 | [Server](https://github.com/KveinAxel/TicketManageSystem); [FrontEnd](https://github.com/KveinAxel/TicketManageSystemFrontEnd) |  |
 | 算法和数据结构 | 新闻区块链 | [Server](https://github.com/KveinAxel/NewsBlockChain); [DNS](https://github.com/KveinAxel/NewsBlockChainDNS); [FrontEnd](https://github.com/KveinAxel/NewsBlockChainFrontEnd) |  |
 | 算法和数据结构 | 红黑树 | [datastruct](https://github.com/ZuoTiJia/datastruct) |  |
-| 空间解析几何 | 几何学计算机交叉应用 | [analytic-geometry](https://github.com/userElaina/analytic-geometry) |  |
-| 机器学习与 Python | ML-and-Py | [ML-and-Py](https://github.com/userElaina/ML-and-Py) |  |
-| 机器学习与 Python | ML-and-Py | [MachineLearningAndPython2023](https://github.com/GGN-2015/MachineLearningAndPython2023) |  |
+| 空间解析几何 | 几何计算机交叉应用 | [analytic-geometry](https://github.com/userElaina/analytic-geometry) |  |
+| 机器学习与 Python | 作业及考试 | [ML-and-Py](https://github.com/userElaina/ML-and-Py) |  |
+| 机器学习与 Python | ML-and-Py | [MLAndPython2023](https://github.com/GGN-2015/MachineLearningAndPython2023) |  |
 | 基础物理实验 | 实验报告 | [jlu-physics-lab-report](https://github.com/userElaina/jlu-physics-lab-report) |  |
 | 面向对象 (C++) | 每周练习 | [JLUOOPClassWork](https://github.com/Yesterday17/JLUOOPClassWork) |  |
 | 面向对象 (C++) | ChatMFC | [ChatMFC](https://github.com/yang-er/ChatMFC) |  |
@@ -150,7 +150,7 @@
 | Java | Pet-shop | [javaClassDesign](https://github.com/Rosenberg37/javaClassDesign) |  |
 | Java | 租赁系统 | [iRentalSystem](https://github.com/AQiu-2003/iRentalSystem) |  |
 | JavaEE | 模拟ai对话 | [ChatJavaEE](https://github.com/OceanPresentChao/ChatJavaEE) | TomEE |
-| JavaEE | 模拟ai对话 | [J2EChat_back](https://github.com/XuanchenLi/J2EChat);[J2EChat_front](https://github.com/XuanchenLi/J2EChat_front) |  |
+| JavaEE | 模拟ai对话 | [J2EChat_back](https://github.com/XuanchenLi/J2EChat); [J2EChat_front](https://github.com/XuanchenLi/J2EChat_front) |  |
 | Linux | linux-notes | [linux-notes](https://github.com/userElaina/linux-notes) |  |
 | Linux | rsap2p | [rsap2p](https://github.com/userElaina/rsap2p) |  |
 | 计算机网络 | 文件传输服务器 | [cs-network-proj](https://github.com/kaaass/cs-network-proj) |  |
@@ -158,7 +158,7 @@
 | 计算机网络 | RSTP-Lab | [RSTP-Lab](https://github.com/TechCiel/RSTP-Lab) |  |
 | 数据库 | simple-db | [simple_db](https://github.com/DctorWei1314/simple_db) |  |
 | 数据库 | InvoDB (engine) | [InvoDB](https://github.com/YuhangQ/InvoDB) |  |
-| 数据库 | 花瓣网 | [main (已因安全问题删库)](https://github.com/haotian-T/database); [make](https://github.com/haotian-T/make_database) |  |
+| 数据库 | 花瓣网 | [main (因安全问题删库)](https://github.com/haotian-T/database); [make](https://github.com/haotian-T/make_database) |  |
 | 微机/嵌入式/汇编 | MIPS | [mips](https://github.com/userElaina/mips) |  |
 | 微机/嵌入式/汇编 | MIPS | [mips-design](https://github.com/geekifan/mips-design) |  |
 | 微机/嵌入式/汇编 | MIPS | [MIPS-Pipeline](https://github.com/HanLi05869/MIPS-Pipeline) |  |
