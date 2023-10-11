@@ -4,7 +4,7 @@
 
 有任何疑问/建议/想法/信息, 欢迎以你喜欢的方式 [反馈](#反馈).
 
-## 封面
+#### 注意: 下列项目存在 *[Gitee](https://gitee.com/)* 项目, 用*斜体*标注, 有一定安全需求的用户请注意甄别.
 
 ![Outlast: Jilin University DLC](https://raw.githubusercontent.com/userElaina/Outlast-JLU-DLC/main/steam.png)
 
@@ -129,7 +129,7 @@
 | C++ 课设 | 商城 | [XMall](https://github.com/XuanchenLi/XMall) |  |
 | C++ 课设 | 商城 | [Qt-ShoppingMall](https://github.com/OceanPresentChao/Qt-ShoppingMall) |  |
 | 网页程序设计 | 小小书屋(0) | [Gosling_Book_Bar](https://github.com/XuanchenLi/Gosling_Book_Bar) |  |
-| 网页程序设计 | 小小书屋(1) | [admin](https://github.com/OceanPresentChao/CarillionBookstore-admin); [client (gitee)](https://gitee.com/linexus/carillonbookstore); [backend](https://github.com/Yurzi/carillion_bookstore_backend) |  |
+| 网页程序设计 | 小小书屋(1) | [admin](https://github.com/OceanPresentChao/CarillionBookstore-admin); *[client](https://gitee.com/linexus/carillonbookstore)*; [backend](https://github.com/Yurzi/carillion_bookstore_backend) |  |
 | 操作系统 | 反馈排队算法(0) | [oslab](https://github.com/userElaina/oslab) | Python |
 | 操作系统 | 反馈排队算法(1) | [Visual-MLFQ](https://github.com/OceanPresentChao/Visual-MLFQ) | Vue |
 | 操作系统 | Banker Algorithm | [OSClassDesign](https://github.com/Rosenberg37/operatingSystemClassDesign) |  |
