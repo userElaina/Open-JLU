@@ -29,7 +29,7 @@
 | *DrCOM(0) | [drcomlite](https://github.com/hyec/drcomlite) | C |
 | *DrCOM(1) | [dr-jlu-win32](https://github.com/code4lala/dr-jlu-win32) | C++, win32 |
 | *DrCOM(2) | [jlu-drcom-csharp](https://github.com/yang-er/jlu-drcom-csharp) | C# |
-| *DrCOM(3) | [JLUDrcomService](https://github.com/Yesterday17/JLUDrcomService) | C#, Windows, 设置为服务 |
+| *DrCOM(3) | [JLUDrcomService](https://github.com/Yesterday17/JLUDrcomService) | C#, Win Service |
 | *DrCOM(4) | [go-drcom-jlu](https://github.com/Yesterday17/go-drcom-jlu) | Golang |
 | *DrCOM(5) | [drcom-jlu-qt](https://github.com/code4lala/drcom-jlu-qt) | Qt |
 | *DrCOM(6) | [JLUNET](https://github.com/Maximilianxu/JLUNET) | Python 2.7 |
@@ -131,10 +131,14 @@
 | 算法和数据结构 | Nogo-不围棋(1) | [nogo](https://github.com/Subsegment/nogo) | Botzone |
 | 算法和数据结构 | Snake-贪吃蛇 | [Snake-AIBot](https://github.com/Superbia-zyb/Snake-AIBot) | Botzone |
 | 算法和数据结构 | 机票管理系统 | [Server](https://github.com/KveinAxel/TicketManageSystem); [FrontEnd](https://github.com/KveinAxel/TicketManageSystemFrontEnd) |  |
-| 算法和数据结构 | 新闻区块链 | [Server](https://github.com/KveinAxel/NewsBlockChain); [DNS](https://github.com/KveinAxel/NewsBlockChainDNS); [FrontEnd](https://github.com/KveinAxel/NewsBlockChainFrontEnd) |  |
+| 算法和数据结构 | 新闻区块链(0) | [Server](https://github.com/KveinAxel/NewsBlockChain); [DNS](https://github.com/KveinAxel/NewsBlockChainDNS); [FrontEnd](https://github.com/KveinAxel/NewsBlockChainFrontEnd) |  |
+| 算法和数据结构 | 新闻区块链(1) | [NewsBlockchain](https://github.com/kaaass/NewsBlockchain) |  |
+| 算法和数据结构 | Python 区块项目 | [PythonBlockChain](https://github.com/caochuxue/PythonBlockChain) |  |
 | 算法和数据结构 | 红黑树 | [datastruct](https://github.com/ZuoTiJia/datastruct) |  |
-| 算法和数据结构 | 飞机订票系统 | [Iplane](https://github.com/CloudMagician/Iplane) |  |
-| 算法和数据结构 | 飞机订票系统 | [AirlineSystem](https://github.com/liuweiky/AirlineSystem); [fork](https://github.com/lixiaoyu0611/AirlineSystem) |  |
+| 算法和数据结构 | 飞机订票系统(0) | [Iplane](https://github.com/CloudMagician/Iplane) |  |
+| 算法和数据结构 | 飞机订票系统(1) | [AirlineSystem](https://github.com/liuweiky/AirlineSystem); [fork](https://github.com/lixiaoyu0611/AirlineSystem) |  |
+| 算法和数据结构 | 课设 | [flight_vue_django](https://github.com/icespite/flight_vue_django) |  |
+| 算法和数据结构 | Assignment | [DataStructureAssignment](https://github.com/kaaass/DataStructureAssignment) |  |
 | 面向对象/ C++ | 每周练习 | [JLUOOPClassWork](https://github.com/Yesterday17/JLUOOPClassWork) |  |
 | 面向对象/ C++ | ChatMFC | [ChatMFC](https://github.com/yang-er/ChatMFC) |  |
 | 面向对象/ C++ | 语音信号时域分析 | [Signal-Analysis](https://github.com/yycloudywind/Signal-Analysis) |  |
@@ -197,12 +201,17 @@
 | 微机/嵌入式/汇编 | 高铁信息牌 | [s3c2440-homework](https://github.com/userElaina/s3c2440-homework) |  |
 | 微机/嵌入式/汇编 | Bad Apple | [Bad-Apple-4-s3c2440](https://github.com/userElaina/Bad-Apple-4-s3c2440) |  |
 | 微机/嵌入式/汇编 | 商品条形码识别 | [Barcode](https://github.com/qjksxy/Barcode) |  |
-| 编译原理 | 词法分析-递归下降 | [SNLCompiler](https://github.com/SAGIRI-kawaii/SNLCompiler) |  |
 | 编译原理 | SNL Complier(0) | [snl-compiler-design](https://github.com/waynelee-lwc/2119-snl-compiler-design) |  |
 | 编译原理 | SNL Complier(1) | [JLU-SNL-COMPILER](https://github.com/HanLi05869/JLU-SNL-COMPILER) |  |
 | 编译原理 | SNL Complier(2) | [SNL-Complier](https://github.com/CloudMagician/SNL-Complier) |  |
 | 编译原理 | SNL Complier(3) | [SNL-Complier](https://github.com/YouthLin/SNL-Compiler) |  |
 | 编译原理 | SNL Complier(4) | [SNL_Complier](https://github.com/mytlx/SNL_Compiler) | [参考](https://github.com/YouthLin/SNL-Compiler) |
+| 编译原理 | SNL Complier(5) | [SNL_Complier](https://github.com/badmonkey7/SNL_Compiler) |  |
+| 编译原理 | SNL Complier(6) | [snl](https://github.com/icespite/snl) | [参考](https://github.com/badmonkey7/SNL_Compiler) |
+| 编译原理 | SNL Complier(7) | [snl_compiler](https://github.com/kaaass/snl_compiler) |  |
+| 编译原理 | SNL Complier(8) | [SNLCompiler](https://github.com/SAGIRI-kawaii/SNLCompiler) |  |
+| 编译原理 | SNL Complier(9) | [SNL-compiler](https://github.com/ztmail723/JLU-SNL-compiler) |  |
+| 编译原理 | SNL Complier(a) | [SNL-Compiler](https://github.com/Yoriko-007/SNL-Compiler) |  |
 | 软件工程 | software-project-html | [software_project_html](https://github.com/DctorWei1314/software_project_html) |  |
 | 软件工程 | Business_Process | [frontend](https://github.com/RelaxDegree/Business_Process_System); [backend](https://github.com/XuanchenLi/business_management_system_backend) |  |
 | 软件工程 | DocAuth | [frontend](https://github.com/OceanPresentChao/DocAuth-frontend); [backend](https://github.com/Yurzi/DocAuth-backend) |  |
@@ -212,8 +221,9 @@
 | 软件分布式开发 | all | [jlu_dsd](https://github.com/WNJXYK/JLU_DSD) |  |
 | 设计模式 | 课程作业代码 | [DesignPattern](https://github.com/yang-er/DesignPattern) |  |
 | 设计模式 | 实验 | [DP-Experiment](https://github.com/CloudMagician/Design-Pattern-Experiment) |  |
-| C# 程序设计 | PlaneBombGame | [PlaneBombGame](https://github.com/fengxin-zhxx/PlaneBombGame) | |
 | 游戏编程 | 2D 游戏设计 | [SlimeFight](https://github.com/NatsukiKoki/SlimeFight) |  |
+| C# 程序设计 | PlaneBombGame | [PlaneBombGame](https://github.com/fengxin-zhxx/PlaneBombGame) | |
+| .NET | 作业 | [dotnetspider_homework](https://github.com/ZYGming/dotnetspider_homework) | |
 | GPGPU 异构高性能计算 | FFT | [CUDA-FFT](https://github.com/HanLi05869/CUDA-FFT) |  |
 | 机器学习与 Python | 作业及考试 | [ML-and-Py](https://github.com/userElaina/ML-and-Py) |  |
 | 机器学习与 Python | ML-and-Py | [MLAndPython2023](https://github.com/GGN-2015/MachineLearningAndPython2023) |  |
