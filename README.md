@@ -185,7 +185,8 @@
 | 系统软件综合实践 | 数据库引擎 (CS346) | [DbEngine](https://github.com/yang-er/DbEngine) |  |
 | 系统软件综合实践 | 数据库引擎 (CS346) | [DBCourse](https://github.com/XuanchenLi/DBCourse) |  |
 | 设计模式 | 课程作业代码 | [DesignPattern](https://github.com/yang-er/DesignPattern) |  |
-| 软件分布式开发 | dsd-db | [数据库组(含多个项目)](https://github.com/dsd-db) |  |
+| 软件分布式开发 | DB | [数据库组](https://github.com/dsd-db) |  |
+| 软件分布式开发 | Server | [Server 组](https://github.com/PigeonholeDSD) |  |
 | 游戏编程 | 2D 游戏设计 | [SlimeFight](https://github.com/NatsukiKoki/SlimeFight) |  |
 | 大数据技术与应用 | 作业 | [big-data-homework-FE](https://github.com/waynelee-lwc/big-data-homework-FE) |  |
 | GPGPU异构高性能计算 | FFT | [CUDA-FFT](https://github.com/HanLi05869/CUDA-FFT) |  |
