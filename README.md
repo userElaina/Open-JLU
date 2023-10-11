@@ -142,6 +142,7 @@
 | 程序设计综合课 | C++ 实现 CNN | [simpleCnnFramework](https://github.com/Sherlock-coder/simpleCnnFramework) |  |
 | 程序设计综合课 | Gomoku-人机五子棋 | [Gomoku](https://github.com/jiafeng5513/Gomoku) |  |
 | 程序设计综合课 | Python 实现 ANN | [Easy_Neural_Network](https://github.com/XuanchenLi/Easy_Neural_Network) |  |
+| 程序设计综合课 | SoftwareCC | [SoftwareCC](https://github.com/WNJXYK/JLU_SoftwareCC) |  |
 | 计算机图形学 | 图形学基础小实验 | [CGwork0218](https://github.com/jiafeng5513/CGwork0218) | MFC |
 | 计算机图形学 | 图形学基础小实验 | [JLU_CG_LAB](https://github.com/GGN-2015/JLU_CG_LAB) | MFC |
 | Java | 练习 | [JavaExperiment](https://github.com/yang-er/JavaExperiment) |  |
@@ -187,9 +188,11 @@
 | 设计模式 | 课程作业代码 | [DesignPattern](https://github.com/yang-er/DesignPattern) |  |
 | 软件分布式开发 | DB | [数据库组](https://github.com/dsd-db) |  |
 | 软件分布式开发 | Server | [Server 组](https://github.com/PigeonholeDSD) |  |
+| 软件分布式开发 | all | [jlu_dsd](https://github.com/WNJXYK/JLU_DSD) |  |
 | 游戏编程 | 2D 游戏设计 | [SlimeFight](https://github.com/NatsukiKoki/SlimeFight) |  |
 | 大数据技术与应用 | 作业 | [big-data-homework-FE](https://github.com/waynelee-lwc/big-data-homework-FE) |  |
-| GPGPU异构高性能计算 | FFT | [CUDA-FFT](https://github.com/HanLi05869/CUDA-FFT) |  |
+| GPGPU 异构高性能计算 | FFT | [CUDA-FFT](https://github.com/HanLi05869/CUDA-FFT) |  |
+| 人工智能 | FeatureSelection | [FeatureSelection](https://github.com/WNJXYK/JLU_FeatureSelection) |  |
 | Others | 处理风控的后端系统 | [JLU-BBTS9](https://github.com/JLU-bytedance-backend/JLU-bytedance-backend-techtrainingcamp-security-9) |  |
 | Others | Cat-and-Dog | [ML-Cat-Dog](https://github.com/XuanLaoYee/ML-Cat-Dog) |  |
 | Others | 测距软件 | [jluNewCamera](https://github.com/jiafeng5513/jluNewCamera) | MFC + OpenCV |
