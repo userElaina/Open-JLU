@@ -88,12 +88,15 @@
 | JLUBOOK 附属站点 | [JLUBOOK-forNew](https://github.com/AQiu-2003/JLUBOOK-forNew) |  |
 | Linux User Group | [JLULUG](https://github.com/JLULUG) | 含镜像站相关 |
 | 软件学院选课指南 | [Selection-Guide](https://github.com/JLU-NightsWatch/JLU-SE-Course-Selection-Guide) |  |
+| 校园地理信息系统 | [JLUSchoolGIS](https://github.com/Baolvlv/JLUSchoolGIS) |  |
 
 ---
 
 ## 课程学习和资料
 
-毕业设计相关内容主要适用于吉林大学学生, 使用者请自行参考比对自己学院最新下发的格式要求.
+毕业设计相关内容主要适用于吉林大学学生, 使用者请自行参考比对自己学院最新下发的格式要求. 
+
+由于格式要求的更新, 2013 年以前模板将不会被收录.
 
 | 课程 | 简介 | Link | 备注 |
 | -- | -- | -- | -- |
@@ -115,6 +118,7 @@
 | Others | 计院研究生课程资料 | [DocsForReview](https://github.com/jiafeng5513/DocsForReview) |  |
 | Others | 计算机课件 | [courseware](https://github.com/open-courseware-cn/jlu-cs-courseware) |  |
 | Others | 软件学院课程资料 | [Courses](https://github.com/JLU-NightsWatch/JLU-Courses) |  |
+| Others | 自动化生存资料 | [OpenAuto](https://github.com/Sakura-shem/JLU-OpenAuto) |  |
 
 ---
 
