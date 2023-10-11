@@ -113,7 +113,7 @@
 | 毕业设计 | 计院本科毕业论文 | [JLU-CCST-Thesis](https://github.com/x86vk/JLU-CCST-Thesis) | LaTeX, 2018 |
 | 毕业设计 | 电院本科毕业论文 | [JLU-EE-template](https://github.com/lyjslay/JLU-EE-template) | LaTeX, MSWord, 2021, [参考](https://github.com/x86vk/JLU-CCST-Thesis) |
 | 毕业设计 | 软院本科毕业论文 | [JLU-CSW-template](https://github.com/cheunglei/JLU-CSW-Thesis) | LaTeX, 2021, [参考](https://github.com/x86vk/JLU-CCST-Thesis) |
-| 毕业设计 | 信院本科毕业论文 | [JLU-Thesis](https://github.com/Sakura-shem/JLUThesis) | LaTeX, 2019 |
+| 毕业设计 | 信院本科毕业论文 | [JLU-Thesis](https://github.com/Sakura-shem/JLUThesis) | LaTeX, 2023, [参考](https://github.com/csarron/bsThesisWHU) |
 | 毕业设计 | 研究生学位论文 | [JLUThesis2020](https://github.com/maxuewei2/JLUThesis2020) | LaTeX, 2020 |
 | 毕业设计 | (本/硕/博)学位论文 | [JLU_Dissertation](https://github.com/jiafeng5513/JLU_Dissertation) | LaTeX, 2021, [参考](https://gitea.com/CasperVector/pkuthss) |
 | Others | 计院研究生课程资料 | [DocsForReview](https://github.com/jiafeng5513/DocsForReview) |  |
