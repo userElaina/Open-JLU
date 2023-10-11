@@ -136,9 +136,12 @@
 | 程序设计基础 | 学生成绩管理系统 | [achievement](https://github.com/EugeneJie/achievement) |  |
 | 程序设计基础 | Fruit-Market | [FruitMarket](https://github.com/yang-er/FruitMarket) |  |
 | 程序设计基础 | C 语言实验 | [CCIMS](https://github.com/liuweiky/CCIMS) |  |
+| 程序设计基础 | 超星 OJ 作业 | [chaoxing-oj](https://github.com/Stardust-Coy/JLU2020chaoxing-oj) |  |
+| 程序设计基础 | 中国大学 MOOC 作业 | [MOOC-oj](https://github.com/Stardust-Coy/JLU2020-MOOC-oj) |  |
 | 算法和数据结构 | 简单的作业 | [data-structrue](https://github.com/userElaina/data-structrue) |  |
 | 算法和数据结构 | 哈夫曼-压缩软件 | [naive-Huffman](https://github.com/userElaina/naive-Huffman) |  |
 | 算法和数据结构 | 六度分离假说 | [Keven-Bacon](https://github.com/userElaina/Keven-Bacon) |  |
+| 算法和数据结构 | 上机题解 | [data_structure](https://github.com/zjpzhao/JLU_data_structure) |  |
 | 算法和数据结构 | Nogo-不围棋(0) | [NoGo-AIBot](https://github.com/Superbia-zyb/NoGo-AIBot) | Botzone |
 | 算法和数据结构 | Nogo-不围棋(1) | [nogo](https://github.com/Subsegment/nogo) | Botzone |
 | 算法和数据结构 | Snake-贪吃蛇 | [Snake-AIBot](https://github.com/Superbia-zyb/Snake-AIBot) | Botzone |
@@ -156,6 +159,7 @@
 | 面向对象/ C++ | 商城(0) | [E-commerce](https://github.com/hhhhlkf/E-commerce) |  |
 | 面向对象/ C++ | 商城(1) | [XMall](https://github.com/XuanchenLi/XMall) |  |
 | 面向对象/ C++ | 商城(2) | [Qt-ShoppingMall](https://github.com/OceanPresentChao/Qt-ShoppingMall) |  |
+| 面向对象/ C++ | 即时通讯系统 | [C-2020](https://github.com/Nicer0815/JLU-C-2020) |  |
 | 程序设计综合课 | 中心点计算 | [GraphCalculate](https://github.com/yang-er/GraphCalculate) |  |
 | 程序设计综合课 | KingZ-人机对战游戏 | [KingZ-game](https://github.com/userElaina/KingZ-game); [Depend](https://github.com/userElaina/fastgui) |  |
 | 程序设计综合课 | Risc-V 解释器 | [RiscvSimulator](https://github.com/YuhangQ/RiscvSimulator) |  |
@@ -171,6 +175,7 @@
 | 操作系统 | 死锁判断 | [visualize_deadlock_graph](https://github.com/XuanchenLi/visualize_deadlock_graph) |  |
 | 操作系统 | 磁盘调度 | [disk_scheduling](https://github.com/hhhhlkf/disk_scheduling) |  |
 | 操作系统 | 实验 | [OS-Experiment](https://github.com/CloudMagician/Operating-System-Experiment) |  |
+| 操作系统 | 临界区进程互斥 | [OsExp](https://github.com/Nicer0815/OsExp) |  |
 | 计算机图形学 | 图形学基础小实验 | [CGwork0218](https://github.com/jiafeng5513/CGwork0218) | MFC |
 | 计算机图形学 | 图形学基础小实验 | [JLU_CG_LAB](https://github.com/GGN-2015/JLU_CG_LAB) | MFC |
 | 计算机图形学 | 实验 | [MFC_EXP](https://github.com/CloudMagician/MFC_EXP) | MFC |
@@ -180,6 +185,7 @@
 | Java | 网盘 | [Cvarpe](https://github.com/kvrmnks/Cvarpe) |  |
 | Java | Pet-shop | [javaClassDesign](https://github.com/Rosenberg37/javaClassDesign) |  |
 | Java | 租赁系统 | [iRentalSystem](https://github.com/AQiu-2003/iRentalSystem) |  |
+| Java | Java 实训 | [MYSSM](https://github.com/Nicer0815/MYSSM) |  |
 | JavaEE | 模拟 ai 对话(0) | [ChatJavaEE](https://github.com/OceanPresentChao/ChatJavaEE) | TomEE |
 | JavaEE | 模拟 ai 对话(1) | [J2EChat_back](https://github.com/XuanchenLi/J2EChat); [J2EChat_front](https://github.com/XuanchenLi/J2EChat_front) |  |
 | Linux | linux-notes | [linux-notes](https://github.com/userElaina/linux-notes) |  |
@@ -194,6 +200,8 @@
 | 数据库 | 花瓣网 | ~~[main (因安全问题删库)](https://github.com/haotian-T/database)~~; [make](https://github.com/haotian-T/make_database) |  |
 | 系统软件综合实践 | 数据库引擎 (CS346) | [DbEngine](https://github.com/yang-er/DbEngine) |  |
 | 系统软件综合实践 | 数据库引擎 (CS346) | [DBCourse](https://github.com/XuanchenLi/DBCourse) |  |
+| 软件系统综合开发实践 | B/S 端 | [ssmbuld](https://github.com/Nicer0815/ssmbuld) |  |
+| 软件系统综合开发实践 | C/S 端 | [ssmClient](https://github.com/Nicer0815/ssmClient) |  |
 | 微机/嵌入式/汇编 | MIPS | [mips](https://github.com/userElaina/mips) |  |
 | 微机/嵌入式/汇编 | MIPS | [mips-design](https://github.com/geekifan/mips-design) |  |
 | 微机/嵌入式/汇编 | MIPS | [MIPS-Pipeline](https://github.com/HanLi05869/MIPS-Pipeline) |  |
@@ -205,9 +213,11 @@
 | 微机/嵌入式/汇编 | Bad Apple | [Bad-Apple-4-s3c2440](https://github.com/userElaina/Bad-Apple-4-s3c2440) |  |
 | 微机/嵌入式/汇编 | 商品条形码识别 | [Barcode](https://github.com/qjksxy/Barcode) |  |
 | 编译原理 | 词法分析-递归下降 | [SNLCompiler](https://github.com/SAGIRI-kawaii/SNLCompiler) |  |
-| 编译原理 | SNL Complier | [snl-compiler-design](https://github.com/waynelee-lwc/2119-snl-compiler-design) |  |
-| 编译原理 | SNL Complier | [JLU-SNL-COMPILER](https://github.com/HanLi05869/JLU-SNL-COMPILER) |  |
-| 编译原理 | SNL Complier | [SNL-Complier](https://github.com/CloudMagician/SNL-Complier) |  |
+| 编译原理 | SNL Complier(0) | [snl-compiler-design](https://github.com/waynelee-lwc/2119-snl-compiler-design) |  |
+| 编译原理 | SNL Complier(1) | [JLU-SNL-COMPILER](https://github.com/HanLi05869/JLU-SNL-COMPILER) |  |
+| 编译原理 | SNL Complier(2) | [SNL-Complier](https://github.com/CloudMagician/SNL-Complier) |  |
+| 编译原理 | SNL Complier(3) | [SNL-Complier](https://github.com/YouthLin/SNL-Compiler) |  |
+| 编译原理 | SNL Complier(4) | [SNL_Complier](https://github.com/mytlx/SNL_Compiler) | [参考](https://github.com/YouthLin/SNL-Compiler) |
 | 软件工程 | software-project-html | [software_project_html](https://github.com/DctorWei1314/software_project_html) |  |
 | 软件工程 | Business_Process | [frontend](https://github.com/RelaxDegree/Business_Process_System); [backend](https://github.com/XuanchenLi/business_management_system_backend) |  |
 | 软件工程 | DocAuth | [frontend](https://github.com/OceanPresentChao/DocAuth-frontend); [backend](https://github.com/Yurzi/DocAuth-backend) |  |
