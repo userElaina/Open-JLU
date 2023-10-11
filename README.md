@@ -88,7 +88,6 @@
 | 学在吉大桌面客户端 | [StudyAtJlu_Desktop](https://github.com/RikaCelery/StudyAtJLU_Desktop) |  |
 | JLUBOOK 附属站点 | [JLUBOOK-forNew](https://github.com/AQiu-2003/JLUBOOK-forNew) |  |
 | Linux User Group | [JLULUG](https://github.com/JLULUG) | 含镜像站相关 |
-| 软件学院选课指南 | [Selection-Guide](https://github.com/JLU-NightsWatch/JLU-SE-Course-Selection-Guide) |  |
 | 校园地理信息系统 | [JLUSchoolGIS](https://github.com/Baolvlv/JLUSchoolGIS) |  |
 
 ---
@@ -119,7 +118,9 @@
 | Others | 计院研究生课程资料 | [DocsForReview](https://github.com/jiafeng5513/DocsForReview) |  |
 | Others | 计算机课件 | [courseware](https://github.com/open-courseware-cn/jlu-cs-courseware) |  |
 | Others | 软件学院课程资料 | [Courses](https://github.com/JLU-NightsWatch/JLU-Courses) |  |
+| Others | 软件学院选课指南 | [Selection-Guide](https://github.com/JLU-NightsWatch/JLU-SE-Course-Selection-Guide) |  |
 | Others | 自动化生存资料 | [OpenAuto](https://github.com/Sakura-shem/JLU-OpenAuto) |  |
+| Others | 计算物理入门 | [Computational_Physics](https://github.com/JLUComPhy/JLU_Computational_Physics) |
 
 ---
 
