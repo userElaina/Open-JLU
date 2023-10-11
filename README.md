@@ -10,14 +10,6 @@
 
 ## 工具
 
-### OA
-
-| 简介 | Link |
-| -- | -- |
-| 通知爬虫 | [Reachee](https://github.com/TechCiel/Reachee) |
-
----
-
 ### VPN
 
 | 简介 | Link |
@@ -54,16 +46,6 @@
 
 ---
 
-### JLU Online Judge
-
-| 简介 | Link |
-| -- | -- |
-| JOJ-old | [joj-old](https://github.com/yang-er/joj-old) |
-| JOJ-win32 | [joj-win32](https://github.com/yang-er/joj-win32) |
-| JLU Online Judge | [OnlineJudge](https://github.com/yang-er/OnlineJudge) |
-
----
-
 ### TARS GO
 
 | 简介 | Link | 备注 |
@@ -83,12 +65,14 @@
 | -- | -- | -- |
 | 汇总(本项目) | [Outlast-JLU-DLC](https://github.com/userElaina/Outlast-JLU-DLC) |  |
 | 收集 JLUer 的开源社区账户和 Blog | [JLUroll](https://github.com/userElaina/JLUroll) |  |
+| 通知爬虫 | [Reachee](https://github.com/TechCiel/Reachee) |
 | 合成 JLU (Game) | [hechengJLU](https://github.com/Wesson-Zhu/hechengJLU) |  |
 | 学在吉大视频下载器/H5播放器 | [StudyAtJlu](https://github.com/RikaCelery/StudyAtJlu) |  |
 | 学在吉大桌面客户端 | [StudyAtJlu_Desktop](https://github.com/RikaCelery/StudyAtJLU_Desktop) |  |
 | JLUBOOK 附属站点 | [JLUBOOK-forNew](https://github.com/AQiu-2003/JLUBOOK-forNew) |  |
 | Linux User Group | [JLULUG](https://github.com/JLULUG) | 含镜像站相关 |
 | 校园地理信息系统 | [JLUSchoolGIS](https://github.com/Baolvlv/JLUSchoolGIS) |  |
+| Online Judge | [Namofun](https://github.com/namofun) |
 
 ---
 
