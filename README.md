@@ -68,13 +68,14 @@
 
 | 简介 | Link | 备注 |
 | -- | -- | -- |
-| 汇总(本项目) | [Outlast-JLU-DLC](https://github.com/userElaina/Outlast-JLU-DLC) | |
-| 收集 JLUer 的开源社区账户和 Blog | [JLUroll](https://github.com/userElaina/JLUroll) | |
-| 合成 JLU (Game) | [hechengJLU](https://github.com/Wesson-Zhu/hechengJLU) | |
-| 学在吉大视频下载器/H5播放器 | [StudyAtJlu](https://github.com/RikaCelery/StudyAtJlu) | |
-| 学在吉大桌面客户端 | [StudyAtJlu_Desktop](https://github.com/RikaCelery/StudyAtJLU_Desktop) | |
-| JLUBOOK 附属站点 | [JLUBOOK-forNew](https://github.com/AQiu-2003/JLUBOOK-forNew) | |
+| 汇总(本项目) | [Outlast-JLU-DLC](https://github.com/userElaina/Outlast-JLU-DLC) |  |
+| 收集 JLUer 的开源社区账户和 Blog | [JLUroll](https://github.com/userElaina/JLUroll) |  |
+| 合成 JLU (Game) | [hechengJLU](https://github.com/Wesson-Zhu/hechengJLU) |  |
+| 学在吉大视频下载器/H5播放器 | [StudyAtJlu](https://github.com/RikaCelery/StudyAtJlu) |  |
+| 学在吉大桌面客户端 | [StudyAtJlu_Desktop](https://github.com/RikaCelery/StudyAtJLU_Desktop) |  |
+| JLUBOOK 附属站点 | [JLUBOOK-forNew](https://github.com/AQiu-2003/JLUBOOK-forNew) |  |
 | Linux User Group | [JLULUG](https://github.com/JLULUG) | 含镜像站相关 |
+| 软件学院选课指南 | [Selection-Guide](https://github.com/JLU-NightsWatch/JLU-SE-Course-Selection-Guide) |  |
 
 ---
 
@@ -99,6 +100,8 @@
 | 毕业设计 | 研究生学位论文 | [JLUThesis2020](https://github.com/maxuewei2/JLUThesis2020) | LaTeX, 2020 |
 | 毕业设计 | (本/硕/博)学位论文 | [JLU_Dissertation](https://github.com/jiafeng5513/JLU_Dissertation) | LaTeX, 2021, [参考](https://gitea.com/CasperVector/pkuthss) |
 | Others | 计院研究生课程资料 | [DocsForReview](https://github.com/jiafeng5513/DocsForReview) |  |
+| Others | 计算机课件 | [courseware](https://github.com/open-courseware-cn/jlu-cs-courseware) |  |
+| Others | 软件学院课程资料 | [Courses](https://github.com/JLU-NightsWatch/JLU-Courses) |  |
 
 ---
 
