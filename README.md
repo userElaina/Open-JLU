@@ -73,6 +73,7 @@
 | 决策 | [Decision](https://github.com/Junking1/ICRA2020-JLU-TARS_GO-Decision) |
 | 导航与路径规划 | [Navigation](https://github.com/Junking1/ICRA2020-JLU-TARS_GO-Navigation) |
 | 感知 | [Perception](https://github.com/Junking1/ICRA2020-JLU-TARS_GO-Perception) |
+| 感知模块 | [AI_Sentry](https://github.com/yycloudywind/TARS_GO-AI_Sentry) |
 
 ---
 
@@ -150,6 +151,10 @@
 | 线性规划 | 课程报告 | [Investment-Problem-LP](https://github.com/CloudMagician/Investment-Problem-LP) |  |
 | 面向对象 (C++) | 每周练习 | [JLUOOPClassWork](https://github.com/Yesterday17/JLUOOPClassWork) |  |
 | 面向对象 (C++) | ChatMFC | [ChatMFC](https://github.com/yang-er/ChatMFC) |  |
+| 面向对象 (C++) | 语音信号时域分析 | [Signal-Analysis](https://github.com/yycloudywind/Signal-Analysis) |  |
+| 面向对象 (C++) | 灰度图像直方图统计 | [Grayscale_histogram](https://github.com/yycloudywind/Grayscale_histogram) |  |
+| 面向对象 (C++) | 图书管理系统 | [Library](https://github.com/yycloudywind/Library) |  |
+| 面向对象 (C++) | 超市管理系统 | [SuperMarket](https://github.com/yycloudywind/SuperMarket) |  |
 | C++ 课设 | 商城 | [E-commerce](https://github.com/hhhhlkf/E-commerce) |  |
 | C++ 课设 | 商城 | [XMall](https://github.com/XuanchenLi/XMall) |  |
 | C++ 课设 | 商城 | [Qt-ShoppingMall](https://github.com/OceanPresentChao/Qt-ShoppingMall) |  |
