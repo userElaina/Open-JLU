@@ -4,7 +4,7 @@
 
 有任何疑问/建议/想法/信息, 欢迎以你喜欢的方式 [反馈](#反馈).
 
-#### 注意: 下列项目存在 *[Gitee](https://gitee.com/)* 项目, 用*斜体*标注, 有一定安全需求的用户请注意甄别.
+#### 注意: 下列项目中存在 *[Gitee](https://gitee.com/)* 项目, 用*斜体*标注, 有一定安全需求的用户请注意甄别.
 
 ![Outlast: Jilin University DLC](https://raw.githubusercontent.com/userElaina/Outlast-JLU-DLC/main/steam.png)
 
@@ -159,7 +159,7 @@
 | 计算机网络 | RSTP-Lab | [RSTP-Lab](https://github.com/TechCiel/RSTP-Lab) |  |
 | 数据库 | simple-db | [simple_db](https://github.com/DctorWei1314/simple_db) |  |
 | 数据库 | InvoDB (engine) | [InvoDB](https://github.com/YuhangQ/InvoDB) |  |
-| 数据库 | 花瓣网 | [main (因安全问题删库)](https://github.com/haotian-T/database); [make](https://github.com/haotian-T/make_database) |  |
+| 数据库 | 花瓣网 | ~~[main (因安全问题删库)](https://github.com/haotian-T/database)~~; [make](https://github.com/haotian-T/make_database) |  |
 | 微机/嵌入式/汇编 | MIPS | [mips](https://github.com/userElaina/mips) |  |
 | 微机/嵌入式/汇编 | MIPS | [mips-design](https://github.com/geekifan/mips-design) |  |
 | 微机/嵌入式/汇编 | MIPS | [MIPS-Pipeline](https://github.com/HanLi05869/MIPS-Pipeline) |  |
