@@ -127,6 +127,7 @@
 | 程序设计基础 | 日常作业 | [ProgramDesign](https://github.com/Yesterday17/ProgramDesignHomework) |  |
 | 程序设计基础 | 学生成绩管理系统 | [achievement](https://github.com/EugeneJie/achievement) |  |
 | 程序设计基础 | Fruit-Market | [FruitMarket](https://github.com/yang-er/FruitMarket) |  |
+| 程序设计基础 | C 语言实验 | [CCIMS](https://github.com/liuweiky/CCIMS) |  |
 | 算法和数据结构 | 简单的作业 | [data-structrue](https://github.com/userElaina/data-structrue) |  |
 | 算法和数据结构 | 哈夫曼-压缩软件 | [naive-Huffman](https://github.com/userElaina/naive-Huffman) |  |
 | 算法和数据结构 | 六度分离假说 | [Keven-Bacon](https://github.com/userElaina/Keven-Bacon) |  |
@@ -137,6 +138,7 @@
 | 算法和数据结构 | 新闻区块链 | [Server](https://github.com/KveinAxel/NewsBlockChain); [DNS](https://github.com/KveinAxel/NewsBlockChainDNS); [FrontEnd](https://github.com/KveinAxel/NewsBlockChainFrontEnd) |  |
 | 算法和数据结构 | 红黑树 | [datastruct](https://github.com/ZuoTiJia/datastruct) |  |
 | 算法和数据结构 | 飞机订票系统 | [Iplane](https://github.com/CloudMagician/Iplane) |  |
+| 算法和数据结构 | 飞机订票系统 | [AirlineSystem](https://github.com/liuweiky/AirlineSystem); [fork](https://github.com/lixiaoyu0611/AirlineSystem) |  |
 | 空间解析几何 | 几何计算机交叉应用 | [analytic-geometry](https://github.com/userElaina/analytic-geometry) |  |
 | 机器学习与 Python | 作业及考试 | [ML-and-Py](https://github.com/userElaina/ML-and-Py) |  |
 | 机器学习与 Python | ML-and-Py | [MLAndPython2023](https://github.com/GGN-2015/MachineLearningAndPython2023) |  |
