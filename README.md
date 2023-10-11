@@ -103,6 +103,7 @@
 | 嵌入式 | Embedded System | [Embedded-System](https://github.com/userElaina/Embedded-System) | *嵌入式系统原理及应用教程*</br>(孟祥莲) 提纲+题库 |
 | 嵌入式 | 嵌入式实验 | [up-tech-cup-s3c2440-source](https://github.com/userElaina/up-tech-cup-s3c2440-source) | 课程资源 |
 | 嵌入式 | LED点阵模拟器 | [LED-lattice-simulator](https://github.com/waynelee-lwc/LED-lattice-simulator) | [Demo](http://www.wayne-lee.cn:3006/) |
+| 大创 |  | [Retinal-Image-Recognition](https://github.com/CloudMagician/Retinal-Image-Recognition) |
 | 毕业设计 | 毕设答辩(1) | [JLU-Beamer-Theme](https://github.com/KveinAxel/JLU-Beamer-Theme) | LaTeX, Beamer, 未更改配色 |
 | 毕业设计 | 毕设答辩(2) | [JLU-Beamer-Theme](https://github.com/GohUnTsuan/JLU-Beamer-Theme) | LaTeX, Beamer, [Overleaf](https://www.overleaf.com/latex/templates/jlu-beamer-theme/pbnvqnnbczvh), 更改配色 |
 | 毕业设计 | 计院本科毕业论文 | [JLU-CCST-Thesis](https://github.com/x86vk/JLU-CCST-Thesis) | LaTeX, 2018 |
@@ -135,10 +136,12 @@
 | 算法和数据结构 | 机票管理系统 | [Server](https://github.com/KveinAxel/TicketManageSystem); [FrontEnd](https://github.com/KveinAxel/TicketManageSystemFrontEnd) |  |
 | 算法和数据结构 | 新闻区块链 | [Server](https://github.com/KveinAxel/NewsBlockChain); [DNS](https://github.com/KveinAxel/NewsBlockChainDNS); [FrontEnd](https://github.com/KveinAxel/NewsBlockChainFrontEnd) |  |
 | 算法和数据结构 | 红黑树 | [datastruct](https://github.com/ZuoTiJia/datastruct) |  |
+| 算法和数据结构 | 飞机订票系统 | [Iplane](https://github.com/CloudMagician/Iplane) |  |
 | 空间解析几何 | 几何计算机交叉应用 | [analytic-geometry](https://github.com/userElaina/analytic-geometry) |  |
 | 机器学习与 Python | 作业及考试 | [ML-and-Py](https://github.com/userElaina/ML-and-Py) |  |
 | 机器学习与 Python | ML-and-Py | [MLAndPython2023](https://github.com/GGN-2015/MachineLearningAndPython2023) |  |
 | 基础物理实验 | 实验报告 | [jlu-physics-lab-report](https://github.com/userElaina/jlu-physics-lab-report) |  |
+| 线性规划 | 课程报告 | [Investment-Problem-LP](https://github.com/CloudMagician/Investment-Problem-LP) |  |
 | 面向对象 (C++) | 每周练习 | [JLUOOPClassWork](https://github.com/Yesterday17/JLUOOPClassWork) |  |
 | 面向对象 (C++) | ChatMFC | [ChatMFC](https://github.com/yang-er/ChatMFC) |  |
 | C++ 课设 | 商城 | [E-commerce](https://github.com/hhhhlkf/E-commerce) |  |
@@ -151,6 +154,7 @@
 | 操作系统 | Banker Algorithm | [OSClassDesign](https://github.com/Rosenberg37/operatingSystemClassDesign) |  |
 | 操作系统 | 死锁判断 | [visualize_deadlock_graph](https://github.com/XuanchenLi/visualize_deadlock_graph) |  |
 | 操作系统 | 磁盘调度 | [disk_scheduling](https://github.com/hhhhlkf/disk_scheduling) |  |
+| 操作系统 | 实验 | [OS-Experiment](https://github.com/CloudMagician/Operating-System-Experiment) |  |
 | 程序设计综合课 | 中心点计算 | [GraphCalculate](https://github.com/yang-er/GraphCalculate) |  |
 | 程序设计综合课 | KingZ-人机对战游戏 | [KingZ-game](https://github.com/userElaina/KingZ-game); [Depend](https://github.com/userElaina/fastgui) |  |
 | 程序设计综合课 | Risc-V 解释器 | [RiscvSimulator](https://github.com/YuhangQ/RiscvSimulator) |  |
@@ -160,6 +164,7 @@
 | 程序设计综合课 | SoftwareCC | [SoftwareCC](https://github.com/WNJXYK/JLU_SoftwareCC) |  |
 | 计算机图形学 | 图形学基础小实验 | [CGwork0218](https://github.com/jiafeng5513/CGwork0218) | MFC |
 | 计算机图形学 | 图形学基础小实验 | [JLU_CG_LAB](https://github.com/GGN-2015/JLU_CG_LAB) | MFC |
+| 计算机图形学 | 实验 | [MFC_EXP](https://github.com/CloudMagician/MFC_EXP) | MFC |
 | Java | 练习 | [JavaExperiment](https://github.com/yang-er/JavaExperiment) |  |
 | Java | 书店 | [BookStore](https://github.com/EugeneJie/BookStore) |  |
 | Java | 书吧 | [BookBar](https://github.com/zzk72/web_backend) | springboot |
@@ -174,6 +179,7 @@
 | 计算机网络 | SpanTree | [SpanTree](https://github.com/Rosenberg37/SpanTree) |  |
 | 计算机网络 | RSTP-Lab | [RSTP-Lab](https://github.com/TechCiel/RSTP-Lab) |  |
 | 数据库 | simple-db | [simple_db](https://github.com/DctorWei1314/simple_db) |  |
+| 数据库 | 实验 | [MySQL-Experiment](https://github.com/CloudMagician/MySQL-Experiment) |  |
 | 数据库 | InvoDB (engine) | [InvoDB](https://github.com/YuhangQ/InvoDB) |  |
 | 数据库 | 花瓣网 | ~~[main (因安全问题删库)](https://github.com/haotian-T/database)~~; [make](https://github.com/haotian-T/make_database) |  |
 | 微机/嵌入式/汇编 | MIPS | [mips](https://github.com/userElaina/mips) |  |
@@ -184,8 +190,9 @@
 | 微机/嵌入式/汇编 | Microcomputer-Experiment | [M-Experiment](https://github.com/waynelee-lwc/Microcomputer-Experiment) |  |
 | 微机/嵌入式/汇编 | x86 (I32) 汇编 | [x86-asm-homework](https://github.com/userElaina/x86-asm-homework) |  |
 | 编译原理 | 词法分析-递归下降 | [SNLCompiler](https://github.com/SAGIRI-kawaii/SNLCompiler) |  |
-| 编译原理 | SNL 编译器 | [snl-compiler-design](https://github.com/waynelee-lwc/2119-snl-compiler-design) |  |
-| 编译原理 | JLU-SNL-COMPILER | [JLU-SNL-COMPILER](https://github.com/HanLi05869/JLU-SNL-COMPILER) |  |
+| 编译原理 | SNL Complier | [snl-compiler-design](https://github.com/waynelee-lwc/2119-snl-compiler-design) |  |
+| 编译原理 | SNL Complier | [JLU-SNL-COMPILER](https://github.com/HanLi05869/JLU-SNL-COMPILER) |  |
+| 编译原理 | SNL Complier | [SNL-Complier](https://github.com/CloudMagician/SNL-Complier) |  |
 | 软件工程 | software-project-html | [software_project_html](https://github.com/DctorWei1314/software_project_html) |  |
 | 软件工程 | Business_Process | [frontend](https://github.com/RelaxDegree/Business_Process_System); [backend](https://github.com/XuanchenLi/business_management_system_backend) |  |
 | 软件工程 | DocAuth | [frontend](https://github.com/OceanPresentChao/DocAuth-frontend); [backend](https://github.com/Yurzi/DocAuth-backend) |  |
@@ -201,6 +208,7 @@
 | 系统软件综合实践 | 数据库引擎 (CS346) | [DbEngine](https://github.com/yang-er/DbEngine) |  |
 | 系统软件综合实践 | 数据库引擎 (CS346) | [DBCourse](https://github.com/XuanchenLi/DBCourse) |  |
 | 设计模式 | 课程作业代码 | [DesignPattern](https://github.com/yang-er/DesignPattern) |  |
+| 设计模式 | 实验 | [DP-Experiment](https://github.com/CloudMagician/Design-Pattern-Experiment) |  |
 | 软件分布式开发 | DB | [数据库组](https://github.com/dsd-db) |  |
 | 软件分布式开发 | Server | [Server 组](https://github.com/PigeonholeDSD) |  |
 | 软件分布式开发 | all | [jlu_dsd](https://github.com/WNJXYK/JLU_DSD) |  |
