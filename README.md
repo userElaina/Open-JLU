@@ -1,4 +1,6 @@
-# Outlast: Jilin University DLC
+# Open JLU
+
+原标题 `Outlast: Jilin University DLC`.
 
 汇总了在吉林大学生存所需的 Repositories.
 
