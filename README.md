@@ -220,7 +220,8 @@
 | 软件工程 | DocAuth | [frontend](https://github.com/OceanPresentChao/DocAuth-frontend); [backend](https://github.com/Yurzi/DocAuth-backend) |  |
 | 软件工程 | blog engine | [whisper](https://github.com/TechCiel/whisper) |  |
 | 软件分布式开发 | DB | [数据库组](https://github.com/dsd-db) |  |
-| 软件分布式开发 | Server | [Server 组](https://github.com/PigeonholeDSD) |  |
+| 软件分布式开发 | Server(0) | [Server 组](https://github.com/PigeonholeDSD) |  |
+| 软件分布式开发 | Server(1) | [Server](https://github.com/zwh2119/dsd-server); [Embedded](https://github.com/zwh2119/Embedded-Server) |  |
 | 软件分布式开发 | all | [jlu_dsd](https://github.com/WNJXYK/JLU_DSD) |  |
 | 设计模式 | 课程作业代码 | [DesignPattern](https://github.com/yang-er/DesignPattern) |  |
 | 设计模式 | 实验 | [DP-Experiment](https://github.com/CloudMagician/Design-Pattern-Experiment) |  |
