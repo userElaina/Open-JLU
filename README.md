@@ -75,7 +75,7 @@
 | Linux User Group | [JLULUG](https://github.com/JLULUG) | 含镜像站相关 |
 | 校园地理信息系统 | [JLUSchoolGIS](https://github.com/Baolvlv/JLUSchoolGIS) |  |
 | Online Judge | [Namofun](https://github.com/namofun) |
-
+| JiShi-Android| [JiShi-Android](https://github.com/tsurumi-yizhou/JiShi-Android)| 开发中 |
 ---
 
 ## 课程学习和资料
