@@ -67,15 +67,18 @@
 | -- | -- | -- |
 | 汇总(本项目) | [Outlast-JLU-DLC](https://github.com/userElaina/Outlast-JLU-DLC) |  |
 | 收集 JLUer 的开源社区账户和 Blog | [JLUroll](https://github.com/userElaina/JLUroll) |  |
-| 通知爬虫 | [Reachee](https://github.com/TechCiel/Reachee) |
+| 通知爬虫 | [Reachee](https://github.com/TechCiel/Reachee) |  |
 | 合成 JLU (Game) | [hechengJLU](https://github.com/Wesson-Zhu/hechengJLU) |  |
 | 学在吉大视频下载器/H5播放器 | [StudyAtJlu](https://github.com/RikaCelery/StudyAtJlu) |  |
 | 学在吉大桌面客户端 | [StudyAtJlu_Desktop](https://github.com/RikaCelery/StudyAtJLU_Desktop) |  |
 | JLUBOOK 附属站点 | [JLUBOOK-forNew](https://github.com/AQiu-2003/JLUBOOK-forNew) |  |
-| Linux User Group | [JLULUG](https://github.com/JLULUG) | 含镜像站相关 |
+| Linux 用户协会 | [JLULUG](https://github.com/JLULUG) | 含镜像站相关 |
+| 开源协会 | [OSTA](https://github.com/JLU-OSTA) | 含一些作业 |
 | 校园地理信息系统 | [JLUSchoolGIS](https://github.com/Baolvlv/JLUSchoolGIS) |  |
-| Online Judge | [Namofun](https://github.com/namofun) |
-| JiShi-Android| [JiShi-Android](https://github.com/tsurumi-yizhou/JiShi-Android)| 开发中 |
+| Online Judge | [Namofun](https://github.com/namofun) |  |
+| JiShi-Android | [JiShi-Android](https://github.com/tsurumi-yizhou/JiShi-Android)| 开发中 |
+| School ID App | [SmartCard](https://github.com/RigoLigoRLC/JLUSmartCard)|  |
+
 ---
 
 ## 课程学习和资料
@@ -86,13 +89,13 @@
 
 | 课程 | 简介 | Link | 备注 |
 | -- | -- | -- | -- |
-| 面向对象 (C++) | oop-notes | [oop-notes](https://github.com/userElaina/oop-notes) |  |
+| 面向对象 (C++) | 笔记 | [oop-notes](https://github.com/userElaina/oop-notes) |  |
 | 计算机图形学 | Computer Graphics | [jlu-computer-graphics](https://github.com/userElaina/jlu-computer-graphics) | 教材缺失的API的实现,</br> 相关算法的实现 |
-| 汇编 | x86 汇编 | [x86-asm-book-source](https://github.com/lichuang/x86-asm-book-source) | 课程资源 |
-| 嵌入式 | Embedded System | [Embedded-System](https://github.com/userElaina/Embedded-System) | *嵌入式系统原理及应用教程*</br>(孟祥莲) 提纲+题库 |
-| 嵌入式 | 嵌入式实验 | [up-tech-cup-s3c2440-source](https://github.com/userElaina/up-tech-cup-s3c2440-source) | 课程资源 |
-| 嵌入式 | LED点阵模拟器 | [LED-lattice-simulator](https://github.com/waynelee-lwc/LED-lattice-simulator) | [Demo](http://www.wayne-lee.cn:3006/) |
-| 大创 |  | [Retinal-Image-Recognition](https://github.com/CloudMagician/Retinal-Image-Recognition) |
+| 汇编 | 课程资源 | [x86-asm-book-source](https://github.com/lichuang/x86-asm-book-source) |  |
+| 嵌入式 | 提纲+题库 | [Embedded-System](https://github.com/userElaina/Embedded-System) | *嵌入式系统原理及应用教程*</br>(孟祥莲) |
+| 嵌入式 | 课程资源 | [up-tech-cup-s3c2440-source](https://github.com/userElaina/up-tech-cup-s3c2440-source) |  |
+| 嵌入式 | LED 点阵模拟器 | [LED-lattice-simulator](https://github.com/waynelee-lwc/LED-lattice-simulator) | [Demo](http://www.wayne-lee.cn:3006/) |
+| 大创 |  | [Retinal-Image-Recognition](https://github.com/CloudMagician/Retinal-Image-Recognition) |  |
 | 毕业设计 | 毕设答辩(1) | [JLU-Beamer-Theme](https://github.com/KveinAxel/JLU-Beamer-Theme) | LaTeX, Beamer, 未更改配色 |
 | 毕业设计 | 毕设答辩(2) | [JLU-Beamer-Theme](https://github.com/GohUnTsuan/JLU-Beamer-Theme) | LaTeX, Beamer, [Overleaf](https://www.overleaf.com/latex/templates/jlu-beamer-theme/pbnvqnnbczvh), 更改配色 |
 | 毕业设计 | 计院本科毕业论文 | [JLU-CCST-Thesis](https://github.com/x86vk/JLU-CCST-Thesis) | LaTeX, 2018 |
@@ -104,10 +107,12 @@
 | 毕业设计 | 本科毕业论文 | [JLUThesis](https://github.com/geekifan/jluthesis) | LaTeX, 2023, [参考](https://github.com/Sakura-shem/JLUThesis) |
 | Others | 计院研究生课程资料 | [DocsForReview](https://github.com/jiafeng5513/DocsForReview) |  |
 | Others | 计算机课件 | [courseware](https://github.com/open-courseware-cn/jlu-cs-courseware) |  |
+| Others | 计算机思维导图 | [AwesomeStudyResource](https://github.com/liudongdong1/AwesomeStudyResource) |  |
 | Others | 软件学院课程资料 | [Courses](https://github.com/JLU-NightsWatch/JLU-Courses) |  |
 | Others | 软件学院选课指南 | [Selection-Guide](https://github.com/JLU-NightsWatch/JLU-SE-Course-Selection-Guide) |  |
 | Others | 自动化生存资料 | [OpenAuto](https://github.com/Sakura-shem/JLU-OpenAuto) |  |
-| Others | 计算物理入门 | [Computational_Physics](https://github.com/JLUComPhy/JLU_Computational_Physics) |
+| Others | 计算物理入门 | [Computational_Physics](https://github.com/JLUComPhy/JLU_Computational_Physics) |  |
+| Others | NLP 相关数据集总结 | [NLP_DataSets](https://github.com/RidongHan/JLU_NLP_DataSets) |  |
 
 ---
 
@@ -142,6 +147,8 @@
 | 算法和数据结构 | 飞机订票系统(1) | [AirlineSystem](https://github.com/liuweiky/AirlineSystem); [fork](https://github.com/lixiaoyu0611/AirlineSystem) |  |
 | 算法和数据结构 | 课设 | [flight_vue_django](https://github.com/icespite/flight_vue_django) |  |
 | 算法和数据结构 | Assignment | [DataStructureAssignment](https://github.com/kaaass/DataStructureAssignment) |  |
+| 算法和数据结构 | OJ题目代码 | [C-OJ](https://github.com/Yurzi/Jlu-C-OJ) |  |
+| 算法和数据结构 | 实验和考试 | [DataStructure-2017](https://github.com/liuweiky/JLU-CCST_DataStructure-2017) |  |
 | 面向对象/ C++ | 每周练习 | [JLUOOPClassWork](https://github.com/Yesterday17/JLUOOPClassWork) |  |
 | 面向对象/ C++ | ChatMFC | [ChatMFC](https://github.com/yang-er/ChatMFC) |  |
 | 面向对象/ C++ | 语音信号时域分析 | [Signal-Analysis](https://github.com/yycloudywind/Signal-Analysis) |  |
@@ -152,6 +159,8 @@
 | 面向对象/ C++ | 商城(1) | [XMall](https://github.com/XuanchenLi/XMall) |  |
 | 面向对象/ C++ | 商城(2) | [Qt-ShoppingMall](https://github.com/OceanPresentChao/Qt-ShoppingMall) |  |
 | 面向对象/ C++ | 即时通讯系统 | [C-2020](https://github.com/Nicer0815/JLU-C-2020) |  |
+| 面向对象/ C++ | 课程设计 | [olshop](https://github.com/Yurzi/jlu_olshop) |  |
+| 面向对象/ C++ | 微商系统 | [E-commerce](https://github.com/hhhhlkf/E-commerce) |  |
 | 程序设计综合课 | 中心点计算 | [GraphCalculate](https://github.com/yang-er/GraphCalculate) |  |
 | 程序设计综合课 | KingZ-人机对战游戏 | [KingZ-game](https://github.com/userElaina/KingZ-game); [Depend](https://github.com/userElaina/fastgui) |  |
 | 程序设计综合课 | Risc-V 解释器 | [RiscvSimulator](https://github.com/YuhangQ/RiscvSimulator) |  |
@@ -168,15 +177,18 @@
 | 操作系统 | 磁盘调度 | [disk_scheduling](https://github.com/hhhhlkf/disk_scheduling) |  |
 | 操作系统 | 实验 | [OS-Experiment](https://github.com/CloudMagician/Operating-System-Experiment) |  |
 | 操作系统 | 临界区进程互斥 | [OsExp](https://github.com/Nicer0815/OsExp) |  |
+| 操作系统 | Experiment | [OSExp](https://github.com/liuweiky/OSExp) |  |
 | 计算机图形学 | 图形学基础小实验 | [CGwork0218](https://github.com/jiafeng5513/CGwork0218) | MFC |
 | 计算机图形学 | 图形学基础小实验 | [JLU_CG_LAB](https://github.com/GGN-2015/JLU_CG_LAB) | MFC |
 | 计算机图形学 | 实验 | [MFC_EXP](https://github.com/CloudMagician/MFC_EXP) | MFC |
+| 计算机图形学 | Experiment | [Exp](https://github.com/liuweiky/ComputerGraphicsExp) |  |
 | Java | 练习 | [JavaExperiment](https://github.com/yang-er/JavaExperiment) |  |
 | Java | 书店 | [BookStore](https://github.com/EugeneJie/BookStore) |  |
 | Java | 书吧 | [BookBar](https://github.com/zzk72/web_backend) | springboot |
 | Java | 网盘 | [Cvarpe](https://github.com/kvrmnks/Cvarpe) |  |
 | Java | Pet-shop | [javaClassDesign](https://github.com/Rosenberg37/javaClassDesign) |  |
 | Java | 租赁系统 | [iRentalSystem](https://github.com/AQiu-2003/iRentalSystem) |  |
+| Java | Experiment | [JavaExp](https://github.com/liuweiky/JavaExp) |  |
 | Java | Java 实训 | [MYSSM](https://github.com/Nicer0815/MYSSM) |  |
 | JavaEE | 模拟 ai 对话(0) | [ChatJavaEE](https://github.com/OceanPresentChao/ChatJavaEE) | TomEE |
 | JavaEE | 模拟 ai 对话(1) | [J2EChat_back](https://github.com/XuanchenLi/J2EChat); [J2EChat_front](https://github.com/XuanchenLi/J2EChat_front) |  |
@@ -185,25 +197,30 @@
 | 计算机网络 | 文件传输服务器 | [cs-network-proj](https://github.com/kaaass/cs-network-proj) |  |
 | 计算机网络 | SpanTree | [SpanTree](https://github.com/Rosenberg37/SpanTree) |  |
 | 计算机网络 | RSTP-Lab | [RSTP-Lab](https://github.com/TechCiel/RSTP-Lab) |  |
+| 计算机网络 | FTP 服务器 | [socketlab](https://github.com/hhhhlkf/socketLab) |  |
+| 计算机网络 | lab | [NetLab](https://github.com/XuanchenLi/NetLab) |  |
 | 网络程序设计 | ChatSystem | [ChatSystem](https://github.com/SAGIRI-kawaii/ChatSystem) |  |
 | 数据库 | simple-db | [simple_db](https://github.com/DctorWei1314/simple_db) |  |
 | 数据库 | 实验 | [MySQL-Experiment](https://github.com/CloudMagician/MySQL-Experiment) |  |
 | 数据库 | InvoDB (engine) | [InvoDB](https://github.com/YuhangQ/InvoDB) |  |
 | 数据库 | 花瓣网 | ~~[main (因安全问题删库)](https://github.com/haotian-T/database)~~; [make](https://github.com/haotian-T/make_database) |  |
-| 系统软件综合实践 | 数据库引擎 (CS346) | [DbEngine](https://github.com/yang-er/DbEngine) |  |
-| 系统软件综合实践 | 数据库引擎 (CS346) | [DBCourse](https://github.com/XuanchenLi/DBCourse) |  |
+| 数据库与 Web 智能 | 信息抽取&情感分析 | [DMWIS-IE-EA](https://github.com/RidongHan/JLU-DMWIS-IE-EA) |  |
+| 系统软件综合实践 | redbase | [redbase](https://github.com/hhhhlkf/redbase) |  |
+| 系统软件综合实践 | 数据库引擎 (CS346)(0) | [DbEngine](https://github.com/yang-er/DbEngine) |  |
+| 系统软件综合实践 | 数据库引擎 (CS346)(1) | [DBCourse](https://github.com/XuanchenLi/DBCourse) |  |
 | 软件系统综合开发实践 | B/S 端 | [ssmbuld](https://github.com/Nicer0815/ssmbuld) |  |
 | 软件系统综合开发实践 | C/S 端 | [ssmClient](https://github.com/Nicer0815/ssmClient) |  |
 | 微机/嵌入式/汇编 | MIPS | [mips](https://github.com/userElaina/mips) |  |
 | 微机/嵌入式/汇编 | MIPS | [mips-design](https://github.com/geekifan/mips-design) |  |
 | 微机/嵌入式/汇编 | MIPS | [MIPS-Pipeline](https://github.com/HanLi05869/MIPS-Pipeline) |  |
 | 微机/嵌入式/汇编 | MIPS | [MIPS-Lite4-Tomasulo](https://github.com/GGN-2015/MIPS-Lite4-Tomasulo) |  |
-| 微机/嵌入式/汇编 | Microcomputer-Lab | [MicrocomputerLab](https://github.com/userElaina/MicrocomputerLab) |  |
-| 微机/嵌入式/汇编 | Microcomputer-Experiment | [M-Experiment](https://github.com/waynelee-lwc/Microcomputer-Experiment) |  |
+| 微机/嵌入式/汇编 | Lab | [MicrocomputerLab](https://github.com/userElaina/MicrocomputerLab) |  |
+| 微机/嵌入式/汇编 | Experiment | [M-Experiment](https://github.com/waynelee-lwc/Microcomputer-Experiment) |  |
 | 微机/嵌入式/汇编 | x86 (I32) 汇编 | [x86-asm-homework](https://github.com/userElaina/x86-asm-homework) |  |
 | 微机/嵌入式/汇编 | 高铁信息牌 | [s3c2440-homework](https://github.com/userElaina/s3c2440-homework) |  |
 | 微机/嵌入式/汇编 | Bad Apple | [Bad-Apple-4-s3c2440](https://github.com/userElaina/Bad-Apple-4-s3c2440) |  |
 | 微机/嵌入式/汇编 | 商品条形码识别 | [Barcode](https://github.com/qjksxy/Barcode) |  |
+| 微机/嵌入式/汇编 | Experiment | [M-InterfaceExp](https://github.com/liuweiky/MicrocomputerInterfaceExp) |  |
 | 编译原理 | SNL Complier(0) | [snl-compiler-design](https://github.com/waynelee-lwc/2119-snl-compiler-design) |  |
 | 编译原理 | SNL Complier(1) | [JLU-SNL-COMPILER](https://github.com/HanLi05869/JLU-SNL-COMPILER) |  |
 | 编译原理 | SNL Complier(2) | [SNL-Complier](https://github.com/CloudMagician/SNL-Complier) |  |
@@ -215,10 +232,15 @@
 | 编译原理 | SNL Complier(8) | [SNLCompiler](https://github.com/SAGIRI-kawaii/SNLCompiler) |  |
 | 编译原理 | SNL Complier(9) | [SNL-compiler](https://github.com/ztmail723/JLU-SNL-compiler) |  |
 | 编译原理 | SNL Complier(a) | [SNL-Compiler](https://github.com/Yoriko-007/SNL-Compiler) |  |
+| 编译原理 | SNL Complier(b) | [snlc-rust](https://github.com/Yurzi/snlc-rust) |  |
+| 编译原理 | SNL Complier(c) | [SNLC](https://github.com/XuanchenLi/SNLC) |  |
+| 编译原理 | SNL Complier(d) | [/SNLCompiler](https://github.com/liuweiky/SNLCompiler) |  |
 | 软件工程 | software-project-html | [software_project_html](https://github.com/DctorWei1314/software_project_html) |  |
 | 软件工程 | Business_Process | [frontend](https://github.com/RelaxDegree/Business_Process_System); [backend](https://github.com/XuanchenLi/business_management_system_backend) |  |
 | 软件工程 | DocAuth | [frontend](https://github.com/OceanPresentChao/DocAuth-frontend); [backend](https://github.com/Yurzi/DocAuth-backend) |  |
-| 软件工程 | blog engine | [whisper](https://github.com/TechCiel/whisper) |  |
+| 软件工程 | CourseSys | [frontend](https://github.com/liuweiky/CourseSys); [backend](https://github.com/liuweiky/course_sys_backend) |  |
+| 软件工程 | blog engine(0) | [whisper](https://github.com/TechCiel/whisper) |  |
+| 软件工程 | blog engine(1) | [SE-Project-2019](https://github.com/Gwzlchn/SE-Project-2019) |  |
 | 软件分布式开发 | DB | [数据库组](https://github.com/dsd-db) |  |
 | 软件分布式开发 | Server(0) | [Server 组](https://github.com/PigeonholeDSD) |  |
 | 软件分布式开发 | Server(1) | [Server](https://github.com/zwh2119/dsd-server); [Embedded](https://github.com/zwh2119/Embedded-Server) |  |
@@ -228,6 +250,9 @@
 | 游戏编程 | 2D 游戏设计 | [SlimeFight](https://github.com/NatsukiKoki/SlimeFight) |  |
 | C# 程序设计 | PlaneBombGame | [PlaneBombGame](https://github.com/fengxin-zhxx/PlaneBombGame) | |
 | .NET | 作业 | [dotnetspider_homework](https://github.com/ZYGming/dotnetspider_homework) | |
+| OpenGL | 绘制旋转的雪花 | [spin-snow](https://github.com/Yurzi/spin-snow) |  |
+| MCU | Experiment | [MCU_Exp](https://github.com/liuweiky/MCU_Exp) |  |
+| iOS | dev assignment | [Facet](https://github.com/liuweiky/iOS-Dev_Facet) |  |
 | GPGPU 异构高性能计算 | FFT | [CUDA-FFT](https://github.com/HanLi05869/CUDA-FFT) |  |
 | 机器学习与 Python | 作业及考试 | [ML-and-Py](https://github.com/userElaina/ML-and-Py) |  |
 | 机器学习与 Python | ML-and-Py | [MLAndPython2023](https://github.com/GGN-2015/MachineLearningAndPython2023) |  |
