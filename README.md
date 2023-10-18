@@ -73,6 +73,7 @@
 | 学在吉大桌面客户端 | [StudyAtJlu_Desktop](https://github.com/RikaCelery/StudyAtJLU_Desktop) |  |
 | JLUBOOK 附属站点 | [JLUBOOK-forNew](https://github.com/AQiu-2003/JLUBOOK-forNew) |  |
 | Linux 用户协会 | [JLULUG](https://github.com/JLULUG) | 含镜像站相关 |
+| iOS Club | [JLULUG](https://github.com/jlu-ios-club) | 含一些作业 |
 | 开源协会 | [OSTA](https://github.com/JLU-OSTA) | 含一些作业 |
 | 校园地理信息系统 | [JLUSchoolGIS](https://github.com/Baolvlv/JLUSchoolGIS) |  |
 | Online Judge | [Namofun](https://github.com/namofun) |  |
