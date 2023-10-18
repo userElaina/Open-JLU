@@ -222,6 +222,7 @@
 | 微机/嵌入式/汇编 | Bad Apple | [Bad-Apple-4-s3c2440](https://github.com/userElaina/Bad-Apple-4-s3c2440) |  |
 | 微机/嵌入式/汇编 | 商品条形码识别 | [Barcode](https://github.com/qjksxy/Barcode) |  |
 | 微机/嵌入式/汇编 | Experiment | [M-InterfaceExp](https://github.com/liuweiky/MicrocomputerInterfaceExp) |  |
+| 编译原理 | 课设 | [Course-design](https://github.com/byylkcsj/Course-design-of-compiling-principle) | 含实验报告 |
 | 编译原理 | SNL Complier(0) | [snl-compiler-design](https://github.com/waynelee-lwc/2119-snl-compiler-design) |  |
 | 编译原理 | SNL Complier(1) | [JLU-SNL-COMPILER](https://github.com/HanLi05869/JLU-SNL-COMPILER) |  |
 | 编译原理 | SNL Complier(2) | [SNL-Complier](https://github.com/CloudMagician/SNL-Complier) |  |
@@ -235,7 +236,7 @@
 | 编译原理 | SNL Complier(a) | [SNL-Compiler](https://github.com/Yoriko-007/SNL-Compiler) |  |
 | 编译原理 | SNL Complier(b) | [snlc-rust](https://github.com/Yurzi/snlc-rust) |  |
 | 编译原理 | SNL Complier(c) | [SNLC](https://github.com/XuanchenLi/SNLC) |  |
-| 编译原理 | SNL Complier(d) | [/SNLCompiler](https://github.com/liuweiky/SNLCompiler) |  |
+| 编译原理 | SNL Complier(d) | [SNLCompiler](https://github.com/liuweiky/SNLCompiler) |  |
 | 软件工程 | software-project-html | [software_project_html](https://github.com/DctorWei1314/software_project_html) |  |
 | 软件工程 | Business_Process | [frontend](https://github.com/RelaxDegree/Business_Process_System); [backend](https://github.com/XuanchenLi/business_management_system_backend) |  |
 | 软件工程 | DocAuth | [frontend](https://github.com/OceanPresentChao/DocAuth-frontend); [backend](https://github.com/Yurzi/DocAuth-backend) |  |
