@@ -124,6 +124,7 @@
 | 基础物理实验 | 实验报告 | [jlu-physics-lab-report](https://github.com/userElaina/jlu-physics-lab-report) |  |
 | 空间解析几何 | 几何计算机交叉应用 | [analytic-geometry](https://github.com/userElaina/analytic-geometry) |  |
 | 大学计算机基础 | Unity-游戏 | [2D-Adventure](https://github.com/Superbia-zyb/2D-Adventure) |  |
+| 大学计算机基础 | 多个项目 | [JLUprojects](https://github.com/JLUprojects) |  |
 | 程序设计基础 | 酒水管理系统 | [ProgramDesign](https://github.com/3223v/drink_manage) |  |
 | 程序设计基础 | 日常作业 | [ProgramDesign](https://github.com/Yesterday17/ProgramDesignHomework) |  |
 | 程序设计基础 | 学生成绩管理系统 | [achievement](https://github.com/EugeneJie/achievement) |  |
