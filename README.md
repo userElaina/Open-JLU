@@ -115,7 +115,7 @@
 | Others | 自动化生存资料 | [OpenAuto](https://github.com/Sakura-shem/JLU-OpenAuto) |  |
 | Others | 计算物理入门 | [Computational_Physics](https://github.com/JLUComPhy/JLU_Computational_Physics) |  |
 | Others | NLP 相关数据集总结 | [NLP_DataSets](https://github.com/RidongHan/JLU_NLP_DataSets) |  |
-
+| Others | 软件学院学习资料 | [JLU-Course](https://github.com/ryan6073/JLU-Course) |  |
 ---
 
 ## 大作业
