@@ -80,6 +80,7 @@
 | School ID App | [SmartCard](https://github.com/RigoLigoRLC/JLUSmartCard)|  |
 | 吉大助手 | [jlu_helper](https://github.com/276562578/jlu_helper)| 整合信息服务 |
 | JiShi-Android | [JiShi-Android](https://github.com/tsurumi-yizhou/JiShi-Android)| 开发中 |
+| 抢课软件 | [JLUiCourse](https://github.com/wzyyyyyyy/JLUiCourse)| 自动抢课捏 |
 
 ---
 
