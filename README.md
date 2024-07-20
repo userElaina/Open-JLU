@@ -111,6 +111,7 @@
 | 毕业设计 | 本科毕业论文 | [JLUThesis](https://github.com/geekifan/jluthesis) | LaTeX, 2023, [参考](https://github.com/Sakura-shem/JLUThesis) |
 | Others | 计院研究生课程资料 | [DocsForReview](https://github.com/jiafeng5513/DocsForReview) |  |
 | Others | 计算机课件 | [courseware](https://github.com/open-courseware-cn/jlu-cs-courseware) |  |
+| Others | 计算机课程资料 | [Major-Courses](https://github.com/Geraldxm/Major-Courses) |  |
 | Others | 计算机思维导图 | [AwesomeStudyResource](https://github.com/liudongdong1/AwesomeStudyResource) |  |
 | Others | 软件学院课程资料 | [Courses](https://github.com/JLU-NightsWatch/JLU-Courses) |  |
 | Others | 软件学院选课指南 | [Selection-Guide](https://github.com/JLU-NightsWatch/JLU-SE-Course-Selection-Guide) |  |
