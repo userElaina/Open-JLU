@@ -155,6 +155,7 @@
 | 算法和数据结构 | Assignment | [DataStructureAssignment](https://github.com/kaaass/DataStructureAssignment) |  |
 | 算法和数据结构 | OJ题目代码 | [C-OJ](https://github.com/Yurzi/Jlu-C-OJ) |  |
 | 算法和数据结构 | 实验和考试 | [DataStructure-2017](https://github.com/liuweiky/JLU-CCST_DataStructure-2017) |  |
+| 模拟与数字逻辑电路 | 汽车尾灯控制电路综合设计 | [digital-logic-circuit-assignment-jlu](https://github.com/GGN-2015/digital-logic-circuit-assignment-jlu) | |
 | 面向对象/ C++ | 每周练习 | [JLUOOPClassWork](https://github.com/Yesterday17/JLUOOPClassWork) |  |
 | 面向对象/ C++ | ChatMFC | [ChatMFC](https://github.com/yang-er/ChatMFC) |  |
 | 面向对象/ C++ | 语音信号时域分析 | [Signal-Analysis](https://github.com/yycloudywind/Signal-Analysis) |  |
