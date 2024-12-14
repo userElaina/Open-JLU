@@ -287,12 +287,14 @@
 
 ### 反馈
 
+- 有 **Commit** 权限的开发者可以直接进行修改.
+
 - **[PR](https://github.com/userElaina/Outlast-JLU-DLC/pulls)**(非常建议)
 
 - **[Issue](https://github.com/userElaina/Outlast-JLU-DLC/issues)**(建议)
 
 - **Email**(建议): [jlucn@pm.me](mailto:jlucn@pm.me)
 
-- **Telegram**(建议): [@userElaina](https://t.me/userElaina)
+- **Telegram**(建议): [@userElaina](https://t.me/userElaina) [@GGN_2015](https://t.me/GGN_2015)
 
 - **QQ**(不建议): 1072674074
