@@ -1,14 +1,16 @@
 # Open JLU
 
-原标题 `Outlast: Jilin University DLC`.
+原标题 **[Outlast](https://store.steampowered.com/app/273300/): Jilin University DLC**, [原封面](https://raw.githubusercontent.com/userElaina/Outlast-JLU-DLC/main/steam.png).
 
 汇总了在吉林大学生存所需的 Repositories.
 
 有任何疑问/建议/想法/信息, 欢迎以你喜欢的方式 [反馈](#反馈).
 
-**注意: 下列项目中存在 *[Gitee](https://gitee.com/)* 项目, 以*斜体*标注, 有一定安全需求的用户请注意甄别.**
+本文件 ([README.md](https://github.com/userElaina/Open-JLU?tab=readme-ov-file)) 以 [MIT](https://github.com/userElaina/Open-JLU?tab=MIT-1-ov-file) 协议发布.
 
-[![Outlast: Jilin University DLC](https://raw.githubusercontent.com/userElaina/Outlast-JLU-DLC/main/steam.png)](https://store.steampowered.com/app/273300/)
+PDF 以 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) 协议发布, 请在 [Releases](https://github.com/userElaina/Open-JLU/releases) 下载.
+
+**注意: 下列项目中存在 *[Gitee](https://gitee.com/)* 项目, 以*斜体*标注, 有一定安全需求的用户请注意甄别.**
 
 ## 工具
 
