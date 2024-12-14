@@ -6,9 +6,9 @@
 
 有任何疑问/建议/想法/信息, 欢迎以你喜欢的方式 [反馈](#反馈).
 
-#### 注意: 下列项目中存在 *[Gitee](https://gitee.com/)* 项目, 用*斜体*标注, 有一定安全需求的用户请注意甄别.
+**注意: 下列项目中存在 *[Gitee](https://gitee.com/)* 项目, 以*斜体*标注, 有一定安全需求的用户请注意甄别.**
 
-![Outlast: Jilin University DLC](https://raw.githubusercontent.com/userElaina/Outlast-JLU-DLC/main/steam.png)
+[![Outlast: Jilin University DLC](https://raw.githubusercontent.com/userElaina/Outlast-JLU-DLC/main/steam.png)](https://store.steampowered.com/app/273300/)
 
 ## 工具
 
@@ -41,7 +41,7 @@
 | *DrCOM(a) | [DrComDotnet](https://github.com/milkpuff/DrComDotnet) | .NET |
 | *DrCOM(b) | [dr-jlu-linux](https://github.com/CrackTC/dr-jlu-linux) | Linux, C++ |
 | *DrCOM(c) | [jlu-drcom-in-c](https://github.com/feix/jlu-drcom-in-c) | Linux, C |
-| *DrCOM(d) | [jlu-drcom-client-gtk](https://github.com/JonathanKang/jlu-drcom-client-gtk) | Python, Gtk |
+| *DrCOM(d) | [jlu-drcom-client-gtk](https://github.com/JonathanKang/jlu-drcom-client-gtk) | Python 3, Gtk |
 | DrCOM(e) | [luci-app-jlu-drcom](https://github.com/kotori2/luci-app-jlu-drcom) | OpenWRT |
 | DrCOM(f) | [jlu.hiwifi](https://github.com/jiafeng5513/jlu.hiwifi) |  |
 | DrCOM 协议分析 | [(含多个项目)](https://github.com/drcoms) |  |
@@ -50,8 +50,8 @@
 
 ### TARS GO
 
-| 简介 | Link | 备注 |
-| -- | -- | -- |
+| 简介 | Link |
+| -- | -- |
 | 视觉算法 | [RoboVision](https://github.com/QunShanHe/JLURoboVision) |
 | 装甲板识别 | [Vision](https://github.com/QunShanHe/TarsGoVision) |
 | 决策 | [Decision](https://github.com/Junking1/ICRA2020-JLU-TARS_GO-Decision) |
@@ -86,7 +86,7 @@
 
 ## 课程学习和资料
 
-毕业设计相关内容主要适用于吉林大学学生, 使用者请自行参考比对自己学院最新下发的格式要求. 
+毕业设计相关内容主要适用于吉林大学学生, 使用者请自行参考比对自己学院最新下发的格式要求.
 
 由于格式要求的更新, 2013 年以前的 LaTeX 模板将不会被收录.
 
@@ -95,8 +95,8 @@
 | 面向对象 (C++) | 笔记 | [oop-notes](https://github.com/userElaina/oop-notes) |  |
 | 计算机图形学 | Computer Graphics | [jlu-computer-graphics](https://github.com/userElaina/jlu-computer-graphics) | 教材缺失的API的实现,</br> 相关算法的实现 |
 | 汇编 | 课程资源 | [x86-asm-book-source](https://github.com/lichuang/x86-asm-book-source) |  |
-| 嵌入式 | 提纲+题库 | [Embedded-System](https://github.com/userElaina/Embedded-System) | *嵌入式系统原理及应用教程*</br>(孟祥莲) |
-| 嵌入式 | 课程资源 | [up-tech-cup-s3c2440-source](https://github.com/userElaina/up-tech-cup-s3c2440-source) |  |
+| 嵌入式 | 提纲+题库 | [Embedded-System](https://github.com/userElaina/Embedded-System) | 嵌入式系统原理及应用教程</br>(孟祥莲) |
+| 嵌入式 | 课程资源 | [up-tech-cup-s3c2440](https://github.com/userElaina/up-tech-cup-s3c2440-source) |  |
 | 嵌入式 | LED 点阵模拟器 | [LED-lattice-simulator](https://github.com/waynelee-lwc/LED-lattice-simulator) | [Demo](http://www.wayne-lee.cn:3006/) |
 | 大创 |  | [Retinal-Image-Recognition](https://github.com/CloudMagician/Retinal-Image-Recognition) |  |
 | 毕业设计 | 毕设答辩(1) | [JLU-Beamer-Theme](https://github.com/KveinAxel/JLU-Beamer-Theme) | LaTeX, Beamer, 未更改配色 |
@@ -119,6 +119,7 @@
 | Others | 计算物理入门 | [Computational_Physics](https://github.com/JLUComPhy/JLU_Computational_Physics) |  |
 | Others | NLP 相关数据集总结 | [NLP_DataSets](https://github.com/RidongHan/JLU_NLP_DataSets) |  |
 | Others | 软件学院学习资料 | [JLU-Course](https://github.com/ryan6073/JLU-Course) |  |
+
 ---
 
 ## 大作业
@@ -155,7 +156,7 @@
 | 算法和数据结构 | Assignment | [DataStructureAssignment](https://github.com/kaaass/DataStructureAssignment) |  |
 | 算法和数据结构 | OJ题目代码 | [C-OJ](https://github.com/Yurzi/Jlu-C-OJ) |  |
 | 算法和数据结构 | 实验和考试 | [DataStructure-2017](https://github.com/liuweiky/JLU-CCST_DataStructure-2017) |  |
-| 模拟与数字逻辑电路 | 汽车尾灯控制电路综合设计 | [digital-logic-circuit-assignment-jlu](https://github.com/GGN-2015/digital-logic-circuit-assignment-jlu) | |
+| 模拟与数字逻辑电路 | 汽车尾灯控制电路 | [digital-logic-circuit-assignment](https://github.com/GGN-2015/digital-logic-circuit-assignment-jlu) | |
 | 面向对象/ C++ | 每周练习 | [JLUOOPClassWork](https://github.com/Yesterday17/JLUOOPClassWork) |  |
 | 面向对象/ C++ | ChatMFC | [ChatMFC](https://github.com/yang-er/ChatMFC) |  |
 | 面向对象/ C++ | 语音信号时域分析 | [Signal-Analysis](https://github.com/yycloudywind/Signal-Analysis) |  |
@@ -177,7 +178,7 @@
 | 程序设计综合课 | SoftwareCC | [SoftwareCC](https://github.com/WNJXYK/JLU_SoftwareCC) |  |
 | 网页程序设计 | 小小书屋(0) | [Gosling_Book_Bar](https://github.com/XuanchenLi/Gosling_Book_Bar) |  |
 | 网页程序设计 | 小小书屋(1) | [admin](https://github.com/OceanPresentChao/CarillionBookstore-admin); *[client](https://gitee.com/linexus/carillonbookstore)*; [backend](https://github.com/Yurzi/carillion_bookstore_backend) |  |
-| 操作系统 | 反馈排队算法(0) | [oslab](https://github.com/userElaina/oslab) | Python |
+| 操作系统 | 反馈排队算法(0) | [oslab](https://github.com/userElaina/oslab) | Python 3 |
 | 操作系统 | 反馈排队算法(1) | [Visual-MLFQ](https://github.com/OceanPresentChao/Visual-MLFQ) | Vue |
 | 操作系统 | Banker Algorithm | [OSClassDesign](https://github.com/Rosenberg37/operatingSystemClassDesign) |  |
 | 操作系统 | 死锁判断 | [visualize_deadlock_graph](https://github.com/XuanchenLi/visualize_deadlock_graph) |  |
@@ -282,9 +283,7 @@
 
 - **正常网络**: 指能正常访问 [Google](https://www.google.com/), [Wikipedia](https://www.wikipedia.org/) 等的网络.
 
-- **校园网**: 指我校校园网, 可直接访问 [图书馆](https://lib.jlu.edu.cn/) 等校内网站. 与外面推销的 `校园手机卡` 无关.
-
-- **Python**: 若无特殊说明, 均指 [Python3](https://www.python.org/) .
+- **校园网**: 指我校校园网, 可直接访问 [图书馆](https://lib.jlu.edu.cn/) 等校内网站. (与外面推销的 `校园手机卡` 无关.)
 
 ### 反馈
 
@@ -292,7 +291,7 @@
 
 - **[Issue](https://github.com/userElaina/Outlast-JLU-DLC/issues)**(建议)
 
-- **Email**(建议): jlu.edu.cn@pm.me
+- **Email**(建议): [jlucn@pm.me](mailto:jlucn@pm.me)
 
 - **Telegram**(建议): [@userElaina](https://t.me/userElaina)
 
