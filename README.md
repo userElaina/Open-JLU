@@ -171,6 +171,7 @@ PDF 以 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) �
 | 面向对象/ C++ | 即时通讯系统 | [C-2020](https://github.com/Nicer0815/JLU-C-2020) |  |
 | 面向对象/ C++ | 课程设计 | [olshop](https://github.com/Yurzi/jlu_olshop) |  |
 | 面向对象/ C++ | 微商系统 | [E-commerce](https://github.com/hhhhlkf/E-commerce) |  |
+| 面向对象/ C++ | CPP 课设 | [QQProject](https://github.com/ExTNT/QQProject) |  |
 | 程序设计综合课 | 中心点计算 | [GraphCalculate](https://github.com/yang-er/GraphCalculate) |  |
 | 程序设计综合课 | KingZ-人机对战游戏 | [KingZ-game](https://github.com/userElaina/KingZ-game); [Depend](https://github.com/userElaina/fastgui) |  |
 | 程序设计综合课 | Risc-V 解释器 | [RiscvSimulator](https://github.com/YuhangQ/RiscvSimulator) |  |
