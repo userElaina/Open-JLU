@@ -83,6 +83,7 @@ PDF 以 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) �
 | 吉大助手 | [jlu_helper](https://github.com/276562578/jlu_helper)| 整合信息服务 |
 | JiShi-Android | [JiShi-Android](https://github.com/tsurumi-yizhou/JiShi-Android)| 开发中 |
 | 抢课软件 | [JLUiCourse](https://github.com/wzyyyyyyy/JLUiCourse)| 自动抢课捏 |
+| 抢课脚本 | [Fuck-Lesson](https://github.com/H4ckF0rFun/Fuck-Lesson) |  |
 
 ---
 
@@ -121,6 +122,7 @@ PDF 以 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) �
 | Others | 计算物理入门 | [Computational_Physics](https://github.com/JLUComPhy/JLU_Computational_Physics) |  |
 | Others | NLP 相关数据集总结 | [NLP_DataSets](https://github.com/RidongHan/JLU_NLP_DataSets) |  |
 | Others | 软件学院学习资料 | [JLU-Course](https://github.com/ryan6073/JLU-Course) |  |
+| Others | 软件学院学习资料 | [JLU](https://github.com/ChenGeng0102/JLU)|  | 
 
 ---
 
