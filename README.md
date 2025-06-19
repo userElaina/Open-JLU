@@ -46,6 +46,7 @@ PDF 以 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) �
 | *DrCOM(d) | [jlu-drcom-client-gtk](https://github.com/JonathanKang/jlu-drcom-client-gtk) | Python 3, Gtk |
 | DrCOM(e) | [luci-app-jlu-drcom](https://github.com/kotori2/luci-app-jlu-drcom) | OpenWRT |
 | DrCOM(f) | [jlu.hiwifi](https://github.com/jiafeng5513/jlu.hiwifi) |  |
+| DrCOM(g) | [cygnus-rs](https://github.com/Dessera/cygnus-rs) | Rust（release 中提供二进制文件）|
 | DrCOM 协议分析 | [(含多个项目)](https://github.com/drcoms) |  |
 
 ---
