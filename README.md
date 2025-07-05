@@ -84,6 +84,7 @@ PDF 以 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) �
 | 吉大助手 | [jlu_helper](https://github.com/276562578/jlu_helper)| 整合信息服务 |
 | JiShi-Android | [JiShi-Android](https://github.com/tsurumi-yizhou/JiShi-Android)| 开发中 |
 | 抢课软件 | [JLUiCourse](https://github.com/wzyyyyyyy/JLUiCourse)| 自动抢课捏 |
+| 学在吉大WPF客户端 | [iLearn](https://github.com/wzyyyyyyy/iLearn)| 符合FluentUI的学在吉大客户端 |
 | 抢课脚本 | [Fuck-Lesson](https://github.com/H4ckF0rFun/Fuck-Lesson) |  |
 
 ---
