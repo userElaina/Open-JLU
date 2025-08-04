@@ -162,6 +162,7 @@ PDF 以 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) �
 | 算法和数据结构 | Assignment | [DataStructureAssignment](https://github.com/kaaass/DataStructureAssignment) |  |
 | 算法和数据结构 | OJ题目代码 | [C-OJ](https://github.com/Yurzi/Jlu-C-OJ) |  |
 | 算法和数据结构 | 实验和考试 | [DataStructure-2017](https://github.com/liuweiky/JLU-CCST_DataStructure-2017) |  |
+| 算法和数据结构 | Tetris2 | [Tetris2](https://github.com/Kisechan/Tetris2) | Botzone |
 | 模拟与数字逻辑电路 | 汽车尾灯控制电路 | [digital-logic-circuit-assignment](https://github.com/GGN-2015/digital-logic-circuit-assignment-jlu) | |
 | 面向对象/ C++ | 每周练习 | [JLUOOPClassWork](https://github.com/Yesterday17/JLUOOPClassWork) |  |
 | 面向对象/ C++ | ChatMFC | [ChatMFC](https://github.com/yang-er/ChatMFC) |  |
@@ -176,6 +177,7 @@ PDF 以 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) �
 | 面向对象/ C++ | 课程设计 | [olshop](https://github.com/Yurzi/jlu_olshop) |  |
 | 面向对象/ C++ | 微商系统 | [E-commerce](https://github.com/hhhhlkf/E-commerce) |  |
 | 面向对象/ C++ | CPP 课设 | [QQProject](https://github.com/ExTNT/QQProject) |  |
+| 面向对象/ C++ | 电商系统 | [Shop](https://github.com/Kisechan/oop_practicum) | Golang 完成，适用软院卓班 |
 | 程序设计综合课 | 中心点计算 | [GraphCalculate](https://github.com/yang-er/GraphCalculate) |  |
 | 程序设计综合课 | KingZ-人机对战游戏 | [KingZ-game](https://github.com/userElaina/KingZ-game); [Depend](https://github.com/userElaina/fastgui) |  |
 | 程序设计综合课 | Risc-V 解释器 | [RiscvSimulator](https://github.com/YuhangQ/RiscvSimulator) |  |
@@ -205,6 +207,7 @@ PDF 以 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) �
 | Java | 租赁系统 | [iRentalSystem](https://github.com/AQiu-2003/iRentalSystem) |  |
 | Java | Experiment | [JavaExp](https://github.com/liuweiky/JavaExp) |  |
 | Java | Java 实训 | [MYSSM](https://github.com/Nicer0815/MYSSM) |  |
+| Java | 订餐系统 | [takeout-ordering-system](https://github.com/Kisechan/takeout-ordering-system) |  |
 | JavaEE | 模拟 ai 对话(0) | [ChatJavaEE](https://github.com/OceanPresentChao/ChatJavaEE) | TomEE |
 | JavaEE | 模拟 ai 对话(1) | [J2EChat_back](https://github.com/XuanchenLi/J2EChat); [J2EChat_front](https://github.com/XuanchenLi/J2EChat_front) |  |
 | Linux | linux-notes | [linux-notes](https://github.com/userElaina/linux-notes) |  |
