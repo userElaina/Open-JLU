@@ -86,6 +86,8 @@ PDF 以 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) �
 | 抢课软件 | [JLUiCourse](https://github.com/wzyyyyyyy/JLUiCourse)| 自动抢课捏 |
 | 学在吉大WPF客户端 | [iLearn](https://github.com/wzyyyyyyy/iLearn)| 符合FluentUI的学在吉大客户端 |
 | 抢课脚本 | [Fuck-Lesson](https://github.com/H4ckF0rFun/Fuck-Lesson) |  |
+| 抢课脚本 | [funky_lesson_core](https://github.com/Islatri/funky_lesson_core) | Fuck-Lesson的Rust实现 |
+| 抢课APP | [funky-lesson](https://github.com/Islatri/funky-lesson) | GUI，支持Windows、Android，理论支持Linux、MacOS |
 
 ---
 
@@ -124,7 +126,7 @@ PDF 以 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) �
 | Others | 计算物理入门 | [Computational_Physics](https://github.com/JLUComPhy/JLU_Computational_Physics) |  |
 | Others | NLP 相关数据集总结 | [NLP_DataSets](https://github.com/RidongHan/JLU_NLP_DataSets) |  |
 | Others | 软件学院学习资料 | [JLU-Course](https://github.com/ryan6073/JLU-Course) |  |
-| Others | 软件学院学习资料 | [JLU](https://github.com/ChenGeng0102/JLU)|  | 
+| Others | 软件学院学习资料 | [JLU](https://github.com/ChenGeng0102/JLU)|  |
 
 ---
 
@@ -280,6 +282,7 @@ PDF 以 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) �
 | 人工智能 | FeatureSelection | [FeatureSelection](https://github.com/WNJXYK/JLU_FeatureSelection) |  |
 | 企业实训 | 绘图与数据分析 | [plt-draw-homework](https://github.com/userElaina/plt-draw-homework) |  |
 | 企业实训 | 微信小程序 | [我的音乐台](https://github.com/GGN-2015/WxMiniMusic) |  |
+| 生产实习（通信工程） | CAN总线模拟实验 | [mcs51_can_sdcc](https://github.com/Islatri/mcs51_can_sdcc) | 通信工程生产实习 |
 | 毕业设计 | Qt CNN 辅助设计系统 | [GraduationProject](https://github.com/jiafeng5513/GraduationProject) | Qt |
 | Others | 处理风控的后端系统 | [JLU-BBTS9](https://github.com/JLU-bytedance-backend/JLU-bytedance-backend-techtrainingcamp-security-9) |  |
 | Others | Cat-and-Dog | [ML-Cat-Dog](https://github.com/XuanLaoYee/ML-Cat-Dog) |  |
