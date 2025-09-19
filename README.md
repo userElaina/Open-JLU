@@ -26,7 +26,7 @@ PDF 以 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) �
 
 ### DrCOM
 
-官方提供的 DrCOM 程序闭源, 行为可疑, 且只有 Windows 版, 因此产生了许多第三方版本. 对于新手, 选择任意一个你可以在 PC 上成功运行的带*的项目即可.
+官方提供的 DrCOM 程序闭源, 行为可疑, 且只有 Windows 版, 因此产生了许多第三方版本. 对于新手, 建议直接使用 [drcoms](https://github.com/drcoms) 的[该脚本](https://github.com/drcoms/jlu-drcom-client/blob/master/jlu-drcom-py3/newclinet-py3.py).
 
 | 简介 | Link | 备注 |
 | -- | -- | -- |
@@ -47,7 +47,7 @@ PDF 以 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) �
 | DrCOM(e) | [luci-app-jlu-drcom](https://github.com/kotori2/luci-app-jlu-drcom) | OpenWRT |
 | DrCOM(f) | [jlu.hiwifi](https://github.com/jiafeng5513/jlu.hiwifi) |  |
 | DrCOM(g) | [cygnus-rs](https://github.com/Dessera/cygnus-rs) | Rust（release 中提供二进制文件）|
-| DrCOM 协议分析 | [(含多个项目)](https://github.com/drcoms) |  |
+| DrCOM 协议分析 | [drcoms (含多个项目)](https://github.com/drcoms) |  |
 
 ---
 
