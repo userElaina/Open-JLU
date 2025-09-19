@@ -61,6 +61,9 @@ PDF 以 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) �
 | 导航与路径规划 | [Navigation](https://github.com/Junking1/ICRA2020-JLU-TARS_GO-Navigation) |
 | 感知 | [Perception](https://github.com/Junking1/ICRA2020-JLU-TARS_GO-Perception) |
 | 感知模块 | [AI_Sentry](https://github.com/yycloudywind/TARS_GO-AI_Sentry) |
+| 点云配准 | [Alignment](https://github.com/TARS-Go-Nav/tars_alignment) |
+| 决策（25赛季） | [Decision(25)](https://github.com/TARS-Go-Nav/tars_sentry_decision) |
+| 仿真（25赛季） | [Simulation(25)](https://github.com/TARS-Go-Nav/ros_gz_rm2025) |
 
 ---
 
