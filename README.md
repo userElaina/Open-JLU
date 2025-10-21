@@ -118,6 +118,7 @@ PDF 以 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) �
 | 毕业设计 | (本/硕/博)学位论文 | [JLU_Dissertation](https://github.com/jiafeng5513/JLU_Dissertation) | LaTeX, 2021, [参考](https://gitea.com/CasperVector/pkuthss) |
 | 毕业设计 | 信院本科毕业论文 | [JLU-Thesis](https://github.com/Sakura-shem/JLUThesis) | LaTeX, 2023, [参考](https://github.com/csarron/bsThesisWHU) |
 | 毕业设计 | 本科毕业论文 | [JLUThesis](https://github.com/geekifan/jluthesis) | LaTeX, 2023, [参考](https://github.com/Sakura-shem/JLUThesis) |
+| 毕业设计 | 毕业设计论文模板 | [universal-jlu-thesis](https://github.com/Islatri/universal-jlu-thesis) | Typst, 0.13.0, [Typst Universe](https://typst.app/universe/package/universal-jlu-thesis) |
 | Others | 计院研究生课程资料 | [DocsForReview](https://github.com/jiafeng5513/DocsForReview) |  |
 | Others | 计算机课件 | [courseware](https://github.com/open-courseware-cn/jlu-cs-courseware) |  |
 | Others | 计算机课程资料 | [Major-Courses](https://github.com/Geraldxm/Major-Courses) |  |
