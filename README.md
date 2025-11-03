@@ -90,6 +90,7 @@ PDF 以 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) �
 | 抢课脚本 | [Fuck-Lesson](https://github.com/H4ckF0rFun/Fuck-Lesson) |  |
 | 抢课脚本 | [funky_lesson_core](https://github.com/Islatri/funky_lesson_core) | Fuck-Lesson的Rust实现 |
 | 抢课APP | [funky-lesson](https://github.com/Islatri/funky-lesson) | GUI，支持Windows、Android，理论支持Linux、MacOS |
+| 教学评估一键完成 | [jlu-jxpg-250609](https://github.com/Islatri/jlu-jxpg-250609) |  |
 
 ---
 
