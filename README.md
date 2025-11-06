@@ -144,6 +144,7 @@ PDF 以 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) �
 | 大学计算机基础 | Unity-游戏 | [2D-Adventure](https://github.com/Superbia-zyb/2D-Adventure) |  |
 | 大学计算机基础 | 多个项目 | [JLUprojects](https://github.com/JLUprojects) |  |
 | 程序设计基础 | 酒水管理系统 | [ProgramDesign](https://github.com/3223v/drink_manage) |  |
+| 程序设计基础 | 基于EasyX实现的酒水管理系统 | [manage-system](https://github.com/sssn-tech/2022-JLU-SE-Cpracticum) | |
 | 程序设计基础 | 日常作业 | [ProgramDesign](https://github.com/Yesterday17/ProgramDesignHomework) |  |
 | 程序设计基础 | 学生成绩管理系统 | [achievement](https://github.com/EugeneJie/achievement) |  |
 | 程序设计基础 | Fruit-Market | [FruitMarket](https://github.com/yang-er/FruitMarket) |  |
@@ -195,6 +196,7 @@ PDF 以 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) �
 | 网页程序设计 | 小小书屋(1) | [admin](https://github.com/OceanPresentChao/CarillionBookstore-admin); *[client](https://gitee.com/linexus/carillonbookstore)*; [backend](https://github.com/Yurzi/carillion_bookstore_backend) |  |
 | 操作系统 | 反馈排队算法(0) | [oslab](https://github.com/userElaina/oslab) | Python 3 |
 | 操作系统 | 反馈排队算法(1) | [Visual-MLFQ](https://github.com/OceanPresentChao/Visual-MLFQ) | Vue |
+| 操作系统 | 反馈排队算法(2) | [python-mlfq](https://github.com/sssn-tech/cpu-scheduler-mlfq) | python + tkinder GUI |
 | 操作系统 | Banker Algorithm | [OSClassDesign](https://github.com/Rosenberg37/operatingSystemClassDesign) |  |
 | 操作系统 | 死锁判断 | [visualize_deadlock_graph](https://github.com/XuanchenLi/visualize_deadlock_graph) |  |
 | 操作系统 | 磁盘调度 | [disk_scheduling](https://github.com/hhhhlkf/disk_scheduling) |  |
@@ -205,6 +207,7 @@ PDF 以 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) �
 | 计算机图形学 | 图形学基础小实验 | [JLU_CG_LAB](https://github.com/GGN-2015/JLU_CG_LAB) | MFC |
 | 计算机图形学 | 实验 | [MFC_EXP](https://github.com/CloudMagician/MFC_EXP) | MFC |
 | 计算机图形学 | Experiment | [Exp](https://github.com/liuweiky/ComputerGraphicsExp) |  |
+| _计算思维_ | _课前展示(实验)_ | [](https://gitee.com/c1rno/convnext_2024ci) | _基于convnext的图像分类, 含PPT_ |
 | Java | 练习 | [JavaExperiment](https://github.com/yang-er/JavaExperiment) |  |
 | Java | 书店 | [BookStore](https://github.com/EugeneJie/BookStore) |  |
 | Java | 书吧 | [BookBar](https://github.com/zzk72/web_backend) | springboot |
@@ -284,6 +287,7 @@ PDF 以 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) �
 | 机器学习与 Python | ML-and-Py | [MLAndPython2023](https://github.com/GGN-2015/MachineLearningAndPython2023) |  |
 | 大数据技术与应用 | 作业 | [big-data-homework-FE](https://github.com/waynelee-lwc/big-data-homework-FE) |  |
 | 人工智能 | FeatureSelection | [FeatureSelection](https://github.com/WNJXYK/JLU_FeatureSelection) |  |
+| 人工智能 | Kaggle竞赛选做 | [kaggle](https://github.com/sssn-tech/kaggle) | |
 | 企业实训 | 绘图与数据分析 | [plt-draw-homework](https://github.com/userElaina/plt-draw-homework) |  |
 | 企业实训 | 微信小程序 | [我的音乐台](https://github.com/GGN-2015/WxMiniMusic) |  |
 | 生产实习（通信工程） | CAN总线模拟实验 | [mcs51_can_sdcc](https://github.com/Islatri/mcs51_can_sdcc) | 通信工程生产实习 |
