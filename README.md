@@ -208,7 +208,7 @@ PDF 以 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) �
 | 计算机图形学 | 图形学基础小实验 | [JLU_CG_LAB](https://github.com/GGN-2015/JLU_CG_LAB) | MFC |
 | 计算机图形学 | 实验 | [MFC_EXP](https://github.com/CloudMagician/MFC_EXP) | MFC |
 | 计算机图形学 | Experiment | [Exp](https://github.com/liuweiky/ComputerGraphicsExp) |  |
-| 计算机图形学 | 图形学大作业 | [cg](https://github.com/Kisechan/cg)
+| 计算机图形学 | 软件学院图形学大作业 | [cg](https://github.com/Kisechan/cg)
 | _计算思维_ | _课前展示(实验)_ | [](https://gitee.com/c1rno/convnext_2024ci) | _基于convnext的图像分类, 含PPT_ |
 | Java | 练习 | [JavaExperiment](https://github.com/yang-er/JavaExperiment) |  |
 | Java | 书店 | [BookStore](https://github.com/EugeneJie/BookStore) |  |
@@ -293,6 +293,7 @@ PDF 以 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) �
 | 人工智能 | Kaggle竞赛选做 | [kaggle](https://github.com/sssn-tech/kaggle) | |
 | 企业实训 | 绘图与数据分析 | [plt-draw-homework](https://github.com/userElaina/plt-draw-homework) |  |
 | 企业实训 | 微信小程序 | [我的音乐台](https://github.com/GGN-2015/WxMiniMusic) |  |
+| 企业实训 | Qt 点餐系统 | [点餐系统](https://github.com/Kisechan/ordering-system) |  |
 | 生产实习（通信工程） | CAN总线模拟实验 | [mcs51_can_sdcc](https://github.com/Islatri/mcs51_can_sdcc) | 通信工程生产实习 |
 | 毕业设计 | Qt CNN 辅助设计系统 | [GraduationProject](https://github.com/jiafeng5513/GraduationProject) | Qt |
 | Others | 处理风控的后端系统 | [JLU-BBTS9](https://github.com/JLU-bytedance-backend/JLU-bytedance-backend-techtrainingcamp-security-9) |  |
