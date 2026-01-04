@@ -208,8 +208,8 @@ PDF 以 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) �
 | 计算机图形学 | 图形学基础小实验 | [JLU_CG_LAB](https://github.com/GGN-2015/JLU_CG_LAB) | MFC |
 | 计算机图形学 | 实验 | [MFC_EXP](https://github.com/CloudMagician/MFC_EXP) | MFC |
 | 计算机图形学 | Experiment | [Exp](https://github.com/liuweiky/ComputerGraphicsExp) |  |
-| 计算机图形学 | 软件学院图形学大作业 | [cg](https://github.com/Kisechan/cg)
-| _计算思维_ | _课前展示(实验)_ | [](https://gitee.com/c1rno/convnext_2024ci) | _基于convnext的图像分类, 含PPT_ |
+| 计算机图形学 | 软件学院图形学大作业 | [cg](https://github.com/Kisechan/cg) |  |
+| _计算思维_ | _课前展示(实验)_ | [convnext_2024ci](https://gitee.com/c1rno/convnext_2024ci) | _基于convnext的图像分类, 含PPT_ |
 | Java | 练习 | [JavaExperiment](https://github.com/yang-er/JavaExperiment) |  |
 | Java | 书店 | [BookStore](https://github.com/EugeneJie/BookStore) |  |
 | Java | 书吧 | [BookBar](https://github.com/zzk72/web_backend) | springboot |
