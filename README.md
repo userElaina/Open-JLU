@@ -323,3 +323,7 @@ PDF 以 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) �
 - **Telegram**(建议): [@userElaina](https://t.me/userElaina) [@GGN_2015](https://t.me/GGN_2015)
 
 - **QQ**(不建议): 1072674074
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=userElaina/Open-JLU&type=date&legend=top-left)](https://www.star-history.com/#userElaina/Open-JLU&type=date&legend=top-left)
