@@ -1,0 +1,205 @@
+name: Build and Release README PDF
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: readme-pdf-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  build-and-release:
+    runs-on: ubuntu-latest
+    env:
+      PDF_NAME: Open-JLU.pdf
+      RELEASE_TAG: pdf-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Install CJK fonts
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y --no-install-recommends fonts-noto-cjk
+
+      - name: Render README.md to HTML
+        run: |
+          npm install --no-save --no-package-lock markdown-it@14 markdown-it-anchor@9 github-markdown-css@5
+          node <<'EOF'
+          const fs = require('fs');
+          const MarkdownIt = require('markdown-it');
+          const markdownItAnchor = require('markdown-it-anchor');
+
+          const md = new MarkdownIt({
+            html: true,
+            linkify: true,
+            typographer: true,
+            breaks: false,
+          });
+
+          md.use(markdownItAnchor, {
+            slugify: (value) => value
+              .trim()
+              .toLowerCase()
+              .replace(/<[^>]*>/g, '')
+              .replace(/[^\p{Letter}\p{Number}\p{Mark}\s-]/gu, '')
+              .replace(/\s+/g, '-'),
+          });
+
+          let markdown = fs.readFileSync('README.md', 'utf8');
+
+          // PDF 专用裁剪：保留仓库 README 原文不变，但去掉 PDF 里不适合打印的 Star History 图。
+          markdown = markdown
+            .replace(/^\s*- \[Star History\]\(#star-history\)\s*\n/im, '')
+            .replace(/\n## Star History[\s\S]*$/i, '\n');
+
+          const githubCss = fs.readFileSync('node_modules/github-markdown-css/github-markdown-light.css', 'utf8');
+          const rendered = md.render(markdown);
+
+          const html = `<!doctype html>
+          <html lang="zh-CN">
+          <head>
+            <meta charset="utf-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1">
+            <title>Open-JLU README</title>
+            <style>
+              ${githubCss}
+
+              @page {
+                size: A4;
+                margin: 16mm;
+              }
+
+              html,
+              body {
+                background: #ffffff;
+              }
+
+              body {
+                margin: 0;
+                -webkit-print-color-adjust: exact;
+                print-color-adjust: exact;
+              }
+
+              .markdown-body {
+                box-sizing: border-box;
+                max-width: 980px;
+                margin: 0 auto;
+                padding: 32px 40px;
+                font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans CJK SC", "Noto Sans CJK", "Noto Color Emoji", sans-serif;
+              }
+
+              .markdown-body img {
+                max-width: 100%;
+              }
+
+              .markdown-body table {
+                display: table;
+                width: 100%;
+                table-layout: fixed;
+                word-break: break-word;
+              }
+
+              .markdown-body pre,
+              .markdown-body code {
+                white-space: pre-wrap;
+                word-break: break-word;
+              }
+
+              @media print {
+                .markdown-body {
+                  max-width: none;
+                  padding: 0;
+                }
+
+                a {
+                  color: #0969da;
+                  text-decoration: none;
+                }
+              }
+            </style>
+          </head>
+          <body>
+            <article class="markdown-body">
+              ${rendered}
+            </article>
+          </body>
+          </html>`;
+
+          fs.writeFileSync('README.html', html);
+          EOF
+
+      - name: Print HTML to PDF
+        run: |
+          google-chrome \
+            --headless=new \
+            --disable-gpu \
+            --no-sandbox \
+            --allow-file-access-from-files \
+            --run-all-compositor-stages-before-draw \
+            --virtual-time-budget=10000 \
+            --print-to-pdf="$PDF_NAME" \
+            --print-to-pdf-no-header \
+            "file://$PWD/README.html"
+          test -s "$PDF_NAME"
+
+      - name: Upload workflow artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: ${{ env.PDF_NAME }}
+          path: ${{ env.PDF_NAME }}
+
+      - name: Prepare release metadata
+        id: meta
+        run: |
+          echo "short_sha=${GITHUB_SHA::7}" >> "$GITHUB_OUTPUT"
+          echo "built_at=$(TZ=Asia/Shanghai date +'%Y-%m-%d %H:%M:%S UTC+8')" >> "$GITHUB_OUTPUT"
+
+      - name: Move rolling release tag
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git tag -f "$RELEASE_TAG" "$GITHUB_SHA"
+          git push --force origin "refs/tags/$RELEASE_TAG"
+
+      - name: Publish rolling release
+        env:
+          GH_TOKEN: ${{ github.token }}
+          SHORT_SHA: ${{ steps.meta.outputs.short_sha }}
+          BUILT_AT: ${{ steps.meta.outputs.built_at }}
+        run: |
+          cat > release-notes.md <<EOF
+          Automated README PDF build.
+
+          - Source commit: [$SHORT_SHA]($GITHUB_SERVER_URL/$GITHUB_REPOSITORY/commit/$GITHUB_SHA)
+          - Built at: $BUILT_AT
+
+          This release is updated on every push to main.
+          EOF
+
+          if gh release view "$RELEASE_TAG" >/dev/null 2>&1; then
+            gh release edit "$RELEASE_TAG" \
+              --title "Latest README PDF" \
+              --notes-file release-notes.md
+          else
+            gh release create "$RELEASE_TAG" \
+              --target "$GITHUB_SHA" \
+              --title "Latest README PDF" \
+              --notes-file release-notes.md
+          fi
+
+          gh release upload "$RELEASE_TAG" "$PDF_NAME" --clobber
