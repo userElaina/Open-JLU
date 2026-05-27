@@ -187,6 +187,7 @@
 | 嵌入式 | 课程资源 | [up-tech-cup-s3c2440](https://github.com/userElaina/up-tech-cup-s3c2440-source) |  |
 | 嵌入式 | LED 点阵模拟器 | [LED-lattice-simulator](https://github.com/waynelee-lwc/LED-lattice-simulator) | [Demo](http://www.wayne-lee.cn:3006/) |
 | 大创 |  | [Retinal-Image-Recognition](https://github.com/CloudMagician/Retinal-Image-Recognition) |  |
+| 计算机专业课笔记 | 笔记 | [docs.ozy]([Introduction · docs.ozy](https://jlu005807.github.io/docs.ozy/)) | 包含大部分笔记（cpp,数据结构,算法,OS,计组,计网,数据库等) |
 
 ### 毕业设计模板
 
@@ -220,6 +221,7 @@
 | 软件学院学习资料 | [JLU-Course](https://github.com/ryan6073/JLU-Course) |
 | 软件学院学习资料 | [JLU](https://github.com/ChenGeng0102/JLU) |
 | 计院速通课程资料 | [JLUCS_Speedrun](https://github.com/Xiaoc7r/JLUCS_Speedrun) |
+| 计算机专业课笔记合集 | [docs.ozy]([Introduction · docs.ozy](https://jlu005807.github.io/docs.ozy/)) |
 
 ---
 
@@ -255,6 +257,7 @@
 | C 语言实验 | [CCIMS](https://github.com/liuweiky/CCIMS) |
 | 超星 OJ 作业 | [chaoxing-oj](https://github.com/Stardust-Coy/JLU2020chaoxing-oj) |
 | 中国大学 MOOC 作业 | [MOOC-oj](https://github.com/Stardust-Coy/JLU2020-MOOC-oj) |
+| 基于QT的学生成绩管理系统 | [ScoreManagementSystem]([yuzujr/ScoreManagementSystem](https://github.com/yuzujr/ScoreManagementSystem)) |
 
 #### 程序设计综合课
 
@@ -291,6 +294,7 @@
 | OJ 题目代码 | [C-OJ](https://github.com/Yurzi/Jlu-C-OJ) |  |
 | 实验和考试 | [DataStructure-2017](https://github.com/liuweiky/JLU-CCST_DataStructure-2017) |  |
 | Tetris2 | [Tetris2](https://github.com/Kisechan/Tetris2) | Botzone |
+| 笔记和资料 | [Data_Structure_and_Algorithm]([jlu005807/Data_Structure_and_Algorithm](https://github.com/jlu005807/Data_Structure_and_Algorithm)) | 不仅仅包含数据结构的内容同时还有算法设计与分析的笔记 |
 
 ### 面向对象与 Java
 
@@ -311,6 +315,7 @@
 | 课程设计 | [olshop](https://github.com/Yurzi/jlu_olshop) |  |
 | CPP 课设 | [QQProject](https://github.com/ExTNT/QQProject) |  |
 | 电商系统 | [Shop](https://github.com/Kisechan/oop_practicum) | Golang 完成, 适用软院卓班 |
+| CPP笔记 | [Cpp](https://github.com/jlu005807/Cpp) | 包含基础cpp以及一些进阶的cpp知识 |
 
 #### Java
 
@@ -325,6 +330,7 @@
 | Experiment | [JavaExp](https://github.com/liuweiky/JavaExp) |  |
 | Java 实训 | [MYSSM](https://github.com/Nicer0815/MYSSM) |  |
 | 订餐系统 | [takeout-ordering-system](https://github.com/Kisechan/takeout-ordering-system) |  |
+| 图书管理系统 | [BookSystem](https://github.com/jlu005807/BookSystem) | |
 
 #### JavaEE
 
@@ -342,6 +348,13 @@
 | 小小书屋 (0) | [Gosling_Book_Bar](https://github.com/XuanchenLi/Gosling_Book_Bar) |
 | 小小书屋 (1) | [admin](https://github.com/OceanPresentChao/CarillionBookstore-admin); *[client](https://gitee.com/linexus/carillonbookstore)*; [backend](https://github.com/Yurzi/carillion_bookstore_backend) |
 
+### 计算机组成原理与体系结构
+
+| 简介          | Link                                                         |
+| ------------- | ------------------------------------------------------------ |
+| 笔记          | [计算机组成原理](https://jlu005807.github.io/docs.ozy/docs/计算机组成原理/) |
+| 五级流水线CPU | [CPU](https://github.com/jlu005807/CPU)                      |
+
 ### 操作系统
 
 | 简介 | Link | 备注 |
@@ -355,6 +368,7 @@
 | 实验 | [OS-Experiment](https://github.com/CloudMagician/Operating-System-Experiment) |  |
 | 临界区进程互斥 | [OsExp](https://github.com/Nicer0815/OsExp) |  |
 | Experiment | [OSExp](https://github.com/liuweiky/OSExp) |  |
+| 笔记和实验 | [Operating_System](https://github.com/jlu005807/Operating_System) | |
 
 ### 网络
 
@@ -368,6 +382,7 @@
 | 网络程序设计 | ChatSystem | [ChatSystem](https://github.com/SAGIRI-kawaii/ChatSystem) |
 | Linux | linux-notes | [linux-notes](https://github.com/userElaina/linux-notes) |
 | Linux | rsap2p | [rsap2p](https://github.com/userElaina/rsap2p) |
+| 笔记 |                | [Computer_Networking · docs.ozy](https://jlu005807.github.io/docs.ozy/docs/Computer_Networking/) |
 
 ### 数据库与系统软件
 
@@ -382,6 +397,8 @@
 | 系统软件综合实践 | 数据库引擎 (CS346)(0) | [DbEngine](https://github.com/yang-er/DbEngine) |  |
 | 系统软件综合实践 | 数据库引擎 (CS346)(1) | [DBCourse](https://github.com/XuanchenLi/DBCourse) |  |
 | 系统软件综合实践 | 数据库引擎 (CS346)(2) | [db-engine](https://github.com/Kisechan/db-engine) | Rust 实现, 适用软院卓班 |
+| 基于 Android/Gradle 的学生选课系统 | 基于SQLite的数据库系统 | [Embedded_system_design](https://github.com/jlu005807/Embedded_system_design/tree/master/Course_Design/android) | 嵌入式课程系统设计 |
+| 基于 Swift/Xcode/SQLite 的 iOS学生选课系统 | 基于SQLite的数据库系统 | [Embedded_system_design](https://github.com/jlu005807/Embedded_system_design/tree/master/Course_Design/android) | 嵌入式课程系统设计 |
 
 ### 编译原理
 
@@ -440,6 +457,7 @@
 | Bad Apple | [Bad-Apple-4-s3c2440](https://github.com/userElaina/Bad-Apple-4-s3c2440) |
 | 商品条形码识别 | [Barcode](https://github.com/qjksxy/Barcode) |
 | Experiment | [M-InterfaceExp](https://github.com/liuweiky/MicrocomputerInterfaceExp) |
+| 嵌入式系统设计 | [嵌入式系统设计](https://jlu005807.github.io/docs.ozy/docs/嵌入式系统设计/) |
 
 #### 数字逻辑与 MCU
 
@@ -495,11 +513,13 @@
 | 企业实训 | 绘图与数据分析 | [plt-draw-homework](https://github.com/userElaina/plt-draw-homework) |  |
 | 企业实训 | 微信小程序 | [我的音乐台](https://github.com/GGN-2015/WxMiniMusic) |  |
 | 企业实训 | Qt 点餐系统 | [点餐系统](https://github.com/Kisechan/ordering-system) |  |
+| 企业实训 | 环境数据信息平台（Qt） | [Natural-Monitor-Brain](https://github.com/yuzujr/Natural-Monitor-Brain) | 物联网的QT企业实训 |
 | 生产实习 (通信工程) | CAN 总线模拟实验 | [mcs51_can_sdcc](https://github.com/Islatri/mcs51_can_sdcc) | 通信工程生产实习 |
 | 毕业设计 | Qt CNN 辅助设计系统 | [GraduationProject](https://github.com/jiafeng5513/GraduationProject) | Qt |
 | Others | 处理风控的后端系统 | [JLU-BBTS9](https://github.com/JLU-bytedance-backend/JLU-bytedance-backend-techtrainingcamp-security-9) |  |
 | Others | Cat-and-Dog | [ML-Cat-Dog](https://github.com/XuanLaoYee/ML-Cat-Dog) |  |
 | Others | 测距软件 | [jluNewCamera](https://github.com/jiafeng5513/jluNewCamera) | MFC + OpenCV |
+| 智能终端与边缘计算 | 基于小米AIOT开发板的智能家居模拟 | [Smart_Home](https://github.com/jlu005807/Smart_Home) |  |
 
 ---
 
