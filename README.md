@@ -429,6 +429,7 @@
 | SNL Compiler (b) | [snlc-rust](https://github.com/Yurzi/snlc-rust) |  |
 | SNL Compiler (c) | [SNLC](https://github.com/XuanchenLi/SNLC) |  |
 | SNL Compiler (d) | [SNLCompiler](https://github.com/liuweiky/SNLCompiler) |  |
+| SNL Compiler (f) | [SNLCompiler](https://github.com/ExTNT/snl_compiler) | rust实现，完成词法分析，语法分析（递归下降和LL1），语义分析和MIPS汇编代码生成 |
 
 </details>
 
