@@ -259,6 +259,7 @@
 | 超星 OJ 作业 | [chaoxing-oj](https://github.com/Stardust-Coy/JLU2020chaoxing-oj) |
 | 中国大学 MOOC 作业 | [MOOC-oj](https://github.com/Stardust-Coy/JLU2020-MOOC-oj) |
 | 基于QT的学生成绩管理系统 | [ScoreManagementSystem]([yuzujr/ScoreManagementSystem](https://github.com/yuzujr/ScoreManagementSystem)) |
+| 快递驿站信息管理系统 | [JLU-Courier-Station-Management-System](https://github.com/Karasumikura/JLU-Courier-Station-Management-System-C-Course-Design) |
 
 #### 程序设计综合课
 
@@ -316,6 +317,7 @@
 | 课程设计 | [olshop](https://github.com/Yurzi/jlu_olshop) |  |
 | CPP 课设 | [QQProject](https://github.com/ExTNT/QQProject) |  |
 | 电商系统 | [Shop](https://github.com/Kisechan/oop_practicum) | Golang 完成, 适用软院卓班 |
+| 微x聚合信息管理系统 | [JLU-Cpp-Course-design-message-system](https://github.com/Karasumikura/JLU-Cpp-Course-design-message-system) | 2025 课设 |
 | CPP笔记 | [Cpp](https://github.com/jlu005807/Cpp) | 包含基础cpp以及一些进阶的cpp知识 |
 
 #### Java
