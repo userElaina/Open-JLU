@@ -109,6 +109,7 @@
 
 | 项目 | 简介 |
 | -- | -- |
+| [JLU_schedule](https://github.com/JFyuhong/JLU_schedule) ![](https://img.shields.io/github/last-commit/JFyuhong/JLU_schedule?style=flat-square&label=) | 吉林大学课表app |
 | [StudyAtJlu_Desktop](https://github.com/RikaCelery/StudyAtJLU_Desktop) ![](https://img.shields.io/github/last-commit/RikaCelery/StudyAtJLU_Desktop?style=flat-square&label=) | 学在吉大桌面客户端 |
 | [iLearn](https://github.com/wzyyyyyyy/iLearn) ![](https://img.shields.io/github/last-commit/wzyyyyyyy/iLearn?style=flat-square&label=) | 学在吉大 WPF 客户端 (FluentUI) |
 
