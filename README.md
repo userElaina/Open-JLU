@@ -141,6 +141,7 @@
 | [JLUroll](https://github.com/userElaina/JLUroll) ![](https://img.shields.io/github/last-commit/userElaina/JLUroll?style=flat-square&label=) | 收集 JLUer 的开源社区账户与 Blog |
 | [JLUBOOK-forNew](https://github.com/AQiu-2003/JLUBOOK-forNew) ![](https://img.shields.io/github/last-commit/AQiu-2003/JLUBOOK-forNew?style=flat-square&label=) | JLUBOOK 附属站点 |
 | [Outlast-JLU-DLC](https://github.com/userElaina/Outlast-JLU-DLC) ![](https://img.shields.io/github/last-commit/userElaina/Outlast-JLU-DLC?style=flat-square&label=) | 本项目前身 |
+| [eeJLUer_guide](https://github.com/NySherSF/eeJLUer_guide) ![](https://img.shields.io/github/last-commit/NySherSF/eeJLUer_guide?style=flat-square&label=)| 电子学院本科生完全指南（其中部分内容也适用于其他学院本科生） |
 
 ---
 
