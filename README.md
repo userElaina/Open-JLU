@@ -127,6 +127,7 @@
 
 | 项目 | 简介 |
 | -- | -- |
+| [need-more-jlu](https://github.com/Shy-up/need-more-jlu) ![](https://img.shields.io/github/last-commit/Shy-up/need-more-jlu?style=flat-square&label=) | 吉大官网增强 Chrome/Edge 扩展：空教室速查仪表盘、OA 侧边阅读、常用站点导航 |
 | [JLUSchoolGIS](https://github.com/Baolvlv/JLUSchoolGIS) ![](https://img.shields.io/github/last-commit/Baolvlv/JLUSchoolGIS?style=flat-square&label=) | 校园地理信息系统 |
 | [JLUSmartCard](https://github.com/RigoLigoRLC/JLUSmartCard) ![](https://img.shields.io/github/last-commit/RigoLigoRLC/JLUSmartCard?style=flat-square&label=) | 校园卡 App |
 | [jlu_helper](https://github.com/276562578/jlu_helper) ![](https://img.shields.io/github/last-commit/276562578/jlu_helper?style=flat-square&label=) | 吉大助手, 整合信息服务 |
