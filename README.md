@@ -414,7 +414,7 @@
 | 课设 | [Course-design](https://github.com/byylkcsj/Course-design-of-compiling-principle) | 含实验报告 |
 
 <details>
-<summary><strong>SNL Compiler 实现 (14 个)</strong></summary>
+<summary><strong>SNL Compiler 实现 (16 个)</strong></summary>
 
 | 实现 | Link | 备注 |
 | -- | -- | -- |
@@ -433,6 +433,7 @@
 | SNL Compiler (c) | [SNLC](https://github.com/XuanchenLi/SNLC) |  |
 | SNL Compiler (d) | [SNLCompiler](https://github.com/liuweiky/SNLCompiler) |  |
 | SNL Compiler (f) | [SNLCompiler](https://github.com/ExTNT/snl_compiler) | rust实现，完成词法分析，语法分析（递归下降和LL1），语义分析和MIPS汇编代码生成 |
+| SNL Compiler (g) | [RNC](https://github.com/Mikura-Kyouka/RNC) | 支持 la32r 目标架构 |
 
 </details>
 
