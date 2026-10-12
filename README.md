@@ -80,6 +80,7 @@
 | [jlu-drcom-client-gtk](https://github.com/JonathanKang/jlu-drcom-client-gtk) | Python 3 / Gtk |
 | [dr-jlu-win32](https://github.com/code4lala/dr-jlu-win32) | C++ / Win32 |
 | [JLUNET](https://github.com/Maximilianxu/JLUNET) | Python 2.7 |
+| [jlu-drcom-ng](https://github.com/hZsFN/jlu-drcom-ng) | Python / Flet |
 
 #### 命令行 / 后台服务
 
