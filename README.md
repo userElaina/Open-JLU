@@ -205,6 +205,7 @@
 | 软院本科毕业论文 | [JLU-CSW-template](https://github.com/cheunglei/JLU-CSW-Thesis) | LaTeX, 2021, [参考](https://github.com/x86vk/JLU-CCST-Thesis) |
 | 软院本科毕业论文 | [JLU-SE-Thesis-template](https://github.com/OceanPresentChao/JLU-SE-Thesis-Template) | LaTeX, 2024 |
 | 本 / 硕 / 博学位论文 | [JLU_Dissertation](https://github.com/jiafeng5513/JLU_Dissertation) | LaTeX, 2021, [参考](https://gitea.com/CasperVector/pkuthss) |
+| 硕博学位论文 | [JLUThesis2023](https://github.com/myweihp/JLUThesis) | LaTeX, 2023 |
 | 信院本科毕业论文 | [JLU-Thesis](https://github.com/Sakura-shem/JLUThesis) | LaTeX, 2023, [参考](https://github.com/csarron/bsThesisWHU) |
 | 本科毕业论文 | [JLUThesis](https://github.com/geekifan/jluthesis) | LaTeX, 2023, [参考](https://github.com/Sakura-shem/JLUThesis) |
 | 毕业设计论文模板 | [universal-jlu-thesis](https://github.com/Islatri/universal-jlu-thesis) | Typst, 0.13.0, [Typst Universe](https://typst.app/universe/package/universal-jlu-thesis) |
@@ -214,6 +215,7 @@
 | 简介 | Link |
 | -- | -- |
 | 计院研究生课程资料 | [DocsForReview](https://github.com/jiafeng5513/DocsForReview) |
+| 人工智能专业本科生指北 | [JLU_AI_undergraduate](https://github.com/FuyuanZhou/JLU_AI_undergraduate) |
 | 计算机课件 | [courseware](https://github.com/open-courseware-cn/jlu-cs-courseware) |
 | 计算机课程资料 | [Major-Courses](https://github.com/Geraldxm/Major-Courses) |
 | 计算机思维导图 | [AwesomeStudyResource](https://github.com/liudongdong1/AwesomeStudyResource) |
@@ -223,6 +225,8 @@
 | 计算物理入门 | [Computational_Physics](https://github.com/JLUComPhy/JLU_Computational_Physics) |
 | NLP 相关数据集总结 | [NLP_DataSets](https://github.com/RidongHan/JLU_NLP_DataSets) |
 | 软件学院学习资料 | [JLU-Course](https://github.com/ryan6073/JLU-Course) |
+| 软件学院相关材料 | [jlu](https://github.com/lycatears/jlu) |
+| 软件工程课程作业 | [JLU](https://github.com/wanrenhuifu/JLU) |
 | 软件学院学习资料 | [JLU](https://github.com/ChenGeng0102/JLU) |
 | 计院速通课程资料 | [JLUCS_Speedrun](https://github.com/Xiaoc7r/JLUCS_Speedrun) |
 | 计算机专业课笔记合集 | [docs.ozy]([Introduction · docs.ozy](https://jlu005807.github.io/docs.ozy/)) |
