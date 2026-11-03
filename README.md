@@ -81,6 +81,7 @@
 | [dr-jlu-win32](https://github.com/code4lala/dr-jlu-win32) | C++ / Win32 |
 | [JLUNET](https://github.com/Maximilianxu/JLUNET) | Python 2.7 |
 | [jlu-drcom-ng](https://github.com/hZsFN/jlu-drcom-ng) | Python / Flet |
+| [drcom-rs](https://github.com/ZincGluxx/drcom-rs) | Rust / Slint（Windows / Linux） |
 
 #### 命令行 / 后台服务
 
@@ -94,6 +95,7 @@
 | [drcom-Jlu](https://github.com/H4ckF0rFun/drcom-Jlu) | C |  |
 | [dr-jlu-linux](https://github.com/CrackTC/dr-jlu-linux) | C++ | Linux |
 | [jlu-drcom-in-c](https://github.com/feix/jlu-drcom-in-c) | C | Linux |
+| [drcom-rs](https://github.com/ZincGluxx/drcom-rs) | Rust | 同一仓库附带 `drcom-cli`，Windows / Linux；Linux 版提供一行安装脚本 |
 
 <details>
 <summary><strong>路由器固件与协议研究</strong></summary>
